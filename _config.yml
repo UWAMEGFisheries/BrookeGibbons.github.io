@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Phil Bouchet"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Dr. Phil Bouchet"
 description              : &description "Postdotoral Fellow at the University of WA"
@@ -29,7 +29,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -81,7 +81,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Postdoctoral Fellow within the Centre for Marine Futures at the University of Western Australia"
   location         : "Perth, WA"
-  employer         : 
+  employer         : "http://www.meeuwig.org"
   googlescholar    : "https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
   email            : "phil.bouchet@uwa.edu.au"
   uri              : 
