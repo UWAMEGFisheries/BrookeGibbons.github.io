@@ -8,7 +8,3 @@ venue: 'Biological Reviews'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract'
 citation: 'Bouchet PJ, Meeuwig JJ, Salgado Kent C, Letessier T, Jenner C. 2015. Topographic determinants of mobile predator hotspots: Current knowledge and future directions. Biological Reviews, 90(3): 699-728.'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
