@@ -81,10 +81,10 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Postdoctoral Fellow within the Centre for Marine Futures at the University of Western Australia"
   location         : "Perth, WA"
-  employer         : "http://www.meeuwig.org"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
   email            : "phil.bouchet@uwa.edu.au"
-  uri              : 
+  uri              : "http://www.meeuwig.org/current-members/phil-bouchet"
   bitbucket        :
   codepen          :
   dribbble         :
