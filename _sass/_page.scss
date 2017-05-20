@@ -37,6 +37,7 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -58,6 +59,7 @@
 
   p, li, dl {
     font-size: 1em;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 
   /* paragraph indents */
