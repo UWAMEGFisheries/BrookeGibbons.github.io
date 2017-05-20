@@ -6,9 +6,10 @@ excerpt: 'We present an updated estimate of population size for Western Australi
 date: 2012-08-14
 venue: 'Journal of Cetacean Research and Management'
 paperurl: 'https://archive.iwc.int/pages/search.php?search=%21collection15&k='
-citation: 'Salgado Kent C, Jenner KCS, Jenner M-N, <strong>Bouchet P</strong>, Rexstad E. 2012. Southern Hemisphere breeding stock “D” humpback whale population estimates from North West Cape, Western Australia. <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.<br>
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Salgado-2012-SouthernHemisphere.pdf">Download PDF</a>'
+citation: 'Salgado Kent C, Jenner KCS, Jenner M-N, <strong>Bouchet P</strong>, Rexstad E. 2012. Southern Hemisphere breeding stock “D” humpback whale population estimates from North West Cape, Western Australia. <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.'
 ---
+
+<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Salgado-2012-SouthernHemisphere.pdf">Download PDF</a>
 
 <strong>Abstract</strong>
 
