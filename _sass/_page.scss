@@ -16,6 +16,11 @@
   }
 }
 
+    .page {
+        padding-right: 4.23729%;
+    }
+
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
