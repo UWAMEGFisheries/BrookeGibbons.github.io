@@ -26,7 +26,7 @@
         <li><i class="fa fa-map-o" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "phil.bouchet@uwa.edu.au" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ phil.bouchet@uwa.edu.au }}</a></li>
       {% endif %}
       {% if author.phone %}
         <li><i class="fa fa-phone" aria-hidden="true"></i> {{ author.phone }}</li>
@@ -38,7 +38,7 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fa fa-globe" aria-hidden="true"></i> {{ meeuwig.org }}</a></li>
+        <li><a href="{{ author.uri }}"><i class="fa fa-cloud" aria-hidden="true"></i> {{ Website }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
