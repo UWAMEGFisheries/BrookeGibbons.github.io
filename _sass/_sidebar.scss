@@ -35,7 +35,8 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    /*font-family: $sans-serif;*/
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     font-size: $type-size-6;
     line-height: 1.5;
   }
