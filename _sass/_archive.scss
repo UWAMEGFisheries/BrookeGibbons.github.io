@@ -30,6 +30,7 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 }
 
@@ -39,6 +40,7 @@
 
   a + a {
     opacity: 0.5;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 }
 
@@ -52,6 +54,7 @@
   }
 }
 
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
@@ -59,7 +62,7 @@
 
   & + p {
     text-indent: 0;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
   }
 }
 
@@ -78,6 +81,7 @@
 
   .archive__item-title {
     text-decoration: none;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 }
 
@@ -119,6 +123,7 @@
   .archive__item-title {
     margin-top: 0.5em;
     font-size: $type-size-5;
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 
   .archive__item-excerpt {
