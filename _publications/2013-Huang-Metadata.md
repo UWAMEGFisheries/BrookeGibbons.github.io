@@ -1,6 +1,6 @@
 ---
 title: "Australian marine environmental data: Descriptions and metadata."
-collection: reports
+collection: publications
 permalink: /publications/2013-Letessier-Pelagic
 excerpt: 'This report provides detailed descriptions (metadata) of 45 Australian marine environmental datasets that have been generated and collated by the Marine Biodiversity Hub.'
 date: 2013-12-15  
