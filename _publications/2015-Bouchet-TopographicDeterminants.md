@@ -3,7 +3,7 @@ title: "Topographic determinants of mobile predator hotspots: Current knowledge 
 collection: publications
 permalink: /publications/2015-Bouchet-TopographicDeterminants
 excerpt: 'We review the ecological literature on predator-topography relationships and demonstrate that numerous geomorphic variables have largely been overlooked in favour of single basic metrics that do not, on their own, fully capture the complexity of natural landscapes. We propose a suite of 7–8 complementary metrics which best explain variation in topographic patterns across a bathymetric grid of the west Australian seafloor.'
-date: 2015-08-10
+date: 2015-08-15
 venue: 'Biological Reviews'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract'
 citation: '<strong>Bouchet PJ,</strong> Meeuwig JJ, Salgado Kent C, Letessier T, Jenner C. 2015. Topographic determinants of mobile predator hotspots: Current knowledge and future directions. <em>Biological Reviews</em>, 90(3): 699-728.'
