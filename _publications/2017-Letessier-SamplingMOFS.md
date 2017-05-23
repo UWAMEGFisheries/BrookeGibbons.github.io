@@ -2,7 +2,7 @@
 title: "Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning."
 collection: publications
 permalink: /publications/2017-Letessier-SamplingMOFS
-excerpt: ''
+excerpt: 'We review the literature surrounding sampling methods for mobile pelagic fishes and sharks and offer perspectives on future avenues of research in the context of global marine predator declines and ithe expansion of offshore marine protected areas.'
 date: 2017-05-14
 venue: 'Biological Reviews'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full'
