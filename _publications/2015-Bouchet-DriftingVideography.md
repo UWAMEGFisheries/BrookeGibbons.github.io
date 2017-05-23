@@ -3,7 +3,7 @@ title: "Drifting baited stereo-videography: A novel sampling tool for surveying 
 collection: publications
 permalink: /publications/2015-Bouchet-BaitedVideography
 excerpt: 'We present a novel system of drifting pelagic baited stereo-video cameras that operate in deep-water, topographically complex environments typically considered inaccessible for sampling.'
-date: 2015-08-12
+date: 2015-12-20
 venue: 'Ecosphere'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1890/ES14-00380.1/abstract'
 citation: '<strong>Bouchet PJ,</strong> Meeuwig JJ. 2015. Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves. <em>Ecosphere</em>, 6(8): art137.'
