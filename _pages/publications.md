@@ -15,7 +15,7 @@ author_profile: true
   {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
   <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
 
-{% elseif forloop.index >1 %}
+{% elsif forloop.index >1 %}
 
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 
