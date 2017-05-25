@@ -5,12 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
 
 
 {% if forloop.index ==1 %}
+
 
   {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
   <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
