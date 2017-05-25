@@ -9,17 +9,25 @@ author_profile: true
 
 {% for post in site.publications reversed %}
 
-{% if forloop.first == true %}
-{% capture yearindex %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+{% if forloop.index ==1 %}
+
+  {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+  <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
+
+{% elseif forloop.index >1 %}
+
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+  {% if year==firstyear %}
+  {% else %}
+
+  {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+  <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
+  {% endif %}
+
 {% endif %}
 
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
 
-{% if year == yearindex %}
-{% else %}
-
-  <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-  {% endif %}
-  
   {% include archive-single.html %}
 {% endfor %}
