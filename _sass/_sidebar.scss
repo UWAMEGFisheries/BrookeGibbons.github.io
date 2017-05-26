@@ -19,6 +19,21 @@
     &:hover {
       opacity: 1;
     }
+
+
+
+    width: 20%;
+
+
+
+
+
+
+
+
+
+
+
   }
 
   @include breakpoint($x-large) {
@@ -71,6 +86,10 @@
   vertical-align: top;
   width: 36px;
   height: 36px;
+
+  &:hover {
+    opacity: 0.75;
+  }
 
   @include breakpoint($large) {
     display: block;
