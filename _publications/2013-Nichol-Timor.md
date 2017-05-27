@@ -1,5 +1,5 @@
 ---
-title: " Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) Biodiversity Survey: GA0339/SOL5650 – Post Survey Report"
+title: "Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) Biodiversity Survey: GA0339/SOL5650 – Post Survey Report"
 collection: reports
 permalink: /publications/2013-Nichol-Timor
 excerpt: 'This report provides details of activities undertaken by the Australian Institute of Marine Science (AIMS), Geoscience Australia, the University of Western Australia and the Museum and Art Gallery of the Northern Territory during a marine biodiversity survey to the Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) in 2012.'
