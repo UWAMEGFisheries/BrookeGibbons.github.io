@@ -10,7 +10,6 @@ citation: 'Letessier T, <strong>Bouchet P,</strong> Reisser J, Meeuwig J. 2015. 
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://link.springer.com/article/10.1007/s12526-014-0287-3"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2015-BaitedVideography.pdf">  Download (PDF)</a>
 
-<br>
 <img src='/images/Letessier2015-Turtle-hero.jpg'>
 <br>
 

@@ -10,7 +10,6 @@ citation: '<strong>Bouchet PJ,</strong> Meeuwig JJ, Salgado Kent C, Letessier T,
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Bouchet-2015-TopographicDeterminants.pdf">  Download (PDF)</a>
 
-<br>
 <img src='/images/Bouchet2015-Topographic-hero.jpg'>
 <br>
 
