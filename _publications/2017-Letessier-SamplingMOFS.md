@@ -10,7 +10,7 @@ citation: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ. 2017. Samplin
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2017-SamplingFishes.pdf">  Download (PDF)</a>
 
-<img src='/images/Letessier2017-hero.jpg'>
+<img src='/images/Letessier2017-Sampling-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>
