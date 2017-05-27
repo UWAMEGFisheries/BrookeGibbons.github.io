@@ -1,5 +1,5 @@
 ---
-title: "Southern Hemisphere breeding stock “D” humpback whale population estimates from North West Cape, Western Australia."
+title: "Southern Hemisphere breeding stock “D” humpback whale population estimates from North West Cape, Western Australia"
 collection: publications
 permalink: /publications/2012-Salgado-Humpbacks
 excerpt: 'We present an updated estimate of population size for Western Australian (southern hemisphere stock D) humpback whales (<em>Megaptera novaeangliae</em>) based on an analysis of aerial survey counts.'

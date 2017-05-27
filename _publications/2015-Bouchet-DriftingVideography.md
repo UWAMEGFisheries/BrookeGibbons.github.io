@@ -1,5 +1,5 @@
 ---
-title: "Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves."
+title: "Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves"
 collection: publications
 permalink: /publications/2015-Bouchet-BaitedVideography
 excerpt: 'We present a novel system of drifting pelagic baited stereo-video cameras that operate in deep-water, topographically complex environments typically considered inaccessible for sampling.'

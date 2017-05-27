@@ -1,5 +1,5 @@
 ---
-title: "Topographic determinants of mobile predator hotspots: Current knowledge and future directions."
+title: "Topographic determinants of mobile predator hotspots: Current knowledge and future directions"
 collection: publications
 permalink: /publications/2015-Bouchet-TopographicDeterminants
 excerpt: 'We review the ecological literature on predator-topography relationships and demonstrate that numerous geomorphic variables have largely been overlooked in favour of single basic metrics that do not, on their own, fully capture the complexity of natural landscapes. We propose a suite of 7–8 complementary metrics which best explain variation in topographic patterns across a bathymetric grid of the west Australian seafloor.'

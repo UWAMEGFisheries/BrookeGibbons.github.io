@@ -1,5 +1,5 @@
 ---
-title: "Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment."
+title: "Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment"
 collection: publications
 permalink: /publications/2013-Letessier-Pelagic
 excerpt: 'We present a novel method for sampling oceanic wildlife - pelagic stereo-BRUVS (baited remote underwater video systems) - and describe the results of field tests conducted in Shark Bay, Western Australia.'

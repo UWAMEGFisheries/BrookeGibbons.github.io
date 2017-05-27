@@ -1,5 +1,5 @@
 ---
-title: "Key research questions of global importance for cetacean conservation."
+title: "Key research questions of global importance for cetacean conservation"
 collection: publications
 permalink: /publications/2015-Parsons-KeyQuestions
 excerpt: 'We describe the most critical knowledge gaps to fill in order to advance the field of cetacean conservation and assist research prioritisation.'
