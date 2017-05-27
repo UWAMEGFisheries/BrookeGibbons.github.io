@@ -3,7 +3,7 @@ title: "Key research questions of global importance for cetacean conservation."
 collection: publications
 permalink: /publications/2015-Parsons-KeyQuestions
 excerpt: 'We describe the most critical knowledge gaps to fill in order to advance the field of cetacean conservation and assist research prioritisation.'
-date: 2015-08-16
+date: 2015-08-11
 venue: 'Endangered Species Research'
 paperurl: 'http://www.int-res.com/abstracts/esr/v27/n2/p113-118/'
 citation: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</strong> Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. Key research questions of global importance for cetacean conservation. <em>Endangered Species Research</em>, 27(2): 113-118.'
