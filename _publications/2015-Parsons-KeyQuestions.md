@@ -10,6 +10,9 @@ citation: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.int-res.com/abstracts/esr/v27/n2/p113-118/"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Parsons-2015-KeyResearch.pdf">  Download (PDF)</a>
 
+<img src='/images/Parsons2015-KeyQuestions-hero.jpg'>
+<br>
+
 <strong>Abstract</strong>
 
 Limited resources and increasing environmental concerns have prompted calls to
