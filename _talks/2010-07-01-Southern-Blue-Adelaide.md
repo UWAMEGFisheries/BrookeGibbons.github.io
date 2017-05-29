@@ -5,5 +5,6 @@ type: "Talk"
 permalink: #
 venue: "Southern hemisphere blue whale workshop"
 date: 2010-07-12
-location: "University of Adelaide, South Australia"
+location: "University of Adelaide, Adelaide (Australia)"
+slides:
 ---
