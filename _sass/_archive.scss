@@ -40,13 +40,13 @@ width:78% !important;
 
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.6em;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0.65em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
 
   a + a {
@@ -142,6 +142,7 @@ width:78% !important;
 
   .page__meta {
     margin: 0 0 4px;
+    margin-bottom: 0.3em;
   }
 }
 
