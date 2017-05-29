@@ -93,7 +93,8 @@ width:78% !important;
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  /*font-size: $type-size-6;*/
+  font-size: 1em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
 
   & + p {
@@ -185,7 +186,8 @@ width:78% !important;
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
+      /*font-size: $type-size-6;*/
+      font-size: 1em;
       font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     }
   }
