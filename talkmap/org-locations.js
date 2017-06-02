@@ -5,18 +5,33 @@ var addressPoints = [
     -52.7126
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "University of WA - Perth, Australia",
+    -31.9812,
+    115.8199
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "University of Otago - Dunedin, New Zealand",
+    -45.8647,
+    170.5144
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Curtin University - Perth, Australia",
+    -32.0010,
+    115.9240
+  ],
+  [
+    "Natural History Museum - Sydney, Australia",
+    -33.8743,
+    151.2132
+  ],
+  [
+    "Murdoch University - Perth, Australia",
+    -32.06652,
+    115.83508
+  ],
+  [
+    "University of Adelaide - Adelaide, Australia",
+    -34.9206,
+    138.6062
   ]
 ];
