@@ -1,10 +1,9 @@
 ---
-title: "Margaret Middleton Fund Award for endangered Australian native vertebrate animals – Australian Academy of Science (AAS)"
+title: "Seed grant"
 collection: grants
 type: "Grant"
-permalink: #
-venue: "[AUD $15,000]"
-date: 2013-07-12
+amount: "AUD $15,000"
+donor: "Margaret Middleton Fund Award for endangered Australian native vertebrate animals – Australian Academy of Science (AAS)"
+date: 2013-01-12
 location: "Characterising the diversity of mobile ocean predators in a biological hotspot and proposed marine reserve, the Perth Canyon (32°S, 115°E)"
-slides:
 ---
