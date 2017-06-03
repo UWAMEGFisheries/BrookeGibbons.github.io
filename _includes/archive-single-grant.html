@@ -42,15 +42,12 @@
     <p><i class="fa fa-university" aria-hidden="true"></i><span class="donor">&nbsp;{{ post.donor }}</span> </p>
     {% endif %}
 
-    {% if post.amount and post.date %}
-
-      <p><i class="fa fa-usd" aria-hidden="true"></i> <span class="journal">&nbsp;{{ post.amount }}</span> </p>
-    {% elsif post.date %}
-      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% if post.amount %}
+    <p><i class="fa fa-usd" aria-hidden="true"></i> <span class="journal">&nbsp;{{ post.amount }}</span> </p>
     {% endif %}
 
-    {% if post.excerpt %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% if post.project %}
+    <p class="grant_project" itemprop="description">{{ post.project }}</p>
     {% endif %}
 
 
