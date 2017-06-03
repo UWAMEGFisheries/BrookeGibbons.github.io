@@ -39,11 +39,11 @@
     {% endif %}
 
     {% if post.amount %}
-    <p><i class="fa fa-usd" aria-hidden="true"></i> <span class="journal">&nbsp;{{ post.amount }}</span> </p>
+    <p class="amount_meta"><i class="fa fa-usd" aria-hidden="true"></i> <span class="grantamount">&nbsp;{{ post.amount }}</span> </p>
     {% endif %}
 
     {% if post.donor %}
-    <p><i class="fa fa-bookmark-o" aria-hidden="true"></i><span class="donor">&nbsp;{{ post.donor }}</span> </p>
+    <p class="donor_meta"><i class="fa fa-bookmark-o" aria-hidden="true"></i><span class="donor">&nbsp;{{ post.donor }}</span> </p>
     {% endif %}
 
     {% if post.project %}
