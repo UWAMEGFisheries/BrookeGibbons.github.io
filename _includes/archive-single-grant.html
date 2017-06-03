@@ -38,6 +38,10 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% if post.donor%}
+    <p class="grant_donor"> <i class="fa fa-handshake-o" aria-hidden="true"></i>{post.donor}</p>
+    {% endif %}
+
     {% if post.amount and post.date %}
 
       <p><i class="fa fa-usd" aria-hidden="true"></i> <span class="journal">&nbsp;{{ post.amount }}</span> </p>
