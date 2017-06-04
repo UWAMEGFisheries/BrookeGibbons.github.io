@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 class="cvsection"> Education</h1>
+<h2 class="cvsection"> Education</h2>
 
-* Ph.D in Marine Ecology, University of Western Australia, 2011-2015
-* M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
-* Marine Mammal Management course, Nova Southeastern University, 2008
-* M.Sc in Marine and Coastal Sciences, University of Western Brittany, 2006-2007
-* B.Sc in Zoology, University of Western Brittany, 2003-2006
+Ph.D in Marine Ecology, University of Western Australia, 2011-2015
+M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
+Marine Mammal Management course, Nova Southeastern University, 2008
+M.Sc in Marine and Coastal Sciences, University of Western Brittany, 2006-2007
+B.Sc in Zoology, University of Western Brittany, 2003-2006
 
-Research experience
------
-<a class="cvyear"> 2012</a>
+<h2 class="cvsection"> Research experience</h2>
 
-Field scientist
-Oceanic Shoals Marine Biodiversity Survey, Timor Sea.
+<h1 class="cvyear"> 2012</h1>
+
+Field scientist<br>
+Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
 National Environmental Research Program (NERP) Marine Biodiversity Hub [Australia]
 
 Skills
