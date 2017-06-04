@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a class="cvsection"> Education</a>
+<h1 class="cvsection"> Education</h1>
 
 * Ph.D in Marine Ecology, University of Western Australia, 2011-2015
 * M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
