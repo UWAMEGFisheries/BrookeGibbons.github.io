@@ -21,15 +21,15 @@ redirect_from:
 
 <h3 class="cvyear"> 2017</h3>
 
-<span class="cvrole">Research scientist</span>
-Pelagic videography survey of the Ascension Island waters EEZ.
-Ascension Island Government.
+<p class="cvrole">Research scientist</p>
+Pelagic videography survey of the Ascension Island waters EEZ.<br>
+ -- Ascension Island Government
 
 <h3 class="cvyear"> 2014</h3>
 
-<span class="cvrole">Research scientist</span>
-Pelagic videography survey of Rapa Iti, French polynesia
-National Geographic Society Pristine Seas Programme
+<p class="cvrole">Research scientist</p>
+Pelagic videography survey of Rapa Iti, French polynesia<br>
+ -- National Geographic Society Pristine Seas Programme
 
 <h3 class="cvyear"> 2012</h3>
 
