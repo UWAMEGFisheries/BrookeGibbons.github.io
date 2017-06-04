@@ -43,11 +43,11 @@
     {% endif %}
 
     {% if post.donor %}
-    <p class="donor_meta"><i class="fa fa-user-o" aria-hidden="true"></i>&nbsp;<span class="donor">{{ post.donor }}</span> </p>
+    <p class="donor_meta"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>&nbsp;<span class="donor">{{ post.donor }}</span> </p>
     {% endif %}
 
     {% if post.link %}
-    <a class="grant_link" href="{{ base_path }}{{ post.link }}" rel="permalink"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp; {{ post.link }}</a>
+    <a class="grant_link" href="{{ post.link }}" target="_blank" rel="permalink"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp; {{ post.link }}</a>
     {% endif %}
 
 
