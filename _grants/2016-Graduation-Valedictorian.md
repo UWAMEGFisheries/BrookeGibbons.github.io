@@ -1,10 +1,8 @@
 ---
-title: "Graduation Valedictorian"
+title: "Valedictorian"
 collection: grants
 type: "Grant"
-permalink: #
-venue: "University of Western Australia"
+donor: "University of Western Australia"
 date: 2016-07-12
-location: "University of Western Australia"
-slides:
+project: "March 2016 graduation, University of Western Australia"
 ---
