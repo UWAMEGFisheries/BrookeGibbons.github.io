@@ -11,6 +11,25 @@ redirect_from:
 
 <h2 class="cvsection"> Education</h2>
 
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 * Ph.D in Marine Ecology, University of Western Australia <span class="cvyear">2011-2015</span>
 * M.Res in Marine Mammal Science, University of St Andrews <span class="cvyear">2008-2009</span>
 * Marine Mammal Management course, Nova Southeastern University <span class="cvyear">2008</span>
@@ -44,7 +63,7 @@ Rowley Shoals reef shark tagging programme<br>
 <h3 class="cvyear"> 2010-2012</h3>
 
 <p class="cvrole">Assistant field coordinator</p>
-Theodolite tracking of cetaceans in Geographe Bay, W Australia
+Theodolite tracking of cetaceans in Geographe Bay, W Australia<br>
 <span class="cvwho">Southwest Whale Ecology Study (SouWEST)</span>
 
 <h3 class="cvyear"> 2007-2011</h3>
@@ -56,24 +75,16 @@ Pygmy blue whale (<em>Balaenoptera musculus brevicauda</em>) photo-identificatio
 
 <h3 class="cvyear"> 2006</h3>
 
-Research assistant
-Impact of vessel traffic on the haul-out behaviour of grey seals (Halichoerus grypus) in the Molène Archipelago.
-Marine Mammal Research Laboratory of Oceanopolis [France]
+<p class="cvrole">Research assistant</p>
+Impact of vessel traffic on the haul-out behaviour of grey seals (<em>Halichoerus grypus</em>) in the Molène Archipelago
+<span class="cvwho">Marine Mammal Research Laboratory of Oceanopolis</span>
 
 <h3 class="cvyear"> 2004</h3>
 
-Field assistant
-Blue whale (Balaenoptera musculus) habitat use and feeding strategies.
-Mingan Island Cetacean Study (MICS) [Quebec]
+<p class="cvrole">Field assistant</p>
+Blue whale (<em>Balaenoptera musculus</em>) habitat use and feeding strategies<br>
+<span class="cvwho">Mingan Island Cetacean Study (MICS)</span>
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
