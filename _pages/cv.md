@@ -21,13 +21,20 @@ redirect_from:
     <td>2008-2009</td>
     <td>M.Res in Marine Mammal Science, University of St Andrews</td>
   </tr>
+  <tr>
+    <td>2008</td>
+    <td>Marine Mammal Management course, Nova Southeastern University</td>
+  </tr>
+  <tr>
+    <td>2006-2007</td>
+    <td>M.Sc in Marine and Coastal Sciences, University of Western Brittany</td>
+  </tr>
+  <tr>
+    <td>2003-2006</td>
+    <td>B.Sc in Zoology, University of Western Brittany</td>
+  </tr>
 </table>
 
-* Ph.D in Marine Ecology, University of Western Australia <span class="cvyear">2011-2015</span>
-* M.Res in Marine Mammal Science, University of St Andrews <span class="cvyear">2008-2009</span>
-* Marine Mammal Management course, Nova Southeastern University <span class="cvyear">2008</span>
-* M.Sc in Marine and Coastal Sciences, University of Western Brittany <span class="cvyear">2006-2007</span>
-* B.Sc in Zoology, University of Western Brittany, 2003-2006 <span class="cvyear">2003-2006</span>
 
 <h2 class="cvsection"> Field experience</h2>
 
