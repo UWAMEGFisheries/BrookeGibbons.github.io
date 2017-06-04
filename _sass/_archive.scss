@@ -136,6 +136,21 @@ a.grant_link {
     color: #2a94ba;
 }
 
+table {
+    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
+    border: 0px solid #bdc1c4;
+}
+
+td {
+    padding: 0.5em;
+    border-bottom: 10px solid #ffffff;
+    border-right: 1px solid #bdc1c4;
+}
+
+td {
+    width: 12%;
+}
+
 .cvsection {
     margin: 1.414em 0 0;
     padding-bottom: 0.5em;
