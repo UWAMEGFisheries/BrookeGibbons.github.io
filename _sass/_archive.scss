@@ -145,11 +145,21 @@ td {
     padding: 0.5em;
     border-bottom: 10px solid #ffffff;
     border-right: 1px solid #bdc1c4;
+    padding-top: 0.1em;
+    padding-bottom:0.1em;
 }
 
 td.left {
     width: 12%;
     border-right: 1px solid #bdc1c4;
+    color: #a9adaf;
+    padding-right: 0em;
+}
+
+
+td.right {
+    border-right: 0px solid #bdc1c4;
+    padding-left: 1.5em;
 }
 
 
