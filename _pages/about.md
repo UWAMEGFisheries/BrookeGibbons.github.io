@@ -12,6 +12,16 @@ I am a French marine ecologist based in Perth, Western Australia.
 I am currently a Postdoctoral Fellow within the Centre for Marine Futures at the UWA Oceans Institute, focusing on top predator ecology. For my PhD, I investigated ‘hotspots’ (aggregations) of mobile megafauna (migratory fishes, sharks, turtles & marine mammals) and how these may relate to prominent features of the ocean floor such as offshore seamounts, submarine canyons, or oceanic bank and shoal systems.
 
 I am passionate about statistical modelling, GIS mapping and eco-informatics and how to apply these tools to answer biological questions, particularly in support of large-scale conservation planning in the pelagic ocean.
+------
+
+I’m a David H. Smith Conservation Research Fellow at the University of Washington and Northwest Fisheries Science Center in Seattle, Washington. I believe that the thoughtful visual display of data and statistical models can powerfully inform conservation ecology and help us understand the ecological risks associated with human activities.
+
+In my Ph.D. thesis at Simon Fraser University, I examined the role of variability and extreme events in population ecology. In my M.Sc. thesis at Dalhousie University, I explored patterns of expansion and serial exploitation in global invertebrate fisheries. I also work on extinction risk: I recently co-led a study published in Science that used 23 million years of fossil data to ask what extinction risk in today’s oceans would look like without humans.
+
+My research broadly spans the field of quantitative ecology across taxa (e.g. sea cucumbers, reef fish, salmon, moths, grizzly bears), ecosystems (marine, freshwater, terrestrial), methods (empirical, simulation, theoretical), spatial scale (regional, national, global), and time periods (modern, historical, paleontological).
+
+I teach workshops on data visualization and manipulation for scientists. I also develop a number of R packages. With collaborators, I’m developing packages to run fisheries stock assessment simulations with Stock Synthesis software (ss3sim), measure ecological portfolio effects (ecofolio), and simulate salmon metapopulation portfolios (metafolio).
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
