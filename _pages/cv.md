@@ -11,7 +11,7 @@ redirect_from:
 
 <h2 class="cvsection"> Education</h2>
 
-* <span class="cvyear">2011-2015</span> Ph.D in Marine Ecology, University of Western Australia
+* <span class="cvyear">2011-2015</span>   Ph.D in Marine Ecology, University of Western Australia
 * M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
 * Marine Mammal Management course, Nova Southeastern University, 2008
 * M.Sc in Marine and Coastal Sciences, University of Western Brittany, 2006-2007
