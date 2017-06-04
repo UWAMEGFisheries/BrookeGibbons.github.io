@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
+<a class="cvsection"> Education</a>
+
 * Ph.D in Marine Ecology, University of Western Australia, 2011-2015
 * M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
 * Marine Mammal Management course, Nova Southeastern University, 2008
@@ -36,7 +36,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
