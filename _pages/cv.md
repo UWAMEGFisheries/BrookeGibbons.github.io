@@ -11,23 +11,25 @@ redirect_from:
 
 <h2 class="cvsection"> Education</h2>
 
-* Ph.D in Marine Ecology, University of Western Australia, <span class="cvyear">2011-2015</span>
-* <span class="cvyear">2008-2009</span>&nbsp;&nbsp;M.Res in Marine Mammal Science, University of St Andrews
-* <span class="cvyear">2008</span>&nbsp;&nbsp;Marine Mammal Management course, Nova Southeastern University
-* <span class="cvyear">2006-2007</span>&nbsp;&nbsp;M.Sc in Marine and Coastal Sciences, University of Western Brittany
-* <span class="cvyear">2003-2006</span>&nbsp;&nbsp;B.Sc in Zoology, University of Western Brittany, 2003-2006
+* Ph.D in Marine Ecology, University of Western Australia <span class="cvyear">2011-2015</span>
+* M.Res in Marine Mammal Science, University of St Andrews <span class="cvyear">2008-2009</span>
+* Marine Mammal Management course, Nova Southeastern University <span class="cvyear">2008</span>
+* M.Sc in Marine and Coastal Sciences, University of Western Brittany <span class="cvyear">2006-2007</span>
+* B.Sc in Zoology, University of Western Brittany, 2003-2006 <span class="cvyear">2003-2006</span>
 
 <h2 class="cvsection"> Field experience</h2>
 
 <h3 class="cvyear"> 2017</h3>
 
-Field scientist
-Field expedition to Ascension Island
+<span class="cvrole">Research scientist</span>
+Pelagic videography survey of the Ascension Island waters EEZ.
+Ascension Island Government.
 
 <h3 class="cvyear"> 2014</h3>
 
-Field scientist
-National Geographic Society Pristine Seas expedition to Rapa Iti, French polynesia
+<span class="cvrole">Research scientist</span>
+Pelagic videography survey of Rapa Iti, French polynesia
+National Geographic Society Pristine Seas Programme
 
 <h3 class="cvyear"> 2012</h3>
 
