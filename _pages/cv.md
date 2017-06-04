@@ -15,23 +15,23 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2011-2015</td>
-    <td>Ph.D in Marine Ecology, University of Western Australia</td>
+    <td class="right">Ph.D in Marine Ecology, University of Western Australia</td>
   </tr>
   <tr>
     <td class="left">2008-2009</td>
-    <td>M.Res in Marine Mammal Science, University of St Andrews</td>
+    <td class="right">M.Res in Marine Mammal Science, University of St Andrews</td>
   </tr>
   <tr>
     <td class="left">2008</td>
-    <td>Marine Mammal Management course, Nova Southeastern University</td>
+    <td class="right">Marine Mammal Management course, Nova Southeastern University</td>
   </tr>
   <tr>
     <td class="left">2006-2007</td>
-    <td>M.Sc in Marine and Coastal Sciences, University of Western Brittany</td>
+    <td class="right">M.Sc in Marine and Coastal Sciences, University of Western Brittany</td>
   </tr>
   <tr>
     <td class="left">2003-2006</td>
-    <td>B.Sc in Zoology, University of Western Brittany</td>
+    <td class="right">B.Sc in Zoology, University of Western Brittany</td>
   </tr>
 </table>
 
