@@ -33,26 +33,26 @@ Pelagic videography survey of Rapa Iti, French polynesia<br>
 
 <h3 class="cvyear"> 2012</h3>
 
-Field scientist<br>
+<p class="cvrole">Research scientist</p>
 Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
-National Environmental Research Program (NERP) Marine Biodiversity Hub [Australia]
+<span class="cvwho">National Environmental Research Program (NERP) Marine Biodiversity Hub</span>
 
-Field assistant
-Rowley Shoals reef shark tagging programme.
-Australian Institute of Marine Science (AIMS) [Australia]
+<p class="cvrole">Field assistant</p>
+Rowley Shoals reef shark tagging programme<br>
+<span class="cvwho">Australian Institute of Marine Science (AIMS)</span>
 
 <h3 class="cvyear"> 2010-2012</h3>
 
-Assistant field coordinator
-Theodolite tracking of cetaceans in Geographe Bay, W Australia.
-Southwest Whale Ecology Study (SouWEST) [Australia]
+<p class="cvrole">Assistant field coordinator</p>
+Theodolite tracking of cetaceans in Geographe Bay, W Australia
+<span class="cvwho">Southwest Whale Ecology Study (SouWEST)</span>
 
 <h3 class="cvyear"> 2007-2011</h3>
 
-Research and field assistant
-Humpback whale (Megaptera novaeangliae) abundance estimation and population modelling.
-Pygmy blue whale (Balaenoptera musculus brevicauda) photo-identification and satellite tracking.
-Centre for Whale Research (WA) Inc. (CWR) [Australia]
+<p class="cvrole">Research and field assistant</p>
+Humpback whale (<em>Megaptera novaeangliae</em>) abundance estimation and population modelling<br>
+Pygmy blue whale (<em>Balaenoptera musculus brevicauda</em>) photo-identification and satellite tracking<br>
+<span class="cvwho">Centre for Whale Research (WA) Inc. (CWR)</span>
 
 <h3 class="cvyear"> 2006</h3>
 
