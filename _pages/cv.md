@@ -11,7 +11,7 @@ redirect_from:
 
 <h2 class="cvsection"> Education</h2>
 
-Ph.D in Marine Ecology, University of Western Australia, 2011-2015
+<h3 class="cvyear"> 2011-2015</h3> Ph.D in Marine Ecology, University of Western Australia
 M.Res in Marine Mammal Science, University of St Andrews, 2008-2009
 Marine Mammal Management course, Nova Southeastern University, 2008
 M.Sc in Marine and Coastal Sciences, University of Western Brittany, 2006-2007
@@ -19,17 +19,17 @@ B.Sc in Zoology, University of Western Brittany, 2003-2006
 
 <h2 class="cvsection"> Field experience</h2>
 
-<h1 class="cvyear"> 2017</h1>
+<h2 class="cvyear"> 2017</h2>
 
 Field scientist
 Field expedition to Ascension Island
 
-<h1 class="cvyear"> 2014</h1>
+<h2 class="cvyear"> 2014</h2>
 
 Field scientist
 National Geographic Society Pristine Seas expedition to Rapa Iti, French polynesia
 
-<h1 class="cvyear"> 2012</h1>
+<h2 class="cvyear"> 2012</h2>
 
 Field scientist<br>
 Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
@@ -39,26 +39,26 @@ Field assistant
 Rowley Shoals reef shark tagging programme.
 Australian Institute of Marine Science (AIMS) [Australia]
 
-<h1 class="cvyear"> 2010-2012</h1>
+<h2 class="cvyear"> 2010-2012</h2>
 
 Assistant field coordinator
 Theodolite tracking of cetaceans in Geographe Bay, W Australia.
 Southwest Whale Ecology Study (SouWEST) [Australia]
 
-<h1 class="cvyear"> 2007-2011</h1>
+<h2 class="cvyear"> 2007-2011</h2>
 
 Research and field assistant
 Humpback whale (Megaptera novaeangliae) abundance estimation and population modelling.
 Pygmy blue whale (Balaenoptera musculus brevicauda) photo-identification and satellite tracking.
 Centre for Whale Research (WA) Inc. (CWR) [Australia]
 
-<h1 class="cvyear"> 2006</h1>
+<h2 class="cvyear"> 2006</h2>
 
 Research assistant
 Impact of vessel traffic on the haul-out behaviour of grey seals (Halichoerus grypus) in the Molène Archipelago.
 Marine Mammal Research Laboratory of Oceanopolis [France]
 
-<h1 class="cvyear"> 2004</h1>
+<h2 class="cvyear"> 2004</h2>
 
 Field assistant
 Blue whale (Balaenoptera musculus) habitat use and feeding strategies.
