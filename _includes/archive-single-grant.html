@@ -51,8 +51,7 @@
     {% endif %}
 
     {% if post.link %}
-    <a href="{{ base_path }}{{ post.link }}" rel="permalink">{{ post.link }}</a>
-    <p class="grant_link" itemprop="description"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp;{{ post.link }}</p>
+    <a class="grant_link" href="{{ base_path }}{{ post.link }}" rel="permalink"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp; {{ post.link }}</a>
     {% endif %}
 
 
