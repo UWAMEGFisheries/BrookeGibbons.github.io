@@ -13,10 +13,10 @@ redirect_from:
 
 <table style="width:100%">
   <tr>
-    <td class="left">2015-present</td>
-    <td class="right">Postdoctoral Fellow, Centre for Marine Futures and School of Biological Sciences, University of WA, Perth, Australia</td>
+    <td class="left">2015-now</td>
+    <td class="right">Postdoctoral Fellow, Centre for Marine Futures & School of Biological Sciences, University of Western Australia</td>
   </tr>
-  
+
 </table>
 
 <h2 class="cvsection"> Education</h2>
