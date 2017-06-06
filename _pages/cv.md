@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+<h2 class="cvsection"> Professional experience</h2>
+
+<table style="width:100%">
+  <tr>
+    <td class="left">2015-present</td>
+    <td class="right">Postdoctoral Fellow, Centre for Marine Futures and School of Biological Sciences, University of WA, Perth, Australia</td>
+  </tr>
+  
+</table>
+
 <h2 class="cvsection"> Education</h2>
 
 
