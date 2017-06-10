@@ -68,7 +68,7 @@ redirect_from:
 
 <h3 class="cvyear"> 2014</h3>
 
-<p class="cvrole">Research scientist</p>
+<span class="cvrole">Research scientist</span>
 Pelagic videography survey of Rapa Iti, French polynesia<br>
 <span class="cvwho">National Geographic Society Pristine Seas Programme</span>
 
