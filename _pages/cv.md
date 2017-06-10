@@ -55,7 +55,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2017</td>
-    <td class="right"><p class="cvrole">Research scientist</p>
+    <td class="right"><span class="cvrole">Research scientist</span>
     Pelagic videography survey of Ascension Island waters.<br>
     <span class="cvwho">Ascension Island Government</span></td>
   </tr>
