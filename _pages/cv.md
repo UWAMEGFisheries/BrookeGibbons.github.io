@@ -30,7 +30,7 @@ redirect_from:
   </tr>
   <tr>
     <td class="left">2008-2009</td>
-    <td class="right">M.Res Marine Mammal Science, University of St Andrews <span class="cvlocation">[St Andrews, Scotland]<br>
+    <td class="right">M.Res Marine Mammal Science, University of St Andrews <span class="cvlocation">[St Andrews, Scotland]</span><br>
     Don't count your whales before they migrate: Using aerial surveys to assess the status of breeding stock 'D' humpback whales (<em>Megaptera novaeangliae</em>) in Western Australia<br>
     Associated paper: Salgado <em>et al.</em> 2012. JCRM 12(1): 29-38.</span></td>
   </tr>
