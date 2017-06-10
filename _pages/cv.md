@@ -14,7 +14,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right">Postdoctoral Fellow, Centre for Marine Futures & School of Biological Sciences, University of Western Australia</td>
+    <td class="right">Postdoctoral Fellow, Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
 </table>
@@ -25,23 +25,24 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2011-2015</td>
-    <td class="right">Ph.D in Marine Ecology, University of Western Australia</td>
+    <td class="right">Ph.D Marine Ecology, University of Western Australia, Perth, Australia<br>
+    Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservaton planning in the pelagic ocean</td>
   </tr>
   <tr>
     <td class="left">2008-2009</td>
-    <td class="right">M.Res in Marine Mammal Science, University of St Andrews</td>
+    <td class="right">M.Res Marine Mammal Science, University of St Andrews, St Andrews, Scotland</td>
   </tr>
   <tr>
     <td class="left">2008</td>
-    <td class="right">Marine Mammal Management course, Nova Southeastern University</td>
+    <td class="right">Marine Mammal Management course, Nova Southeastern University, Fort-Lauderdale-Davie, FL, USA </td>
   </tr>
   <tr>
     <td class="left">2006-2007</td>
-    <td class="right">M.Sc in Marine and Coastal Sciences, University of Western Brittany</td>
+    <td class="right">M.Sc Marine and Coastal Sciences, University of Western Brittany, Brest, France</td>
   </tr>
   <tr>
     <td class="left">2003-2006</td>
-    <td class="right">B.Sc in Zoology, University of Western Brittany</td>
+    <td class="right">B.Sc (Hons.) Zoology, University of Western Brittany, Brest, France</td>
   </tr>
 </table>
 
