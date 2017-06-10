@@ -25,12 +25,14 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2011-2015</td>
-    <td class="right">Ph.D Marine Ecology, University of Western Australia [Perth, Australia]<br>
+    <td class="right">Ph.D Marine Ecology, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
     <a href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a></td>
   </tr>
   <tr>
     <td class="left">2008-2009</td>
-    <td class="right">M.Res Marine Mammal Science, University of St Andrews, St Andrews, Scotland</td>
+    <td class="right">M.Res Marine Mammal Science, University of St Andrews <span class="cvlocation">[St Andrews, Scotland]<br>
+    Don't count your whales before they migrate: Using aerial surveys to assess the status of breeding stock 'D' humpback whales (<em>Megaptera novaeangliae</em>) in Western Australia<br>
+    Associated paper: Salgado <em>et al.</em> 2012</span></td>
   </tr>
   <tr>
     <td class="left">2008</td>
