@@ -55,22 +55,22 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2017</td>
-    <td class="right"><span class="cvrole">Research scientist</span>
+    <td class="right"><span class="cvrole">Research scientist</span><br>
     Pelagic videography survey of Ascension Island waters.<br>
     <span class="cvwho">Ascension Island Government</span></td>
   </tr>
+
+  <tr>
+    <td class="left">2014</td>
+    <td class="right"><span class="cvrole">Research scientist</span><br>
+    Pelagic videography survey of Rapa Iti, French polynesia<br>
+    <span class="cvwho">National Geographic Society Pristine Seas Programme</span></td>
+  </tr>
+
   </table>
 
-<h3 class="cvyear"> 2017</h3>
 
 
-
-
-<h3 class="cvyear"> 2014</h3>
-
-<span class="cvrole">Research scientist</span>
-Pelagic videography survey of Rapa Iti, French polynesia<br>
-<span class="cvwho">National Geographic Society Pristine Seas Programme</span>
 
 <h3 class="cvyear"> 2012</h3>
 
