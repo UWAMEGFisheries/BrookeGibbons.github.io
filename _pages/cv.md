@@ -14,7 +14,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right"><a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Fellow, Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
+    <td class="right">Postdoctoral Fellow, <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a>, Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
 </table>
@@ -37,15 +37,15 @@ redirect_from:
   </tr>
   <tr>
     <td class="left">2008</td>
-    <td class="right">Marine Mammal Management course, Nova Southeastern University, Fort-Lauderdale-Davie, FL, USA </td>
+    <td class="right">Marine Mammal Management course, Nova Southeastern University <span class="cvlocation">[Fort-Lauderdale-Davie, FL, USA]</span></td>
   </tr>
   <tr>
     <td class="left">2006-2007</td>
-    <td class="right">M.Sc Marine and Coastal Sciences, University of Western Brittany, Brest, France</td>
+    <td class="right">M.Sc Marine and Coastal Sciences, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
   </tr>
   <tr>
     <td class="left">2003-2006</td>
-    <td class="right">B.Sc (Hons. 1st class) Zoology, University of Western Brittany, Brest, France</td>
+    <td class="right">B.Sc (Hons. 1st class) Zoology, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
   </tr>
 </table>
 
