@@ -56,7 +56,7 @@ redirect_from:
   <tr>
     <td class="left">2017</td>
     <td class="right"><p class="cvrole">Research scientist</p>
-    Pelagic videography survey of the Ascension Island waters EEZ.<br>
+    Pelagic videography survey of Ascension Island waters.<br>
     <span class="cvwho">Ascension Island Government</span></td>
   </tr>
   </table>
