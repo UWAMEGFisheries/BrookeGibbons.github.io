@@ -21,5 +21,5 @@ I have a keen interest in spatial ecology, GIS and ecological statistics as they
 
 In collaboration with colleagues from UWA, the University of Salford and Queensland University of Technology, I am currently co-leading studies on the topic of model transferability, with the aim of assessing when, and why biodiversity models do/don't make reliable predictions of species distributions in unsampled environments.
 
-<img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="20">
+<img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="5">
 <figcaption>Filming Galapagos sharks (<em>Carcharhinus galapagensis</em>) at Marotiri, southern Austral islands, French Polynesia. Photo credit: Manu San Félix (2014).</figcaption>
