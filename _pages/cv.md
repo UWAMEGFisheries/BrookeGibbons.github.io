@@ -74,7 +74,7 @@ redirect_from:
     Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
     <span class="cvwho">National Environmental Research Program (NERP) Marine Biodiversity Hub</span></p>
 
-    <p><span class="cvrole">Field assistant</span>
+    <p><span class="cvrole">Field assistant</span><br>
     Rowley Shoals reef shark tagging programme<br>
     <span class="cvwho">Australian Institute of Marine Science (AIMS)</span></p>
 
@@ -88,30 +88,29 @@ redirect_from:
     <span class="cvwho">Southwest Whale Ecology Study (SouWEST)</span></td>
   </tr>
 
+  <tr>
+    <td class="left">2007-2011</td>
+    <td class="right"><span class="cvrole">Research and field assistant</span><br>
+    Humpback whale (<em>Megaptera novaeangliae</em>) abundance estimation and population modelling<br>
+    Pygmy blue whale (<em>Balaenoptera musculus brevicauda</em>) photo-identification and satellite tracking<br>
+    <span class="cvwho">Centre for Whale Research (WA) Inc. (CWR)</span></td>
+  </tr>
+
+  <tr>
+    <td class="left">2006</td>
+    <td class="right"><span class="cvrole">Research assistant</span><br>
+    Impact of vessel traffic on the haul-out behaviour of grey seals (<em>Halichoerus grypus</em>) in the Molène Archipelago<br>
+    <span class="cvwho">Marine Mammal Research Laboratory of Oceanopolis</span></td>
+  </tr>
+
+  <tr>
+    <td class="left">2004</td>
+    <td class="right"><span class="cvrole">Field assistant</span><br>
+    Blue whale (<em>Balaenoptera musculus</em>) habitat use and feeding strategies<br>
+    <span class="cvwho">Mingan Island Cetacean Study (MICS)</span></td>
+  </tr>
+
   </table>
-
-
-
-
-
-<h3 class="cvyear"> 2007-2011</h3>
-
-<p class="cvrole">Research and field assistant</p>
-Humpback whale (<em>Megaptera novaeangliae</em>) abundance estimation and population modelling<br>
-Pygmy blue whale (<em>Balaenoptera musculus brevicauda</em>) photo-identification and satellite tracking<br>
-<span class="cvwho">Centre for Whale Research (WA) Inc. (CWR)</span>
-
-<h3 class="cvyear"> 2006</h3>
-
-<p class="cvrole">Research assistant</p>
-Impact of vessel traffic on the haul-out behaviour of grey seals (<em>Halichoerus grypus</em>) in the Molène Archipelago
-<span class="cvwho">Marine Mammal Research Laboratory of Oceanopolis</span>
-
-<h3 class="cvyear"> 2004</h3>
-
-<p class="cvrole">Field assistant</p>
-Blue whale (<em>Balaenoptera musculus</em>) habitat use and feeding strategies<br>
-<span class="cvwho">Mingan Island Cetacean Study (MICS)</span>
 
 
 Publications
