@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow at the Centre for Marine Futures, University of WA in Perth, Australia.
+I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow at the <a href="http://www.meeuwig.org" target="_blank">Centre for Marine Futures</a>, University of WA in Perth, Australia.
 
 In my Ph.D. thesis at UWA, I examined the value of seafloor topography (submarine canyons, offshore banks and shoals) as a proxy for hotspots of mobile vertebrates in pelagic environments. In my M.Res. thesis at the University of St Andrews, I generated an updated population size estimate for the Western Australian humpback whale breeding stock based on aerial survey data.
 
-<img src='/images/20141104-Rapa.jpg' align='left'>
+<img src='/images/20141104-Rapa.jpg' align='left' height="500">
 
 I have a keen interest in spatial ecology, GIS and ecological statistics as they relate to modern wildlife conservation problems, and I strive to come up with creative displays of data to unravel stories that can inform on-the-ground ocean management.
 
