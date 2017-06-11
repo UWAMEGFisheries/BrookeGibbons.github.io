@@ -14,7 +14,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right">Postdoctoral Fellow -- <a class="cvlink"
+    <td class="right">Postdoctoral Fellow <br> <a class="cvlink"
      href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
