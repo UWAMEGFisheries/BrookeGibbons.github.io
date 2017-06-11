@@ -133,22 +133,7 @@ redirect_from:
     </td>
   </tr>
 
-  <tr>
-    <td class="left">2016</td>
-    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
-
-      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
-
-      {% if pubyear == "2016" %}
-
-      {% include archive-single-cv.html %}
-
-      {% endif %}
-
-    {% endfor %}
-    </ul>
-    </td>
-  </tr>
+  
 
   <tr>
     <td class="left">2015</td>
@@ -157,23 +142,6 @@ redirect_from:
       {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 
       {% if pubyear == "2015" %}
-
-      {% include archive-single-cv.html %}
-
-      {% endif %}
-
-    {% endfor %}
-    </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td class="left">2014</td>
-    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
-
-      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
-
-      {% if pubyear == "2014" %}
 
       {% include archive-single-cv.html %}
 
