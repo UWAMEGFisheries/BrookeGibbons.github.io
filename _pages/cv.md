@@ -208,7 +208,7 @@ redirect_from:
 <h2 class="cvsection"> Grants and awards</h2>
 
 <ul class="cvgrantslist">{% for post in site.grants reversed%}
-  {% include archive-single-talk-grants.html %}
+  {% include archive-single-grant-cv.html %}
 {% endfor %}</ul>
 
 
