@@ -30,7 +30,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }}&nbsp; <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "Read" }}</a></p> {% endif %}
+    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} <a class="cvlink" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "(Read)" }}</a></p> {% endif %}
     </li>
  </article>
 </div>
