@@ -14,7 +14,8 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right">Postdoctoral Fellow -- <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
+    <td class="right">Postdoctoral Fellow -- <a class="cvlink
+     href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
 </table>
@@ -26,14 +27,14 @@ redirect_from:
   <tr>
     <td class="left">2011-2015</td>
     <td class="right">Ph.D Marine Ecology, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
-    <a href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
-    <a href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
+    <a class="cvlink href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
+    <a class="cvlink href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
   </tr>
   <tr>
     <td class="left">2008-2009</td>
     <td class="right">M.Res Marine Mammal Science (1st class), University of St Andrews <span class="cvlocation">[St Andrews, Scotland]</span><br>
     Don't count your whales before they migrate: Using aerial surveys to assess the status of breeding stock 'D' humpback whales (<em>Megaptera novaeangliae</em>) in Western Australia<br>
-    Associated paper: <a href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Salgado <em>et al.</em> 2012.&nbsp;JCRM 12(1): 29-38.</a></td>
+    Associated paper: <a class="cvlink href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Salgado <em>et al.</em> 2012.&nbsp;JCRM 12(1): 29-38.</a></td>
   </tr>
   <tr>
     <td class="left">2008</td>
