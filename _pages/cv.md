@@ -133,6 +133,108 @@ redirect_from:
     </td>
   </tr>
 
+  <tr>
+    <td class="left">2016</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2016" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2015</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2015" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2014</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2014" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2013</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2013" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2012</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2012" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2011</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2011" %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
 </table>
 
 
