@@ -14,7 +14,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right">Postdoctoral Fellow -- <a class="cvlink
+    <td class="right">Postdoctoral Fellow -- <a class="cvlink"
      href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
@@ -27,14 +27,14 @@ redirect_from:
   <tr>
     <td class="left">2011-2015</td>
     <td class="right">Ph.D Marine Ecology, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
-    <a class="cvlink href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
-    <a class="cvlink href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
+    <a class="cvlink" href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
+    <a class="cvlink" href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
   </tr>
   <tr>
     <td class="left">2008-2009</td>
     <td class="right">M.Res Marine Mammal Science (1st class), University of St Andrews <span class="cvlocation">[St Andrews, Scotland]</span><br>
     Don't count your whales before they migrate: Using aerial surveys to assess the status of breeding stock 'D' humpback whales (<em>Megaptera novaeangliae</em>) in Western Australia<br>
-    Associated paper: <a class="cvlink href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Salgado <em>et al.</em> 2012.&nbsp;JCRM 12(1): 29-38.</a></td>
+    Associated paper: <a class="cvlink" href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Salgado <em>et al.</em> 2012.&nbsp;JCRM 12(1): 29-38.</a></td>
   </tr>
   <tr>
     <td class="left">2008</td>
@@ -68,26 +68,31 @@ redirect_from:
     <span class="cvwho">National Geographic Society Pristine Seas Programme</span></td>
   </tr>
 
+  <tr>
+    <td class="left">2012</td>
+    <td class="right"><p><span class="cvrole">Research scientist</span><br>
+    Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
+    <span class="cvwho">National Environmental Research Program (NERP) Marine Biodiversity Hub</span></p>
+
+    <p><span class="cvrole">Field assistant</span>
+    Rowley Shoals reef shark tagging programme<br>
+    <span class="cvwho">Australian Institute of Marine Science (AIMS)</span></p>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2010-2012</td>
+    <td class="right"><span class="cvrole">Assistant field coordinator</span><br>
+    Theodolite tracking of cetaceans in Geographe Bay, W Australia<br>
+    <span class="cvwho">Southwest Whale Ecology Study (SouWEST)</span></td>
+  </tr>
+
   </table>
 
 
 
 
-<h3 class="cvyear"> 2012</h3>
-
-<p class="cvrole">Research scientist</p>
-Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
-<span class="cvwho">National Environmental Research Program (NERP) Marine Biodiversity Hub</span>
-
-<p class="cvrole">Field assistant</p>
-Rowley Shoals reef shark tagging programme<br>
-<span class="cvwho">Australian Institute of Marine Science (AIMS)</span>
-
-<h3 class="cvyear"> 2010-2012</h3>
-
-<p class="cvrole">Assistant field coordinator</p>
-Theodolite tracking of cetaceans in Geographe Bay, W Australia<br>
-<span class="cvwho">Southwest Whale Ecology Study (SouWEST)</span>
 
 <h3 class="cvyear"> 2007-2011</h3>
 
