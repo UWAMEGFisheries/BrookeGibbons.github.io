@@ -133,7 +133,7 @@ redirect_from:
     </td>
   </tr>
 
-  
+
 
   <tr>
     <td class="left">2015</td>
@@ -205,20 +205,15 @@ redirect_from:
 
 </table>
 
+<h2 class="cvsection"> Grants and awards</h2>
 
+<h2 class="cvsection"> Talks and conference presentations</h2>
 
-
-Talks
-======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
 Service and leadership
 ======
