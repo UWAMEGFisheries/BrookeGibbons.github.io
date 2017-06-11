@@ -119,24 +119,23 @@ Publications
 <table style="width:100%">
   <tr>
     <td class="left">2017</td>
-    <td class="right">Postdoctoral Fellow -- <a class="cvlink"
-     href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
+    <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear ==2017 %}
+
+      {% include archive-single-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}</ul></td>
   </tr>
 
 </table>
 
 
-  <ul class="cvpublist">{% for post in site.publications reversed %}
 
-    {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
-
-    {% if pubyear ==2017 %}
-
-    {% include archive-single-cv.html %}
-
-    {% endif %}
-
-  {% endfor %}</ul>
 
 Talks
 ======
