@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Dr. Phil Bouchet"
 description              : &description "Postdoctoral Fellow at the University of WA"
