@@ -10,11 +10,12 @@ redirect_from:
 
 I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow at the <a href="http://www.meeuwig.org" target="_blank">Centre for Marine Futures</a>, University of WA in Perth, Australia.
 
-In my Ph.D. thesis at UWA, I examined the utility of using seafloor topography (submarine canyons, offshore banks and shoals) as a proxy for hotspots of mobile vertebrates in pelagic environments. In that context, I helped develop a new generation of midwater baited underwater video cameras that can be used to record and monitor endangered oceanic species in deep-water environments. The camera systems have since then been used all over the globe by international initiatives including <a href="https://www.nationalgeographic.org/projects/pristine-seas/" target="_blank">the National Geographic Society's Pristine Seas Programme</a>.
+<img src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
+
+In my <a href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Ph.D. thesis at UWA</a>, I examined the utility of using seafloor topography (submarine canyons, offshore banks and shoals) as a proxy for hotspots of mobile vertebrates in pelagic environments. In that context, I helped develop a new generation of midwater baited underwater video cameras that can be used to record and monitor endangered oceanic species in deep-water environments. The camera systems have since then been used all over the globe by international initiatives including <a href="https://www.nationalgeographic.org/projects/pristine-seas/" target="_blank">the National Geographic Society's Pristine Seas Programme</a>.
 
 In my M.Res. thesis at the University of St Andrews, I generated an updated population size estimate for the Western Australian humpback whale breeding stock based on aerial survey data.
 
-<img src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
 
 I have a keen interest in spatial ecology, GIS and ecological statistics as they relate to modern wildlife conservation problems, and I strive to come up with creative displays of data to unravel stories that can inform on-the-ground ocean management.
 
