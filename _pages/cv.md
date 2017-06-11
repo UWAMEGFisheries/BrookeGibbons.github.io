@@ -70,11 +70,11 @@ redirect_from:
 
   <tr>
     <td class="left">2012</td>
-    <td class="right"><p><span class="cvrole">Research scientist</span><br>
+    <td class="right"><p class="ptop"><span class="cvrole">Research scientist</span><br>
     Oceanic Shoals Marine Biodiversity Survey, Timor Sea.<br>
     <span class="cvwho">National Environmental Research Program (NERP) Marine Biodiversity Hub</span></p>
 
-    <p><span class="cvrole">Field assistant</span><br>
+    <p class="pbottom"><span class="cvrole">Field assistant</span><br>
     Rowley Shoals reef shark tagging programme<br>
     <span class="cvwho">Australian Institute of Marine Science (AIMS)</span></p>
 
