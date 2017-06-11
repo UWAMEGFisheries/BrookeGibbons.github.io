@@ -113,8 +113,7 @@ redirect_from:
   </table>
 
 
-Publications
-======
+<h2 class="cvsection"> Publications</h2>
 
 <table style="width:100%">
   <tr>
@@ -123,13 +122,15 @@ Publications
 
       {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 
-      {% if pubyear ==2017 %}
+      {% if pubyear == "2017" %}
 
       {% include archive-single-cv.html %}
 
       {% endif %}
 
-    {% endfor %}</ul></td>
+    {% endfor %}
+    </ul>
+    </td>
   </tr>
 
 </table>
