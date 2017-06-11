@@ -67,17 +67,26 @@
     padding-right: 4.23729%;
 }
 
+.philprofile {
+    margin-top: 0;
+}
+
 
 .page__title {
   margin-top: 0;
   line-height: 1.2;
-  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+
   color: #288caf;
   font-size: 2em;
 
   & + .page__meta {
     margin-top: -0.5em;
   }
+}
+
+figcaption {
+  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+
 }
 
 .page__lead {
