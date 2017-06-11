@@ -12,7 +12,7 @@ I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiv
 
 In my Ph.D. thesis at UWA, I examined the utility of using seafloor topography (submarine canyons, offshore banks and shoals) as a proxy for hotspots of mobile vertebrates in pelagic environments. In my M.Res. thesis at the University of St Andrews, I generated an updated population size estimate for the Western Australian humpback whale breeding stock based on aerial survey data.
 
-<img src='/images/20141104-Rapa.jpg' align='left' height="590" width="500">
+<img src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
 
 I have a keen interest in spatial ecology, GIS and ecological statistics as they relate to modern wildlife conservation problems, and I strive to come up with creative displays of data to unravel stories that can inform on-the-ground ocean management.
 
