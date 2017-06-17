@@ -216,12 +216,12 @@ redirect_from:
 
 <table style="width:100%">
   <tr>
-    <td class="left">2014</td>
+    <td class="left">2016</td>
     <td class="right">{% for post in site.talks reversed%}
 
       {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 
-      {% if talkyear == "2014" %}
+      {% if talkyear == "2016" %}
 
         {% include archive-single-talk-cv.html %}
 
