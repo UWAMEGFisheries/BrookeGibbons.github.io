@@ -214,9 +214,27 @@ redirect_from:
 
 <h2 class="cvsection"> Talks and conference presentations</h2>
 
-  <ul class="cvtalkslist">{% for post in site.talks reversed%}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<table style="width:100%">
+  <tr>
+    <td class="left">2017</td>
+    <td class="right"><ul class="cvtalkslist">{% for post in site.talks reversed%}
+
+      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if pubyear == "2017" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+    </ul>
+    </td>
+  </tr>
+
+
+</table>
+
 
 
   <h2 class="cvsection"> Teaching and outreach</h2>
