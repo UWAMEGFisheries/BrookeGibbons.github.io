@@ -223,7 +223,7 @@ redirect_from:
 
       {% if talkyear == "2014" %}
 
-        {% include archive-single-talk.html %}
+        {% include archive-single-talk-cv.html %}
 
       {% endif %}
 
