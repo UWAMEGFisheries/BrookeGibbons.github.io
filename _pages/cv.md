@@ -235,7 +235,7 @@ redirect_from:
     </tr>
 
     <tr>
-      <td class="left">2011-2013</td>
+      <td class="left">2011-13</td>
       <td class="right"><span class="cvrole">R demonstrator and teaching assistant</span><br>
       <span class="cvwho">University of Western Australia, Perth, Australia</span></td>
     </tr>
@@ -247,7 +247,7 @@ redirect_from:
     </tr>
 
     <tr>
-      <td class="left">2010-2011</td>
+      <td class="left">2010-11</td>
       <td class="right"><span class="cvrole">Marine tour guide and sales assistant</span><br>
       <span class="cvwho">Oceanic cruises (Rottnest Express), Fremantle, Australia</span></td>
     </tr>
@@ -263,4 +263,38 @@ redirect_from:
       </td>
     </tr>
 
+</table>
+
+  <h2 class="cvsection"> Professional experience</h2>
+
+  <table style="width:100%">
+    <tr>
+      <td class="left">2012-13</td>
+      <td class="right"><span class="cvrole">Library officer</span><br>
+      <span class="cvwho">University of Western Australia, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2011</td>
+      <td class="right"><span class="cvrole">Administrative assistant</span><br>
+      <span class="cvwho">University of Western Australia, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2010</td>
+      <td class="right"><span class="cvrole">Data manager assistant</span><br>
+      <span class="cvwho">Macquarie University, Sydney, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2009</td>
+      <td class="right"><span class="cvrole">IT consultant and computer programmer</span><br>
+      <span class="cvwho">TMF Group, Geneva, Switzerland</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2007-08</td>
+      <td class="right"><span class="cvrole">IT analyst and reporting manager assistant</span><br>
+      <span class="cvwho">Kemnay Services Ltd., Geneva, Switzerland</span></td>
+    </tr>
 </table>
