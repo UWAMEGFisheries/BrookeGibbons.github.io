@@ -219,11 +219,11 @@ redirect_from:
     <td class="left">2015</td>
     <td class="right"><ul class="cvtalkslist">{% for post in site.talks reversed%}
 
-      {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 
-      {% if pubyear == "2015" %}
+      {% if talkyear == "2015" %}
 
-        {% include archive-single-talk-cv.html %}
+        {% include archive-single-talk.html %}
 
       {% endif %}
 
