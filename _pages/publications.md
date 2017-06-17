@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+Check out my Google scholar and ResearchGate profiles for scholarly impact statistics and citation metrics.
 
 {% include base_path %}
 
