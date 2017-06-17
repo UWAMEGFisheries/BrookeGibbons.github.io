@@ -26,7 +26,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2011-15</td>
-    <td class="right">Ph.D Marine Ecology, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
+    <td class="right"><b>Ph.D Marine Ecology</b>, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
     <a class="cvlink" href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
     <a class="cvlink" href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
   </tr>
@@ -219,7 +219,47 @@ redirect_from:
   {% endfor %}</ul>
 
 
+  <h2 class="cvsection"> Teaching and outreach</h2>
 
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  <table style="width:100%">
+    <tr>
+      <td class="left">2013</td>
+      <td class="right"><span class="cvrole">Photography laboratory supervisor</span><br>
+      <span class="cvwho">Curtin University of Technology, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2012</td>
+      <td class="right"><span class="cvrole">Teaching assistant and science communication tutor</span><br>
+      <span class="cvwho">University of Western Australia, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2011-2013</td>
+      <td class="right"><span class="cvrole">R demonstrator and teaching assistant</span><br>
+      <span class="cvwho">University of Western Australia, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2011</td>
+      <td class="right"><span class="cvrole">Workshop coordinator and demonstrator</span><br>
+      <span class="cvwho">Murdoch University, Perth, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2010-2011</td>
+      <td class="right"><span class="cvrole">Marine tour guide and sales assistant</span><br>
+      <span class="cvwho">Oceanic cruises (Rottnest Express), Fremantle, Australia</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2006</td>
+
+      <td class="right"><p class="ptop"><span class="cvrole">Marine education assistant</span><br>
+      <span class="cvwho">Association Picardie Nature, Somme Bay, France</span></p>
+
+      <p class="pbottom"><span class="cvrole">Marine education and animal care assistant</span><br>
+      <span class="cvwho">Oceanopolis seal rescue and rehabilitation centre, Brest, France</span></p>
+    </tr>
+
+</table>
