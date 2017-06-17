@@ -216,7 +216,7 @@ redirect_from:
 
 <table style="width:100%">
   <tr>
-    <td class="left">2017</td>
+    <td class="left">2016</td>
     <td class="right"><ul class="cvtalkslist">{% for post in site.talks reversed%}
 
       {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
