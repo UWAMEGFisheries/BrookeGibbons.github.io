@@ -14,7 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <li>
+    <li class="li_cv">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -27,10 +27,10 @@
       </div>
     {% endif %}
 
-    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
-      {% else %}
-      <p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
+    {% if post.read_time %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} <a class="cvlink" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "(Read)" }}</a></p> {% endif %}
     </li>
-  </article>
+ </article>
 </div>
