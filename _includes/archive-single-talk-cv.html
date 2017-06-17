@@ -27,7 +27,10 @@
       </div>
     {% endif %}
 
-    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} </p> {% endif %}
+    {% if post.venue%}<p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
+      {% else %}
+      <p class="cv_archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
+    {% endif %}
     </li>
   </article>
 </div>
