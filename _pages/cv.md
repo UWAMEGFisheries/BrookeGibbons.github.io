@@ -32,21 +32,21 @@ redirect_from:
   </tr>
   <tr>
     <td class="left">2008-09</td>
-    <td class="right">M.Res Marine Mammal Science (1st class), University of St Andrews <span class="cvlocation">[St Andrews, Scotland]</span><br>
+    <td class="right"><b>M.Res Marine Mammal Science (1st class)</b>, University of St Andrews <span class="cvlocation">[St Andrews, Scotland]</span><br>
     Don't count your whales before they migrate: Using aerial surveys to assess the status of breeding stock 'D' humpback whales (<em>Megaptera novaeangliae</em>) in Western Australia<br>
     Associated paper: <a class="cvlink" href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Salgado <em>et al.</em> 2012.&nbsp;JCRM 12(1): 29-38.</a></td>
   </tr>
   <tr>
     <td class="left">2008</td>
-    <td class="right">Marine Mammal Management course, Nova Southeastern University <span class="cvlocation">[Fort-Lauderdale-Davie, FL, USA]</span></td>
+    <td class="right"><b>Marine Mammal Management course</b>, Nova Southeastern University <span class="cvlocation">[Fort-Lauderdale-Davie, FL, USA]</span></td>
   </tr>
   <tr>
     <td class="left">2006-07</td>
-    <td class="right">M.Sc Marine and Coastal Sciences, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
+    <td class="right"><b>M.Sc Marine and Coastal Sciences</b>, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
   </tr>
   <tr>
     <td class="left">2003-06</td>
-    <td class="right">B.Sc (Hons. 1st class) Zoology, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
+    <td class="right"><b>B.Sc (Hons. 1st class) Zoology</b>, University of Western Brittany <span class="cvlocation">[Brest, France]</span></td>
   </tr>
 </table>
 
@@ -260,6 +260,7 @@ redirect_from:
 
       <p class="pbottom"><span class="cvrole">Marine education and animal care assistant</span><br>
       <span class="cvwho">Oceanopolis seal rescue and rehabilitation centre, Brest, France</span></p>
+      </td>
     </tr>
 
 </table>
