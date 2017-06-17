@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Check out my <a href="https://scholar.google.com/citations?user=X5SMt_8AAAAJ">Google scholar</a> and <a href="https://www.researchgate.net/profile/Phil_Bouchet">ResearchGate</a> profiles for scholarly impact statistics and citation metrics.
+Check out my <a class="url_link" href="https://scholar.google.com/citations?user=X5SMt_8AAAAJ">Google scholar</a> and <a class="url_link" href="https://www.researchgate.net/profile/Phil_Bouchet">ResearchGate</a> profiles for scholarly impact statistics and citation metrics.
 
 {% include base_path %}
 
