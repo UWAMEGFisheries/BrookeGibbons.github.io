@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h2 class="cvsection"> Academic experience</h2>
+<h2 class="cvsection"> Current position</h2>
 
 <table style="width:100%">
   <tr>
