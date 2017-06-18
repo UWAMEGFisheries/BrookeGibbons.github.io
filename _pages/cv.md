@@ -232,6 +232,24 @@ redirect_from:
     </td>
   </tr>
 
+  <tr>
+    <td class="left">2010</td>
+    <td class="right">{% for post in site.talks reversed%}
+
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if talkyear == "2010" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+
 </table>
 
 
