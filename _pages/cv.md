@@ -233,6 +233,74 @@ redirect_from:
   </tr>
 
   <tr>
+    <td class="left">2014</td>
+    <td class="right">{% for post in site.talks reversed%}
+
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if talkyear == "2014" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2013</td>
+    <td class="right">{% for post in site.talks reversed%}
+
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if talkyear == "2013" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2012</td>
+    <td class="right">{% for post in site.talks reversed%}
+
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if talkyear == "2012" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+  <tr>
+    <td class="left">2011</td>
+    <td class="right">{% for post in site.talks reversed%}
+
+      {% capture talkyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if talkyear == "2011" %}
+
+        {% include archive-single-talk-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+  <tr>
     <td class="left">2010</td>
     <td class="right">{% for post in site.talks reversed%}
 
