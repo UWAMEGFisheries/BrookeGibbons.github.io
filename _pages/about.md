@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <h1 class="aboutPhil">About Phil</h1>
-======
+
 
 I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow based at the <a href="http://www.meeuwig.org" target="_blank">Centre for Marine Futures</a>, University of WA in Perth, Australia.
 
