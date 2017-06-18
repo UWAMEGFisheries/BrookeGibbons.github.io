@@ -26,34 +26,8 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a>{{ title }}</a>
-      {% else %}
-      <a>{{ title }}</a>
-      {% endif %}
-    </h2>
 
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-
-    {% if post.amount %}
-    <p class="amount_meta"><i class="fa fa-usd" aria-hidden="true"></i> <span class="grantamount">&nbsp;{{ post.amount }}</span> </p>
-    {% endif %}
-
-    {% if post.donor %}
-    <p class="donor_meta"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i>&nbsp;<span class="donor">{{ post.donor }}</span> </p>
-    {% endif %}
-
-    {% if post.link %}
-    <a class="grant_link" href="{{ post.link }}" target="_blank" rel="permalink"><i class="fa fa-external-link" aria-hidden="true"></i>&nbsp; {{ post.link }}</a>
-    {% endif %}
-
-
-    {% if post.project %}
-    <p class="grant_project" itemprop="description">{{ post.project }}</p>
-    {% endif %}
+{% if post.amount %}<p class="archive__cvtalk-excerpt" itemprop="description"> {{post.citation}}</p> {% endif %}
 
 
 

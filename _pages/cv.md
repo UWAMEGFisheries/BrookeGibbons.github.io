@@ -207,9 +207,25 @@ redirect_from:
 
 <h2 class="cvsection"> Grants and awards</h2>
 
-<ul class="cvgrantslist">{% for post in site.grants reversed%}
-  {% include archive-single-grant-cv.html %}
-{% endfor %}</ul>
+<table style="width:100%">
+  <tr>
+    <td class="left">2013</td>
+    <td class="right">{% for post in site.grants reversed%}
+
+      {% capture grantyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+      {% if grantyear == "2013" %}
+
+        {% include archive-single-grant-cv.html %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    </td>
+  </tr>
+
+</table>
 
 
 <h2 class="cvsection"> Talks and conference presentations</h2>
