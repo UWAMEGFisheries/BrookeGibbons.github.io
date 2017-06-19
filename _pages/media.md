@@ -7,49 +7,46 @@ author_profile: true
 
 My research has been featured in various press releases, newspaper and radio articles:
 
-<h2 class="mediasection"> Radio</h2>
+<h2 class="mediasection"> Assorted media</h2>
 
 <table style="width:100%">
   <tr>
-    <td class="left">Radio</td>
-    <td class="right">Why do whales strand? Dave O’Neil’s Summer Afternoons – ABC radio (Melbourne)</td>
+    <td class="left">2015</td>
+    <td class="right">Cross-cultural knowledge supports dolphin conservation - UWA Oceans Institute News</td>
   </tr>
+
+  <tr>
+    <td class="left">2014</td>
+    <td class="right">Margaret Middleton Fund supports marine research - Australian Academy of Science
+    Newsletter<br>
+    Rapa expedition: What do sharks do when we’re not looking? - National Geographic Society's Pristine Seas Programme<br>
+    Une mission scientifique envoyée à Rapa - La Dépêche de Tahiti (National Geographic Society)</td>
+  </tr>
+
+  <tr>
+    <td class="left">2013</td>
+    <td class="right">Surveying an Australian marine frontier - UWA Oceans Institute News<br>
+    Fixing deep trouble: Marine predators have Phil hooked - Melville Times<br>
+    Aussie award for young French ocean scientist - UWA News<br>
+    Academic awards for scientific excellence announced - Australian Marine Biodiversity Hub News</td>
+  </tr>
+
+  <tr>
+    <td class="left">2012</td>
+    <td class="right">Surface breathers and seabirds of the Timor Sea - Australian Marine Biodiversity Hub News</td>
+  </tr>
+
+
 
 </table>
 
 
-2015
+<h2 class="mediasection"> Radio</h2>
 
-Cross-cultural knowledge supports dolphin conservation UWA Oceans Institute News
+<table style="width:100%">
+  <tr>
+    <td class="left">2014</td>
+    <td class="right">Why do whales strand? Dave O’Neil’s Summer Afternoons – ABC radio (Melbourne)</td>
+  </tr>
 
-2014
-Margaret Middleton Fund supports marine research Australian Academy of Science
-Newsletter
-Rapa expedition: What do sharks do
-when we’re not looking?
-National Geographic Society –
-Pristine Seas Programme
-Une mission scientifique envoyée à
-Rapa
-La Dépêche de Tahiti (National
-Geographic Society)
-
-2013
-Surveying an Australian marine
-frontier
-UWA Oceans Institute News
-Fixing deep trouble – Marine
-predators have Phil hooked
-Melville Times
-Aussie award for young French ocean
-scientist
-UWA News
-2013 Academic awards for scientific
-excellence announced
-Australian Marine Biodiversity Hub
-News
-2012
-Surface breathers and seabirds of
-the Timor Sea
-Australian Marine Biodiversity Hub
-News
+</table>
