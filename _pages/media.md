@@ -7,9 +7,16 @@ author_profile: true
 
 My research has been featured in various press releases, newspaper and radio articles:
 
-## Radio
+<h2 class="mediasection"> Radio</h2>
 
-2014 | Why do whales strand? Dave O’Neil’s Summer Afternoons – ABC radio (Melbourne)
+<table style="width:100%">
+  <tr>
+    <td class="left">Radio</td>
+    <td class="right">Why do whales strand? Dave O’Neil’s Summer Afternoons – ABC radio (Melbourne)</td>
+  </tr>
+
+</table>
+
 
 2015
 
