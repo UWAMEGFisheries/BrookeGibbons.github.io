@@ -10,5 +10,8 @@ main:
   - title: "Grants & awards"
     url: /grants/
 
+  - title: "Media"
+    url: /media/
+
   - title: "CV"
     url: /cv/
