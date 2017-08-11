@@ -417,6 +417,23 @@ redirect_from:
 
 </table>
 
+  <h2 class="cvsection">Student supervision</h2>
+
+  <table style="width:100%">
+    <tr>
+      <td class="left">2017</td>
+      <td class="right"><span class="cvrole">Christopher Thompson (PhD)</span><br>
+      <span class="studentproject">A global analysis of pelagic and deep ocean wildlife using remote imagery</span></td>
+    </tr>
+
+    <tr>
+      <td class="left">2017</td>
+      <td class="right"><span class="cvrole">Thelma Panaiotis (Masters)</span><br>
+      <span class="studentproject">Dynamics of fish schooling behaviour in relation to shark abundance</span></td>
+    </tr>
+
+</table>
+
   <h2 class="cvsection"> Professional experience</h2>
 
   <table style="width:100%">
