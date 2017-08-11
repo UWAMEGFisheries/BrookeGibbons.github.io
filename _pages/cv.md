@@ -421,9 +421,9 @@ redirect_from:
 
   <table style="width:100%">
     <tr>
-      <td class="left">2017</td>
+      <td class="left">2017-2021</td>
       <td class="right"><span class="cvrole">Christopher Thompson (PhD)</span><br>
-      <span class="studentproject">A global analysis of pelagic and deep ocean wildlife using remote imagery</span></td>
+      <span class="studentproject">Global analysis of pelagic and deep ocean wildlife using remote imagery</span></td>
     </tr>
 
     <tr>
