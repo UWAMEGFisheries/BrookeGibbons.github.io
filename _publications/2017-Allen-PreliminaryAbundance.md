@@ -10,7 +10,7 @@ citation: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McEllig
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nature.com/articles/s41598-017-05189-0"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Allen-2017-PreliminaryEstimate.pdf">  Download (PDF)</a>
 
-<img src='/images/Letessier2017-Sampling-hero.jpg'>
+<img src='/images/Allen2017-PreliminaryAbundance-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>

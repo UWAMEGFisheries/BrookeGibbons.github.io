@@ -6,11 +6,11 @@ excerpt: 'We review the literature surrounding sampling methods for mobile ocean
 date: 2015-12-18
 venue: 'Biological Reviews'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full'
-citation: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. <em>Biological Reviews</em>, 92(2): 627–646.'
+citation: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ. 2015. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. <em>Biological Reviews</em>, 92(2): 627–646.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2015-SamplingFishes.pdf">  Download (PDF)</a>
 
-<img src='/images/Allen2017-PreliminaryAbundance-hero.jpg'>
+<img src='/images/Letessier2015-Sampling-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>
