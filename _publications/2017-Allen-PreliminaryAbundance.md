@@ -1,14 +1,14 @@
 ---
-title: "Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning"
+title: "Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery"
 collection: publications
-permalink: /publications/2017-Letessier-SamplingMOFS
-excerpt: 'We review the literature surrounding sampling methods for mobile oceanic fishes and sharks (MOFs) and offer perspectives on future avenues of research, particularly in the context of global declines in marine predator populations and a corresponding expansion of space-based management in offshore waters.'
-date: 2017-12-14
-venue: 'Biological Reviews'
-paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full'
-citation: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. <em>Biological Reviews</em>, 92(2): 627–646.'
+permalink: /publications/2017-Allen-PreliminaryAbundance
+excerpt: 'We present the first abundance estimate for any Australian pelagic dolphin community. The data derive from a combination of aerial distance sampling and genetic mark-recapture, and provide a critical baseline for assessing the population-level impact of dolphin bycatch in the Pilbara trawl fishery.'
+date: 2017-06-13
+venue: 'Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-017-05189-0'
+citation: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery. <em>Scientific Reports</em>, 7: art4995.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2017-SamplingFishes.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nature.com/articles/s41598-017-05189-0"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Allen-2017-PreliminaryEstimate.pdf">  Download (PDF)</a>
 
 <img src='/images/Letessier2017-Sampling-hero.jpg'>
 <br>
