@@ -8,7 +8,7 @@ venue: 'Global Ecology and Biogeography'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/geb.12619/full'
 citation: '<strong>Bouchet PJ</strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley JM, Watson RA. 2017. Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records. <em>Global Ecology and Biogeography</em>. DOI: 10.1111/geb.12619.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12619/full"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12619/full"> Read online</a>&nbsp;
 
 <img src='/images/Bouchet2017-SAUHotspots-hero.jpg'>
 <br>
