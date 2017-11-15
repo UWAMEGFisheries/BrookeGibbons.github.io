@@ -1,6 +1,6 @@
 var addressPoints = [
 [
-    “Halifax, NS”,
+    "Halifax, NS",
     44.6488,
     -63.5752
   ],
