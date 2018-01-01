@@ -43,6 +43,7 @@ width:78% !important;
     margin-top: 0.6em;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     font-size: 1em;
+    margin-bottom: 0.1em;
   }
 }
 
@@ -54,6 +55,7 @@ width:78% !important;
   margin-bottom: 0.65em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   font-size: 1em;
+  margin-bottom: 0.1em;
 
   a + a {
     opacity: 0.5;
@@ -70,6 +72,7 @@ width:78% !important;
     border-bottom: none;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     font-size:1em;
+    margin-bottom: 0.1em;
 
   }
 }
@@ -323,6 +326,7 @@ font-size: 0.85em !important;
     text-decoration: none;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     font-size:1em !important;
+    margin-bottom: 0.1em;
   }
 }
 
@@ -379,6 +383,7 @@ and (orientation : portrait) { .archive {
     margin-top: 0.5em;
     font-size: 1em !important;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    margin-bottom: 0.1em;
   }
 
   .archive__item-excerpt {
