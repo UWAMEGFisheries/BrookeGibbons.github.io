@@ -80,7 +80,7 @@ width:78% !important;
 
 .page__content p {
   text-align: justify;
-  font-size:0.85em;
+  font-size:0.85em !important;
 }
 
 .journal{
@@ -272,14 +272,14 @@ td.right {
 }
 
 .page__content p {
-    font-size:0.85em;
+    font-size:0.85em !important;
 }
 
 
 .archive__item-excerpt {
   margin-top: 0;
   /*font-size: $type-size-6;*/
-  font-size: 1em;
+  font-size: 0.85em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
 
   & + p {
@@ -386,7 +386,7 @@ and (orientation : portrait) { .archive {
     .archive__item-excerpt {
       display: block;
       /*font-size: $type-size-6;*/
-      font-size: 1em;
+      font-size: 0.85em;
       font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
     }
   }
