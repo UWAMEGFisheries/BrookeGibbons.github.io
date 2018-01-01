@@ -42,14 +42,14 @@ width:78% !important;
   + .list__item .archive__item-title {
     margin-top: 0.6em;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
-    font-size: 0.85em;
+    font-size: 1em;
   }
 }
 
 .archive__item-title {
   margin-bottom: 0.65em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
-  font-size: 0.85em;
+  font-size: 1em;
 
   a + a {
     opacity: 0.5;
@@ -65,7 +65,7 @@ width:78% !important;
     margin-top: 1em;
     border-bottom: none;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
-    font-size:0.85em;
+    font-size:1em;
 
   }
 }
@@ -315,7 +315,7 @@ font-size: 0.85em !important;
   .archive__item-title {
     text-decoration: none;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
-    font-size:0.85em;
+    font-size:1em !important;
   }
 }
 
@@ -368,7 +368,7 @@ and (orientation : portrait) { .archive {
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: 1em !important;
     font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
   }
 
