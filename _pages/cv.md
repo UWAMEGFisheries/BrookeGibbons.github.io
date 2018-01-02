@@ -14,7 +14,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
-    <td class="right"><b>Postdoctoral Fellow</b> <br> <a class="cvlink"
+    <td class="right">Postdoctoral Fellow | <a class="cvlink"
      href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a><br>Centre for Marine Futures & School of Biological Sciences, University of Western Australia, Perth, Australia</td>
   </tr>
 
@@ -26,7 +26,7 @@ redirect_from:
 <table style="width:100%">
   <tr>
     <td class="left">2011-15</td>
-    <td class="right"><b>Ph.D Marine Ecology</b>, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
+    <td class="right">Ph.D Marine Ecology, University of Western Australia <span class="cvlocation">[Perth, Australia]</span><br>
     <a class="cvlink" href="http://research-repository.uwa.edu.au/en/publications/submarine-topography-as-a-predictor-of-mobile-predator-hotspots-relevance-and-applications-to-conservation-planning-in-the-pelagic-ocean(b0d4da3f-49bd-404f-bd73-0b5dfbcc2746).html" target="_blank">Submarine topography as a predictor of mobile predator hotspots: Relevance and applications to conservation planning in the pelagic ocean</a><br>
     <a class="cvlink" href="https://www.youtube.com/watch?v=9LrH0SmIPp4" target="_blank">Valedictorian</a> - UWA March 2016 graduation</td>
   </tr>
