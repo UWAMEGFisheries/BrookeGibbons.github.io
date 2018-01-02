@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <article id="listtalks" class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -26,8 +26,7 @@
       </div>
     {% endif %}
 
-
-    <table id="listtalks" style="width:100%">
+    <table style="width:100%">
       <tr>
         <td class="left">2016</td>
         <td class="right">{% for post in site.talks reversed%}
