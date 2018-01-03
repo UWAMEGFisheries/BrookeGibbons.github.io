@@ -29,8 +29,8 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue %}<p class="archive__cvtalk-excerpt" itemprop="description"> {{post.citation}}
-    {% if post.slides %}<a class="linkslides" href="{{ base_path }}{{ post.slides }}" rel="permalink">{{ "(Download)" }}</a></p> {% endif %}
+    {% if post.venue %}<p class="archive__cvtalk-excerpt" itemprop="description"> {{post.citation}}</p>
+    {% if post.slides %}<a class="linkslides" href="{{ post.slides }}" rel="permalink">{{ "(Download)" }}</a> {% endif %}
     </p> {% endif %}
 
   </article>
