@@ -11,7 +11,7 @@ redirect_from:
 <h1 class="aboutPhil">About Phil</h1>
 
 
-I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow based at the <a href="http://www.meeuwig.org" target="_blank">Centre for Marine Futures</a>, University of WA in Perth, Australia.
+I am a <a href="http://www.nespmarine.edu.au" target="_blank">NESP Marine Biodiversity Hub</a> Postdoctoral Research Fellow based at the <a href="http://www.meeuwig.org" target="_blank">Centre for Marine Futures</a>, University of WA in Perth, Australia. I also act as an Associate Editor for the journal <em><a href="http://zslpublications.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)2056-3485/" target="_blank" >Remote Sensing in Ecology and Conservation</a></em> and Review Editor for the Marine Megafauna section of <em><a href="https://www.frontiersin.org/journals/marine-science" target="_blank">Frontiers in Marine Science</a></em>.
 
 <img class="philprofile" src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
 
