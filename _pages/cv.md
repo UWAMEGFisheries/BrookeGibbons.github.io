@@ -54,6 +54,25 @@ redirect_from:
 <h2 class="cvsection"> Publications</h2>
 
 <table style="width:100%">
+
+<tr>
+  <td class="left">2018</td>
+  <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
+
+    {% capture pubyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+
+    {% if pubyear == "2018" %}
+
+    {% include archive-single-cv.html %}
+
+    {% endif %}
+
+  {% endfor %}
+  </ul>
+  </td>
+</tr>
+
+
   <tr>
     <td class="left">2017</td>
     <td class="right"><ul class="cvpublist">{% for post in site.publications reversed %}
