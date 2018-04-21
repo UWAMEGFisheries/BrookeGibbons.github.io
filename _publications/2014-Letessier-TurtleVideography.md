@@ -8,7 +8,7 @@ venue: 'Marine Biodiversity'
 paperurl: 'http://link.springer.com/article/10.1007/s12526-014-0287-3'
 citation: 'Letessier T, <strong>Bouchet P,</strong> Reisser J, Meeuwig J. 2015. Baited videography reveals remote foraging and migration behaviour of sea turtles. <em>Marine Biodiversity</em>, 45: 609-610.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://link.springer.com/article/10.1007/s12526-014-0287-3"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2015-BaitedVideography.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://link.springer.com/article/10.1007/s12526-014-0287-3"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2015-MarBio-BaitedVideographyTurtles.pdf">  Download (PDF)</a>
 
 <img src='/images/Letessier2015-Turtle-hero.jpg'>
 <br>

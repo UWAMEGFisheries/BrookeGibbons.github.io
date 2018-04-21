@@ -8,7 +8,7 @@ venue: 'Methods in Oceanography'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S2211122013000479'
 citation: 'Letessier T, Meeuwig J, Gollock M, Groves L, <strong>Bouchet P,</strong> Chapuis L, Vianna G, Kemp K, Koldewey H, Meeuwig J. 2013. Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment. <em>Methods in Oceanography</em>, 8: 41-55.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.sciencedirect.com/science/article/pii/S2211122013000479"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Letessier-2013-AssessingPelagic.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.sciencedirect.com/science/article/pii/S2211122013000479"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Letessier-2013-MethodsO-AssessingPelagicFish.pdf">  Download (PDF)</a>
 
 <img src='/images/Letessier2013-Midwater-hero.jpg'>
 <br>

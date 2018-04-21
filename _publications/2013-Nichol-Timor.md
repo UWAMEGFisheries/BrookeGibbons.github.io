@@ -8,7 +8,7 @@ venue: 'Technical report'
 paperurl: 'http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_76658'
 citation: 'Nichol SL, Howard FJF, Kool J, Stowar M, <strong>Bouchet P,</strong> Radke L, Siwabessy J, Przeslawski R, Picard K, Alvarez de Glasby B, Colquhoun J, Letessier T, Heyward A. 2013. Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) Biodiversity Survey: GA0339/SOL5650 – Post Survey Report. Record 2013/38. Geoscience Australia: Canberra, 112 p.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_76658"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Nichol-2013-TimorSurvey.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_76658"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Nichol-2013-Report-OceanicShoalsSurvey.pdf">  Download (PDF)</a>
 
 <img src='/images/Nichol2013-Timor-hero.jpg'>
 <br>

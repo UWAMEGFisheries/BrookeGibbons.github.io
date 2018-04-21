@@ -8,9 +8,9 @@ venue: 'Endangered Species Research'
 paperurl: 'http://www.int-res.com/abstracts/esr/v27/n2/p113-118/'
 citation: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</strong> Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. Key research questions of global importance for cetacean conservation. <em>Endangered Species Research</em>, 27(2): 113-118.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.int-res.com/abstracts/esr/v27/n2/p113-118/"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Parsons-2015-KeyResearch.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.int-res.com/abstracts/esr/v27/n2/p113-118/"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Parsons-2015-ESR-KeyQuestionsCetaceans.pdf">  Download (PDF)</a>
 
-<img src='/images/Parsons2015-KeyQuestions-hero.jpg'> 
+<img src='/images/Parsons2015-KeyQuestions-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>

@@ -8,7 +8,7 @@ venue: 'Biological Reviews'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract'
 citation: '<strong>Bouchet PJ,</strong> Meeuwig JJ, Salgado Kent C, Letessier T, Jenner C. 2015. Topographic determinants of mobile predator hotspots: Current knowledge and future directions. <em>Biological Reviews</em>, 90(3): 699-728.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Bouchet-2015-TopographicDeterminants.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12130/abstract"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Bouchet-2015-BiolRev-TopographicDeterminantsHotspots.pdf">  Download (PDF)</a>
 
 <img src='/images/Bouchet2015-Topographic-hero.jpg'>
 <br>

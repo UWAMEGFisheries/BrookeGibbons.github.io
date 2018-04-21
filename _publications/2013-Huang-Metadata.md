@@ -8,7 +8,7 @@ venue: 'Technical report'
 paperurl: 'http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_75846'
 citation: 'Huang Z, Przeslawski R, Kool J, Li J, <strong>Bouchet P,</strong> Nichol S. 2013. Australian marine environmental data: Descriptions and metadata. Record 2013/21. Geoscience Australia: Canberra, 214 p.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_75846"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Huang-2013_Metadata.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_75846"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Huang-2013-AustralianMarineMetadata.pdf">  Download (PDF)</a>
 
 <img src='/images/Huang2013-Metadata-hero.jpg'>
 <br>
