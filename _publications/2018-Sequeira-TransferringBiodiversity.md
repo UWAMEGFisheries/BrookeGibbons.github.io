@@ -5,7 +5,9 @@ permalink: /publications/2018-Sequeira-TransferringBiodiversity
 excerpt: 'We review the literature on model transferability in ecology and summarise the factors that underpin successful models transfers. We also propose a methodological framework that can facilitate the standardisation and correct application of biodiversity (ecological) models in novel environments.'
 date: 2018-03-06
 venue: 'Methods in Ecology and Evolution'
+DOIbadge: 'https://img.shields.io/badge/DOI-10.1111%2F2041--210X.12998-blue.svg?longCache=true&style=flat-square'
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12998/abstract'
+authors: 'Sequeira AMM, <strong>Bouchet PJ</strong>, Yates KL, Mengersen K, Caley MJ'
 citation: 'Sequeira AMM, <strong>Bouchet PJ</strong>, Yates KL, Mengersen K, Caley MJ. 2018. Transferring biodiversity models for conservation: Opportunities and challenges. <em>Methods in Ecology and Evolution</em>, DOI: 10.1111/2041-210X.12998.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12998/abstract"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Sequeira-2018-MEE-TransferringBiodiversityModels-PrePrint.pdf">  Download (PDF)</a>
