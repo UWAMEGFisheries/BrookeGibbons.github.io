@@ -3,7 +3,7 @@ title: "NESP Project D1 Ecosystem understanding to support sustainable use, mana
 collection: reports
 permalink: /publications/2017-Miller-NESP-D1-FinalReport
 excerpt: 'This report summarises the work undertaken to date as part of the NESP Project D1, which aimed to collate and synthesise existing biological/physical information for the Australian North-West. A primary objective of the project was to identify key knowledge gaps that available or newly-developed predictive models could help fill to guide future ecological sampling efforts and assist management.'
-date: 2018-02-28  
+date: 2017-02-28  
 venue: 'Technical report'
 paperurl: 'https://www.nespmarine.edu.au/document/ecosystem-understanding-support-sustainable-use-management-and-monitoring-marine-assets-0'
 citation: 'Miller K, Puotinen M, Przeslawski R, Huang Z, <strong>Bouchet P</strong>, Radford B, Li J, Kool J, Picard K, Thums M, Meeuwig J, Nichol S. 2017. NESP Project D1 Ecosystem understanding to support sustainable use, management and monitoring of marine assets in the North and North-West regions - Final Report 2016. Report to the National Environmental Science Programme, Marine Biodiversity Hub. Australian Institute of Marine Science, 146 p.'

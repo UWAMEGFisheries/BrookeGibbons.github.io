@@ -3,7 +3,7 @@ title: "Bremer Canyon Emerging Priorities Project EP2: Occurrence and distributi
 collection: reports
 permalink: /publications/2018-Bouchet-NESP-Bremer-FinalReport
 excerpt: 'This report captures the results of the Bremer Canyon NESP EP2 Project (Occurrence and distribution of marine wildlife in the Bremer Bay region), which was designed to establish baseline scientific knowledge of the Bremer region using a multidisciplinary approach that combined multiple sampling platforms, including aerial surveys, pelagic baited video systems, ocean gliders, and acoustic arrays.'
-date: 2018-03-01  
+date: 2018-03-04 
 venue: 'Technical report'
 paperurl: 'https://www.nespmarine.edu.au/document/bremer-canyon-final-report'
 citation: '<strong>Bouchet P,</strong> Meeuwig J, Erbe C, Salgado-Kent C, Wellard R, Pattiaratchi C. 2018. Bremer Canyon Emerging Priorities Project EP2: Occurrence and distribution of marine wildlife in the Bremer Bay region - Final Project Report. National Environmental Science Programme (NESP), Marine Biodiversity Hub, 32 p.'
