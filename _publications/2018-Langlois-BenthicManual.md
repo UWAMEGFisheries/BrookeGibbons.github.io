@@ -1,10 +1,10 @@
 ---
 title: "Marine sampling field manual for benthic BRUVS (Baited Remote Underwater Videos)"
 collection: reports
-permalink: /publications/Langlois-2018-BBRUV-Manual
+permalink: /publications/2018-Langlois-BenthicManual
 excerpt: 'This report provides standard operating protocols for marine sampling using benthic stereo-BRUVS (baited remote underwater video systems)'. We offer a step-by-step guide on everything from pre-survey planning to equipment preparation, field procedures, and on-board data acquisition - in an effort to develop consistent and transparent guidelines that can support standardisation across sites, studies and institutions.
 date: 2018-02-27  
-venue: 'Book chapter'
+venue: 'Technical report'
 paperurl: 'https://www.nespmarine.edu.au/field-manuals'
 citation: 'Langlois T, Williams J, Monk J, <strong>Bouchet P</strong>, Currey L, Goetze J, Harasti D, Huveneers C, Lerodiaconou D, Malcolm H, Whitmarsh S. 2018. Marine sampling field manual for pelagic BRUVS (Baited Remote Underwater Videos). <em>In:</em> Field Manuals for Marine Sampling to Monitor Australian Waters. National Environmental Science Programme (NESP), pp 82-104.'
 ---
