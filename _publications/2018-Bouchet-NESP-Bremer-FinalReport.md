@@ -2,8 +2,8 @@
 title: "Bremer Canyon Emerging Priorities Project EP2: Occurrence and distribution of marine wildlife in the Bremer Bay region - Final Project Report"
 collection: reports
 permalink: /publications/2018-Bouchet-NESP-Bremer-FinalReport
-excerpt: 'This report provides standard operating protocols for marine sampling using pelagic stereo-BRUVS (baited remote underwater video systems). We offer a step-by-step guide on everything from pre-survey planning to equipment preparation, field procedures, and on-board data acquisition - in an effort to develop consistent and transparent guidelines that can support standardisation across sites, studies and institutions.'
-date: 2018-02-28  
+excerpt: 'This report captures the results of the Bremer Canyon NESP EP2 Project (Occurrence and distribution of marine wildlife in the Bremer Bay region), which was designed to establish baseline scientific knowledge of the Bremer region using a multidisciplinary approach that combined multiple sampling platforms, including aerial surveys, pelagic baited video systems, ocean gliders, and acoustic arrays.'
+date: 2018-03-01  
 venue: 'Technical report'
 paperurl: 'https://www.nespmarine.edu.au/document/bremer-canyon-final-report'
 citation: '<strong>Bouchet P,</strong> Meeuwig J, Erbe C, Salgado-Kent C, Wellard R, Pattiaratchi C. 2018. Bremer Canyon Emerging Priorities Project EP2: Occurrence and distribution of marine wildlife in the Bremer Bay region - Final Project Report. National Environmental Science Programme (NESP), Marine Biodiversity Hub, 32 p.'
