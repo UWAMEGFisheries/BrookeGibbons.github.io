@@ -1,18 +1,18 @@
 ---
-title: "Bremer Canyon Emerging Priorities Project EP2: Occurrence and distribution of marine wildlife in the Bremer Bay region - Final Project Report"
+title: "Oceanic Shoals Commonwealth Marine Reserve - A guide"
 collection: reports
-permalink: /publications/2018-Bouchet-NESP-Bremer-FinalReport
-excerpt: 'This report captures the results of the Bremer Canyon NESP EP2 Project (Occurrence and distribution of marine wildlife in the Bremer Bay region), which was designed to establish baseline scientific knowledge of the Bremer region using a multidisciplinary approach that combined multiple sampling platforms, including aerial surveys, pelagic baited video systems, ocean gliders, and acoustic arrays.'
-date: 2018-03-04 
-venue: 'Technical report'
+permalink: /publications/2015-Caley-Brochure-OceanicShoals
+excerpt: 'This guide has been developed for policy makers and managers to communicate the key findings of the three recent surveys of the Oceanic Shoals Commonwealth Marine Park, northern Australia, and its relevance to decision making and management.'
+date: 2015-03-04
+venue: 'Technical brochure'
 paperurl: 'https://www.nespmarine.edu.au/document/bremer-canyon-final-report'
-citation: '<strong>Bouchet P,</strong> Meeuwig J, Erbe C, Salgado-Kent C, Wellard R, Pattiaratchi C. 2018. Bremer Canyon Emerging Priorities Project EP2: Occurrence and distribution of marine wildlife in the Bremer Bay region - Final Project Report. National Environmental Science Programme (NESP), Marine Biodiversity Hub, 32 p.'
+citation: 'Caley J, <strong>Bouchet P</strong>, Kool J, Meeuwig J, Nichol S, Przeslawski R. 2015. Oceanic Shoals Commonwealth Marine Reserve - A guide. Brochure produced for the National Environmental Research Programme (NERP), 13 p.'
 ---
-<i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/bremer-canyon-final-report"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Bouchet%20et%20al%20Bremer%20Canyon%20Final%20%20Report_Milestone%207_19March2018.pdf">  Download (PDF)</a>
+<i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/bremer-canyon-final-report"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Oceanic%20Shoals%20Commonwealth%20Marine%20Reserve%20-%20a%20guide%20_fact%20sheet.pdf">  Download (PDF)</a>
 
-<img src='/images/Bouchet2018-Bremer-hero.jpg'>
+<img src='/images/Caley2015-OceanicShoals-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>
 
-Approximately 70 kilometres south-east of Bremer Bay (119.4°E, 34.4°S) off southern Western Australia’s coast lies a group of submarine canyons that incise the continental slope, plunging to depths of more than 1,000 metres. Charismatic pelagic organisms such as cetaceans, sharks, seabirds and squid are known to concentrate in high abundance above these features. In particular, the canyons are the site of the largest reported seasonal aggregation of killer whales (<em>Orcinus orca</em>) in the Southern Hemisphere, with over 100 identified individuals in the local population, many of which are regularly sighted. Existing data suggest that the majority of killer whale encounters occur west of the Bremer Marine Park, around the heads of the Knob and Henry Canyons. It is unclear, however, whether this area represents a discrete and unique killer whale hotspot or whether the park may support other aggregations, be they from separate individuals or the same animals frequenting the hotspot. Furthermore, the mechanisms underpinning ocean productivity in these otherwise relatively oligotrophic waters remain largely unresolved.
+The broad continental shelf of northern Australia is characterised by extensive areas of carbonate banks, terraces and isolated pinnacles that provide hard substrates for sponge gardens and associated benthic fauna. The conservation values of these seabed features is recognised in marine bioregional plans through their assignment as Key Ecological Features (KEFs) of regional significance. These KEFs include: the carbonate banks and terraces of the Van Diemen Rise (North Marine Region); the carbonate banks and terraces of the Sahul Shelf (Northwest Marine Region), and; the pinnacles of the Bonaparte Basin (North and Northwest Marine Regions). Previous geological studies provide context for understanding the origin and distribution of modern benthic habitats within the Oceanic Shoals Marine Park. However, significant knowledge gaps around biodiversity patterns remain, with very few field observations of biota made to date in the region. A 25-day collaborative scientific voyage was undertaken by the Marine Biodiversity Hub in 2012 to sample previously unexplored carbonate terraces, banks, and pinnacles. The survey was designed to collect information to generate high-resolution seabed maps, gather samples of benthic biological material, and observe communities of fishes and other vertebrate species.

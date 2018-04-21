@@ -10,7 +10,7 @@ citation: 'Meeuwig J, Turner J, <strong>Bouchet P</strong>. 2016. Bremer Canyon 
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/bremer-canyon-progress-report"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Meeuwig%20et%20al%20Bremer%20Canyon%20Progress%20Report_Milestone%204%20FINAL_30Jun2017.pdf">  Download (PDF)</a>
 
-<img src='/images/Meeuwig2016-Bremer-Workshop.jpg'>
+<img src='/images/Meeuwig2016-Bremer-Workshop-hero.jpg'>
 <br>
 
 <strong>Abstract</strong>

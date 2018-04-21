@@ -1,5 +1,5 @@
 ---
-title: "NESP Project D1 Ecosystem understanding to support sustainable use, management and monitoring of marine assets in the North and North-West regions - Final Report 2016."
+title: "NESP Project D1 Ecosystem understanding to support sustainable use, management and monitoring of marine assets in the North and North-West regions - Final Report 2016"
 collection: reports
 permalink: /publications/2017-Miller-NESP-D1-FinalReport
 excerpt: 'This report summarises the work undertaken to date as part of the NESP Project D1, which aimed to collate and synthesise existing biological/physical information for the Australian North-West. A primary objective of the project was to identify key knowledge gaps that available or newly-developed predictive models could help fill to guide future ecological sampling efforts and assist management.'
