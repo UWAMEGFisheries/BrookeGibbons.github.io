@@ -4,9 +4,13 @@ collection: publications
 permalink: /publications/2017-Bouchet-SAUHotspots
 excerpt: 'We rely on a decade of historical fishing records from the Sea Around Us project to map the likely location of pelagic fish (i.e. tunas, mackerels, marlins) hotspots around Western Australia. We then assess the degree of overlap between these hotspots and the Australian national network of Commonwealth Marine Reserves.'
 date: 2017-08-24
-venue: 'Global Ecology and Biogeography'
+venue: <img src="https://img.shields.io/badge/Journal-Global%20Ecology%20and%20Biogeography-blue.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Free-Pre--print-green.svg?longCache=true&style=flat-square">
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/geb.12619/full'
+authors: '<strong>Bouchet PJ</strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley JM, Watson RA.'
 citation: '<strong>Bouchet PJ</strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley JM, Watson RA. 2017. Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records. <em>Global Ecology and Biogeography</em>, 26(10): 1098-1111.'
+dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1111/geb.12619" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1111/geb.12619" class="altmetric-embed"></div>
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/geb.12619/full"> Read online</a>&nbsp;
 

@@ -4,8 +4,9 @@ collection: reports
 permalink: /publications/2018-Przeslawski-PeerJ-OceanicShoals
 excerpt: 'Abstract from a presentation given at the 4th World Conference on Marine Biodiversity, Montreal, Canada.'
 date: 2018-03-01  
-venue: 'Conference proceedings'
+venue: <img src="https://img.shields.io/badge/Conference-proceedings-lightgrey.svg?longCache=true&style=flat-square">
 paperurl: 'https://peerj.com/preprints/26520/'
+authors: 'Przeslawski R, Picard K, Nichol S, Radford B, <strong>Bouchet P</strong>.'
 citation: 'Przeslawski R, Picard K, Nichol S, Radford B, <strong>Bouchet P</strong>. 2018. Applying geoscience to biodiversity monitoring: Case studies from an Australian marine park. <em>PeerJ Preprints</em>, 6: e26520v1.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://peerj.com/preprints/26520/"> Read online</a>
