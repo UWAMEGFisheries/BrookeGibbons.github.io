@@ -118,12 +118,12 @@ width:78% !important;
 }
 
 .__dimensions_badge_embed__{
-  display: inline-flex;
-  margin-left: 1em;
+  display: inline-block;
 }
 
 .altmetric-embed{
-  float: left;
+  display: inline-block;
+  margin-left: 0.2em;
 }
 
 .aboutPhil {
