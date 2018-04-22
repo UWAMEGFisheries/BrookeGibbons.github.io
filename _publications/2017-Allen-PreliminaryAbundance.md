@@ -4,9 +4,13 @@ collection: publications
 permalink: /publications/2017-Allen-PreliminaryAbundance
 excerpt: 'We present the first abundance estimate for any Australian pelagic dolphin community. The data derive from a combination of aerial distance sampling and genetic mark-recapture, and provide a critical baseline for assessing the population-level impact of dolphin bycatch in the Pilbara trawl fishery.'
 date: 2017-06-13
-venue: 'Scientific Reports'
+venue: <img src="https://img.shields.io/badge/Journal-Scientific%20Reports-blue.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-brightgreen.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nature.com/articles/s41598-017-05189-0'
+authors: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR.'
 citation: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery. <em>Scientific Reports</em>, 7: art4995.'
+dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-017-05189-0" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-017-05189-0" class="altmetric-embed"></div>
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nature.com/articles/s41598-017-05189-0"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf">  Download (PDF)</a>
 
