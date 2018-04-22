@@ -2,7 +2,7 @@
 title: "Transferring biodiversity models for conservation: Opportunities and challenges"
 collection: publications
 permalink: /publications/2018-Sequeira-TransferringBiodiversity
-excerpt: 'We review the literature on model transferability in ecology and summarise the factors that underpin successful models transfers. We also propose a methodological framework that can facilitate the standardisation and correct application of biodiversity (ecological) models in novel environments.'
+excerpt: 'We review the literature on model transferability and summarise the factors that underpin successful models transfers in ecology. We also propose a methodological framework that can facilitate the standardisation and correct application of biodiversity (ecological) models in novel environments.'
 date: 2018-03-06
 venue: <img src="https://img.shields.io/badge/Journal-Methods%20in%20Ecology%20and%20Evolution-blue.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Free-Pre--print-green.svg?longCache=true&style=flat-square">
