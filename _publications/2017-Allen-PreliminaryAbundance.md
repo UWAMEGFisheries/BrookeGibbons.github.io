@@ -4,8 +4,8 @@ collection: publications
 permalink: /publications/2017-Allen-PreliminaryAbundance
 excerpt: 'We present the first abundance estimate for any Australian pelagic dolphin community. The data derive from a combination of aerial distance sampling and genetic mark-recapture, and provide a critical baseline for assessing the population-level impact of dolphin bycatch in the Pilbara trawl fishery.'
 date: 2017-06-13
-venue: <img src="https://img.shields.io/badge/Journal-Scientific%20Reports-blue.svg?longCache=true&style=flat-square">
-pdf: <img src="https://img.shields.io/badge/Open-access-brightgreen.svg?longCache=true&style=flat-square">
+venue: <img src="https://img.shields.io/badge/Journal-Scientific%20Reports-2a94ba.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-green.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nature.com/articles/s41598-017-05189-0'
 authors: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR.'
 citation: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery. <em>Scientific Reports</em>, 7: art4995.'
