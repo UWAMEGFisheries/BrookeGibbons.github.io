@@ -3,9 +3,10 @@ title: "Aerial visual survey of cetaceans and other megafauna in the Bremer Mari
 collection: reports
 permalink: /publications/2018-Bouchet-NESP-Bremer-Aerial
 excerpt: 'This document provides a succinct description of marine megafauna sightings collected during aerial surveys of the Bremer Marine Park.'
-date: 2018-03-03 
-venue: 'Short communication'
+date: 2018-03-03
+venue: <img src="https://img.shields.io/badge/Short-communication-yellow.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/document/aerial-visual-survey-cetaceans-and-other-megafauna-bremer-marine-park-and-surrounding-areas'
+authors: '<strong>Bouchet P,</strong> Wellard R, Erbe C, Meeuwig J.'
 citation: '<strong>Bouchet P,</strong> Wellard R, Erbe C, Meeuwig J. 2018. Aerial visual survey of cetaceans and other megafauna in the Bremer Marine Park and surrounding areas. Short communication prepared for
 the National Environmental Science Programme (NESP), Marine Biodiversity Hub, 5 p.'
 ---
