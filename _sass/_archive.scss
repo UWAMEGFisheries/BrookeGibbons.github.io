@@ -48,13 +48,17 @@ width:78% !important;
 }
 
 #journalline{
-  margin-top:0.1em;
-  margin-bottom:1em;
+  margin-top: 0.75em;
+  margin-bottom: 0.5em;
 }
 
 #journalauthorsline{
   margin-top:0.1em;
   margin-bottom:0.1em;
+}
+
+#main > div.archive > div:nth-child(5) > article > p:nth-child(5){
+  display:none;
 }
 
 .archive__item-title {
@@ -346,6 +350,7 @@ font-size: 0.85em !important;
   /*font-size: $type-size-6;*/
   font-size: 0.85em;
   font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+  margin-bottom: 0.5em;
 
   & + p {
     text-indent: 0;
