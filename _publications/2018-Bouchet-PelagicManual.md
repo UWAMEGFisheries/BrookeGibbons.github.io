@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2018-Bouchet-PelagicManual
 excerpt: 'This report provides standard operating protocols for marine sampling using pelagic stereo-BRUVS (baited remote underwater video systems). We offer a step-by-step guide on everything from pre-survey planning to equipment preparation, field procedures, and on-board data acquisition - in an effort to develop consistent and transparent guidelines that can support standardisation across sites, studies and institutions.'
 date: 2018-03-05  
-venue: 'Book chapter'
+venue: <img src="https://img.shields.io/badge/Book-chapter-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-green.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/field-manuals'
+authors: '<strong>Bouchet P,</strong> Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S.'
 citation: '<strong>Bouchet P,</strong> Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2018. Marine sampling field manual for pelagic BRUVS (Baited Remote Underwater Videos). <em>In:</em> Field Manuals for Marine Sampling to Monitor Australian Waters. National Environmental Science Programme (NESP), pp 105-132.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/field-manuals"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Bouchet-2018-PBRUV-Manual.pdf">  Download (PDF)</a>
