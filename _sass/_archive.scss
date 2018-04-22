@@ -117,9 +117,11 @@ width:78% !important;
     font-size: 0.85em !important;
 }
 
-.__dimensions_badge_embed__{
-  display: inline-block;
+.__dimensions_badge_embed__, .__dimensions_badge_embed__ a, .__dimensions_badge_embed__ a:hover, .__dimensions_badge_embed__ div{
+  display: inline-block !important;
 }
+
+#main > div.archive > div:nth-child(5) > article > div > span
 
 .altmetric-embed{
   display: inline-block;
