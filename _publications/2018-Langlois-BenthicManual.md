@@ -4,7 +4,7 @@ collection: reports
 permalink: /publications/2018-Langlois-BenthicManual
 excerpt: 'This report provides standard operating protocols for marine sampling using benthic stereo-BRUVS (baited remote underwater video systems). We offer a step-by-step guide on everything from pre-survey planning to equipment preparation, field procedures, and on-board data acquisition - in an effort to develop consistent and transparent guidelines that can support standardisation across sites, studies and institutions.'
 date: 2018-03-04  
-venue: <img src="https://img.shields.io/badge/Book-chapter-yellow.svg?longCache=true&style=flat-square">
+venue: <img src="https://img.shields.io/badge/Book-chapter-2a94ba.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-green.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/field-manuals'
 authors: 'Langlois T, Williams J, Monk J, <strong>Bouchet P</strong>, Currey L, Goetze J, Harasti D, Huveneers C, Lerodiaconou D, Malcolm H, Whitmarsh S.'
