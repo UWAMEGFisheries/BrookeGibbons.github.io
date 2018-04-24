@@ -4,9 +4,13 @@ collection: publications
 permalink: /publications/2015-Letessier-SamplingMOFS
 excerpt: 'We review the literature surrounding sampling methods for mobile oceanic fishes and sharks (MOFs) and offer perspectives on future avenues of research, particularly in the context of global declines in marine predator populations and a corresponding expansion of space-based management in offshore waters.'
 date: 2017-05-18
-venue: 'Biological Reviews'
+venue: <img src="https://img.shields.io/badge/Journal-Biological%20Reviews-blue.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Free-pre--print-green.svg?longCache=true&style=flat-square">
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full'
+authors: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ.'
 citation: 'Letessier TBL, <strong>Bouchet PJ,</strong> Meeuwig JJ. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. <em>Biological Reviews</em>, 92(2): 627–646.'
+dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1111/brv.12246" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1111/brv.12246" class="altmetric-embed"></div>
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1111/brv.12246/full"> Read online</a>&nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2017-BiolRev-SamplingFishesSharks.pdf">  Download (PDF)</a>
 
