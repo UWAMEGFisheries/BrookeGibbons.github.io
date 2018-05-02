@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2017-Miller-NESP-D1-FinalReport
 excerpt: 'This report summarises the outcomes of a scientific workshop conducted at Geoscience Australia as part of the NESP D1 Project. The objectives of the workshop were to discuss future research priorities for the North and North-West regions and to define current knowledge gaps by consolidating existing datasets from numerous research institutions.'
 date: 2015-01-01  
-venue: 'Technical report'
+venue: <img src="https://img.shields.io/badge/Technical-report-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/document/developing-toolbox-predictive-models-monitoring-and-management-kefs-and-cmrs-north-and'
+authors: 'Przeslawski R, Miller K, Nichol S, <strong>Bouchet P</strong>, Huang Z, Kool J, Radford B, Thums M.'
 citation: 'Przeslawski R, Miller K, Nichol S, <strong>Bouchet P</strong>, Huang Z, Kool J, Radford B, Thums M. 2015. NESP D1: Developing a toolbox of predictive models for the monitoring and management of KEFs and CMRs in the North and North-west regions. Scientific workshop report to the National Environmental Science Programme Marine Biodiversity Hub, 23 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/developing-toolbox-predictive-models-monitoring-and-management-kefs-and-cmrs-north-and"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/NESP%20Marine%20Hub%20D1%20Developing%20toolbox%20predictive%20models%20workshop%20report%202015_FINAL_AO.pdf">  Download (PDF)</a>

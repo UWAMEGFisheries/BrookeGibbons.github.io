@@ -4,9 +4,13 @@ collection: publications
 permalink: /publications/2015-Bouchet-BaitedVideography
 excerpt: 'We present a novel system of drifting pelagic baited stereo-video cameras that operate in deep-water, topographically complex environments typically considered inaccessible for sampling.'
 date: 2015-08-20
-venue: 'Ecosphere'
+venue: <img src="https://img.shields.io/badge/Journal-Ecosphere-blue.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'http://onlinelibrary.wiley.com/doi/10.1890/ES14-00380.1/abstract'
+authors: '<strong>Bouchet PJ,</strong> Meeuwig JJ.'
 citation: '<strong>Bouchet PJ,</strong> Meeuwig JJ. 2015. Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves. <em>Ecosphere</em>, 6(8): art137.'
+dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1890/ES14-00380.1" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1890/ES14-00380.1" class="altmetric-embed"></div>
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://onlinelibrary.wiley.com/doi/10.1890/ES14-00380.1/abstract"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Bouchet-2015-Ecosphere-DriftingBaitedVideography.pdf">  Download (PDF)</a>
 
