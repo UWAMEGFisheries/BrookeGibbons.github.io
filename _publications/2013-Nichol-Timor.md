@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2013-Nichol-Timor
 excerpt: 'This report provides details of activities undertaken by the Australian Institute of Marine Science (AIMS), Geoscience Australia, the University of Western Australia and the Museum and Art Gallery of the Northern Territory during a marine biodiversity survey to the Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) in 2012.'
 date: 2013-12-14  
-venue: 'Technical report'
+venue: <img src="https://img.shields.io/badge/Technical-report-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_76658'
+authors: 'Nichol SL, Howard FJF, Kool J, Stowar M, <strong>Bouchet P,</strong> Radke L, Siwabessy J, Przeslawski R, Picard K, Alvarez de Glasby B, Colquhoun J, Letessier T, Heyward A'
 citation: 'Nichol SL, Howard FJF, Kool J, Stowar M, <strong>Bouchet P,</strong> Radke L, Siwabessy J, Przeslawski R, Picard K, Alvarez de Glasby B, Colquhoun J, Letessier T, Heyward A. 2013. Oceanic Shoals Commonwealth Marine Reserve (Timor Sea) Biodiversity Survey: GA0339/SOL5650 – Post Survey Report. Record 2013/38. Geoscience Australia: Canberra, 112 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_76658"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Nichol-2013-Report-OceanicShoalsSurvey.pdf">  Download (PDF)</a>

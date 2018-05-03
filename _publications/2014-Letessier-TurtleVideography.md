@@ -4,9 +4,13 @@ collection: publications
 permalink: /publications/2014-Letessier-TurtleVideography
 excerpt: 'We report on observations of threatened sea turtles from multiple deployments of pelagic stereo-BRUVS in Western Australia.'
 date: 2015-08-12
-venue: 'Marine Biodiversity'
+venue: <img src="https://img.shields.io/badge/Journal-Marine%20Biodiversity-blue.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Free-Pre--print-green.svg?longCache=true&style=flat-square">
 paperurl: 'http://link.springer.com/article/10.1007/s12526-014-0287-3'
+authors: 'Letessier T, <strong>Bouchet P,</strong> Reisser J, Meeuwig J'
 citation: 'Letessier T, <strong>Bouchet P,</strong> Reisser J, Meeuwig J. 2015. Baited videography reveals remote foraging and migration behaviour of sea turtles. <em>Marine Biodiversity</em>, 45: 609-610.'
+dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1007/s12526-014-0287-3" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1007/s12526-014-0287-3" class="altmetric-embed"></div>
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://link.springer.com/article/10.1007/s12526-014-0287-3"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Letessier-2015-MarBio-BaitedVideographyTurtles.pdf">  Download (PDF)</a>
 

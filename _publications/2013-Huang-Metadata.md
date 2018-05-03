@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2013-Huang-Metadata
 excerpt: 'This report provides detailed descriptions (metadata) of 45 Australian marine environmental datasets that have been generated and collated by the Marine Biodiversity Hub.'
 date: 2013-12-15  
-venue: 'Technical report'
+venue: <img src="https://img.shields.io/badge/Technical-report-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_75846'
+authors: 'Huang Z, Przeslawski R, Kool J, Li J, <strong>Bouchet P,</strong> Nichol S'
 citation: 'Huang Z, Przeslawski R, Kool J, Li J, <strong>Bouchet P,</strong> Nichol S. 2013. Australian marine environmental data: Descriptions and metadata. Record 2013/21. Geoscience Australia: Canberra, 214 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="http://www.ga.gov.au/metadata-gateway/metadata/record/gcat_75846"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="http://phbouchet.github.io/files/Huang-2013-AustralianMarineMetadata.pdf">  Download (PDF)</a>
