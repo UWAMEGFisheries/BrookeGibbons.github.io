@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2016-Meeuwig-Bremer-WorkshopReport
 excerpt: 'This report synthesises the outcomes of a scientific workshop held at the University of Western Australia as part of the NESP Bremer Canyon EP2 Project.'
 date: 2016-10-05
-venue: 'Technical report'
+venue: <img src="https://img.shields.io/badge/Technical-report-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/document/bremer-canyon-progress-report'
+authors: 'Meeuwig J, Turner J, <strong>Bouchet P</strong>'
 citation: 'Meeuwig J, Turner J, <strong>Bouchet P</strong>. 2016. Bremer Canyon Science Report: Workshop held 25 October 2016. Report to the National Environmental Science Programme, Marine Biodiversity Hub, 27 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/bremer-canyon-progress-report"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Meeuwig%20et%20al%20Bremer%20Canyon%20Progress%20Report_Milestone%204%20FINAL_30Jun2017.pdf">  Download (PDF)</a>

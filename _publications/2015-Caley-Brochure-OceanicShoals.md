@@ -4,8 +4,10 @@ collection: reports
 permalink: /publications/2015-Caley-Brochure-OceanicShoals
 excerpt: 'This guide has been developed for policy makers and managers to communicate the key findings of the three recent surveys of the Oceanic Shoals Commonwealth Marine Park, northern Australia, and its relevance to decision making and management.'
 date: 2015-03-04
-venue: 'Technical brochure'
+venue: <img src="https://img.shields.io/badge/Technical-brochure-yellow.svg?longCache=true&style=flat-square">
+pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/document/bremer-canyon-final-report'
+authors: 'Caley J, <strong>Bouchet P</strong>, Kool J, Meeuwig J, Nichol S, Przeslawski R'
 citation: 'Caley J, <strong>Bouchet P</strong>, Kool J, Meeuwig J, Nichol S, Przeslawski R. 2015. Oceanic Shoals Commonwealth Marine Reserve - A guide. Brochure produced for the National Environmental Research Programme (NERP), 13 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/bremer-canyon-final-report"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Oceanic%20Shoals%20Commonwealth%20Marine%20Reserve%20-%20a%20guide%20_fact%20sheet.pdf">  Download (PDF)</a>
