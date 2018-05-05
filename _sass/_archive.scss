@@ -49,7 +49,19 @@ width:78% !important;
 
 .media_iframe{
   width:100%;
-  height:-webkit-fill-available;
+  height: 350px;;
+}
+
+body > div.main-view.container-fluid.ng-scope > div > div.person-header.row > div.col-md-9.person-about{
+  display: none;
+}
+
+body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
+  display: none;
+}
+
+#pitch-banner{
+  display: none;
 }
 
 #journalline{
