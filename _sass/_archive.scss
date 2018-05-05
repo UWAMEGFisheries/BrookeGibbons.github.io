@@ -28,7 +28,7 @@ width:78% !important;
   padding-bottom: 0.5em;
   padding-top: 0.55em;
   font-size: 0.85em;
-  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   /*color: mix(#fff, $gray, 25%);*/
   /*border-bottom: 1px solid $border-color;*/
   color: #2a94ba;
@@ -41,7 +41,7 @@ width:78% !important;
 
   + .list__item .archive__item-title {
     margin-top: 0.6em;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 1em;
     margin-bottom: 0.1em;
   }
@@ -63,13 +63,13 @@ width:78% !important;
 
 .archive__item-title {
   margin-bottom: 0.65em;
-  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 1em;
   margin-bottom: 0.1em;
 
   a + a {
     opacity: 0.5;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 0.85em;
   }
 }
@@ -80,7 +80,7 @@ width:78% !important;
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size:1em;
     margin-bottom: 0.1em;
 
@@ -109,7 +109,7 @@ width:78% !important;
 
 .journal{
 
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
     color: #9fa0a6 !important;
     font-size: 0.85em !important;
     opacity:0.85;
@@ -117,7 +117,7 @@ width:78% !important;
 
 .journalauthors{
 
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
     font-size: 0.85em !important;
 }
 
@@ -228,7 +228,7 @@ a.readmorelink{
 }
 
 table {
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
     border: 0px solid #bdc1c4;
     font-size:0.85em !important;
 }
@@ -297,7 +297,7 @@ td.right {
     padding-bottom: 0.5em;
     padding-top: 0.55em;
     font-size: 1.2em;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     color: #2a94ba;
     border-bottom: 1px solid #f2f3f3;
     background-color: rgba(46, 162, 204, 0.08);
@@ -311,7 +311,7 @@ td.right {
     padding-bottom: 0.5em;
     padding-top: 0.55em;
     font-size: 1.2em;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     color: #2a94ba;
     border-bottom: 1px solid #f2f3f3;
     background-color: rgba(46, 162, 204, 0.08);
@@ -349,12 +349,12 @@ font-size: 0.85em !important;
   margin-top: 0;
   /*font-size: $type-size-6;*/
   font-size: 0.85em;
-  font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   margin-bottom: 0.5em;
 
   & + p {
     text-indent: 0;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial !important;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
     font-size:0.85em;
   }
 }
@@ -374,7 +374,7 @@ font-size: 0.85em !important;
 
   .archive__item-title {
     text-decoration: none;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size:1em !important;
     margin-bottom: 0.1em;
   }
@@ -434,13 +434,13 @@ and (orientation : portrait) { .archive {
   .archive__item-title {
     margin-top: 0.5em;
     font-size: 1em !important;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     margin-bottom: 0.1em;
   }
 
   .archive__item-excerpt {
     display: none;
-    font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   }
 
   @include breakpoint($small) {
@@ -463,7 +463,7 @@ and (orientation : portrait) { .archive {
       display: block;
       /*font-size: $type-size-6;*/
       font-size: 0.85em;
-      font-family: 'PT Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial;
+      font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     }
   }
 }
