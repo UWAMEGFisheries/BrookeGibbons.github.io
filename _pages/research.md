@@ -18,10 +18,10 @@ author_profile: true
 
 <h3>Abundance estimation</h3>
 
+Many cetaceans were hunted down to the brink of extinction during the 20th century. It is thought, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Some populations have begun to recover, but not all have done so at a comparable pace, and many now face additional threats from incidental catch in fisheries to vessels strikes. Abundance and population trend estimates are still largely lacking, hampering effective management and understanding of  
+
 <img src='/images/2010-hw-Rottnest.jpg' align='right' hspace="20" vspace="20">
 <figcaption>Young humpback whale (<em>Megaptera novaeangliae</em>) on its southern migration past Rottnest Island, Western Australia. <br>Photo credit: Phil Bouchet (2010).</figcaption>
-
-Many cetaceans were hunted down to the brink of extinction during the 20th century. It is thought, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Some populations have begun to recover, but not all have done so at a comparable pace, and many now face additional threats from incidental catch in fisheries to vessels strikes. Abundance and population trend estimates are still largely lacking, hampering effective management and understanding of  
 
 I have produced abundance estimates for a number of dolphin and whale populations along the West Australian coast, using mark-recapture and distance sampling methods.
 
