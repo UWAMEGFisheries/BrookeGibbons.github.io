@@ -6,20 +6,33 @@ author_profile: true
 ---
 
 
-<h2>Cetacean abundance</h2>
+<h2>Pelagic sampling</h2>
 
-Due to its long history of exploitation from the whaling industry, the population of humpback whales (Megaptera novaeangliae) known as southern hemisphere breeding stock ‘D’ has one of the longest records of study and management. These animals migrate annually from high-latitude feeding grounds in Antarctica to tropical breeding grounds in the Kimberley region of northern Western Australia (WA). Because of their primarily coastal distribution, migrating humpback whales rapidly became vulnerable to hunting during the 20th century. It is estimated that whaling stations in Australia and New Zealand killed over 40,000 humpback whales during their time of operation, effectively bringing the species to the brink of extinction by the time their commercial harvesting ceased in 1963. Since the International Whaling Commission moratorium on commercial whaling came into place in 1986, many whale populations have however begun to recover, although not all have done so at the same pace. The first efforts to monitor stock D humpbacks began in Shark Bay in the 1990s. Aerial surveys showed that ca. 11,500 individuals were found of the WA coast by 1999, and that numbers were rapidly increasing (from 12,800 in 2005 to 33,850 in 2008). The aim of this project was to (1) update population estimates with new aerial survey data gathered from the same population at North West Cape, a site located approx. 400 km north of Shark Bay, and (2) define a possible trend in abundance from the combined results gathered at both locations.
 
-I have developed and
 
-<img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="5">
-<figcaption>Filming Galapagos sharks (<em>Carcharhinus galapagensis</em>) at Marotiri, southern Austral islands, French Polynesia. <br>Photo credit: Manu San Félix (2014).</figcaption>
+<h2>Megafauna biogeography</h2>
+
+
+
+<h2>Cetacean ecology</h2>
+
+<h3>Abundance estimation</h3>
+
+<img src='/images/2010-hw-Rottnest.jpg' align='right' width="350" hspace="20" vspace="20">
+<figcaption>Young humpback whale (<em>Megaptera novaeangliae</em>) on its southern migration past Rottnest Island, Western Australia. <br>Photo credit: Phil Bouchet (2010).</figcaption>
+
+Many cetaceans were hunted down to the brink of extinction during the 20th century. It is thought, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Some populations have begun to recover, but not all have done so at a comparable pace, and many now face additional threats from incidental catch in fisheries to vessels strikes. Abundance and population trend estimates are still largely lacking, hampering effective management and understanding of  
+
+I have produced a abundance estimates for a number of dolphin and whale populations along the West Australian coast, using mark-recapture and distance sampling methods.
 
 <h3>Related links and papers</h3>
 
 Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/files/Salgado-2012-JCRM-SouthernHemisphereHumpbacks.pdf">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 
-<h2>Endemic coastal dolphins</h2>
+<h2>Distribution models</h2>
+
+Snubfin dolphins (Orcaella heinsohni) are coastal and estuarine cetaceans endemic to northern Australia. Only discovered in 2005, the species remains very poorly known and little
+information currently exists on the animals’ distribution, habitat preferences, behaviour or Snubfin dolphins preferences, behaviour or abundance. Local populations have been identified in Queensland and Western Australia but these are likely small and geographically or genetically isolated. In 2010, a nomination was made for the listing of snubfin dolphins as a threatened species under the EPBC Act, based on its known biological characteristics and the rising threats it faces from coastal developments and industrial activities.
 
 <img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="5">
 <figcaption>Filming Galapagos sharks (<em>Carcharhinus galapagensis</em>) at Marotiri, southern Austral islands, French Polynesia. <br>Photo credit: Manu San Félix (2014).</figcaption>
