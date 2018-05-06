@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<h2 class="cvsection"> Current position</h2>
-
 My full CV is available as a <a href="https://phbouchet.github.io/assets/Phil_Bouchet_CV_full_2018May.pdf">PDF</a>.
+
+<h2 class="cvsection"> Current position</h2>
 
 <table style="width:100%">
   <tr>
