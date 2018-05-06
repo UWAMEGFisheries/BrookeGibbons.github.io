@@ -29,7 +29,6 @@ Sequeira AMM, <strong>Bouchet PJ</strong>, Yates KL, Mengersen K, Caley MJ. 2018
 
 <strong>Bouchet PJ</strong>, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2018. Marine sampling field manual for pelagic stereo-BRUVS (Baited Remote Underwater Videos). <em>In</em>: <a href="https://www.nespmarine.edu.au/field-manuals">Field Manuals for Marine Sampling to Monitor Australian Waters</a>, pp. 105-132, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP), 212 p.
 
-
 Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://www.nature.com/articles/s41598-017-05189-0">Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
 
 <strong>Bouchet PJ</strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley MJ, Watson RA. 2017. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12619">Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records.</a> <em>Global Ecology and Biogeography</em>, 26: 1098–1111.
