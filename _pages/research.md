@@ -14,20 +14,22 @@ author_profile: true
 <h2>Model transferability</h2>
 
 
-<h3 class="researchtitle">Abundance estimation</h3>
+<h2 class="researchtitle">Abundance estimation</h2>
 
 Many cetaceans were hunted down to the brink of extinction during the 20th century. It is estimated, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Although some populations have begun to recover, not all have done so at the same pace, and many still face significant threats from human activities such as incidental catch in fisheries. In this context, abundance and population trend estimates are critically needed for management, but remain largely lacking.
 
-<img class="researchimg" src='/images/2010-hw-Rottnest.jpg' align='right' hspace="20" vspace="20">
+<img class="researchimg" src='/images/Research-img-AbundanceEstimation.jpg' align='right' hspace="20" vspace="20">
 <figcaption>Young humpback whale (<em>Megaptera novaeangliae</em>) on its southern migration past Rottnest Island, Western Australia. <br>Photo credit: Phil Bouchet (2010).</figcaption>
 
 I have produced abundance estimates for a number of dolphin and whale populations along the West Australian coast, using a combination of mark-recapture, line transect sampling, and spatial modelling methods.
 
 <h3>Papers and related links</h3>
 
-<strong>Bouchet PJ</strong>, Raudino H, Thiele D, Miller DL, Brooks L, Waples K. Forthcoming. Going the distance and beyond when estimating the abundance of a cryptic cetacean in a proposed marine protected area. <em>Methods in Ecology and Evolution</em>
+<strong>Bouchet PJ</strong>, Raudino H, Thiele D, Miller DL, Brooks L, Waples K. Forthcoming. Going the distance and beyond when estimating the abundance of a cryptic cetacean in a proposed marine protected area. <em>Methods in Ecology and Evolution</em>.
 
 Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
+
+Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ</strong>, Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. <a href="http://www.int-res.com/abstracts/esr/v27/n2/p113-118/">Key research questions of global importance for cetacean conservation.</a> <em>Endangered Species Research</em>, 27(2): 113-118.
 
 Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/files/Salgado-2012-JCRM-SouthernHemisphereHumpbacks.pdf">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 
