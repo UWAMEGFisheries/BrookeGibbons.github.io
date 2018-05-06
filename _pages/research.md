@@ -23,9 +23,11 @@ author_profile: true
 
 Many cetaceans were hunted down to the brink of extinction during the 20th century. It is thought, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Some populations have begun to recover, but not all have done so at a comparable pace, and many now face additional threats from incidental catch in fisheries to vessels strikes. Abundance and population trend estimates are still largely lacking, hampering effective management and understanding of  
 
-I have produced a abundance estimates for a number of dolphin and whale populations along the West Australian coast, using mark-recapture and distance sampling methods.
+I have produced abundance estimates for a number of dolphin and whale populations along the West Australian coast, using mark-recapture and distance sampling methods.
 
 <h3>Related links and papers</h3>
+
+'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.'
 
 Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/files/Salgado-2012-JCRM-SouthernHemisphereHumpbacks.pdf">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 
