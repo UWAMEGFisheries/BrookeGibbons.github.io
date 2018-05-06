@@ -11,6 +11,8 @@ redirect_from:
 
 <h2 class="cvsection"> Current position</h2>
 
+My full CV is available as a <a href="https://phbouchet.github.io/assets/Phil_Bouchet_CV_full_2018May.pdf">PDF</a>.
+
 <table style="width:100%">
   <tr>
     <td class="left">2015-now</td>
