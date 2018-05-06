@@ -23,7 +23,7 @@ I am currently based at the University of Western Australia, and act as an Assoc
 
 In collaboration with colleagues from UWA, the University of Salford and Queensland University of Technology, I am currently co-leading studies on the topic of <a href="https://phbouchet.github.io/publications/2018-Sequeira-TransferringBiodiversity">model transferability</a>, with the aim of assessing when, and why ecological models may/may not make reliable predictions of species distributions in unsampled environments.
 
-<strong>Recent highlights:</strong>
+<h2>Recent highlights:</h2>
 
 Sequeira AMM, <strong>Bouchet PJ</strong>, Yates KL, Mengersen K, Caley MJ. 2018. <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12998">Transferring biodiversity models for conservation: Opportunities and challenges.</a> Methods in Ecology and Evolution, 9(5): 1250-1264. DOI: 10.1111/2041-210X.12998.
 
