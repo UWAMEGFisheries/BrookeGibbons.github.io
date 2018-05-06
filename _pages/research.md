@@ -27,9 +27,9 @@ I have produced abundance estimates for a number of dolphin and whale population
 
 <h3>Papers and related links</h3>
 
+<strong>Bouchet PJ</strong>, Raudino H, Thiele D, Miller DL, Brooks L, Waples K. Forthcoming. Going the distance and beyond when estimating the abundance of a cryptic cetacean in a proposed marine protected area. <em>Methods in Ecology and Evolution</em>
 
-
-'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.'
+Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
 
 Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/files/Salgado-2012-JCRM-SouthernHemisphereHumpbacks.pdf">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 

@@ -124,7 +124,7 @@ width:19%;
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 0px;
     margin-bottom: 20px;
   }
 }
