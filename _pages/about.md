@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="aboutPhil">Hi, I am Phil</h1>
 
-I am a jack of a few trades – initially trained as a marine mammalogist, I morphed into a shark/fish/anything-that-lives-under-the-sea biologist as a doctoral student. At heart though, I am just an obstinately geeky data cruncher, who always gets a kick out of playing with numbers.
+I am a jack of a few trades – initially trained as a marine mammalogist, I morphed into a shark/fish biologist as a doctoral student. At heart though, I am just an obstinately geeky data cruncher, who always gets a kick out of playing with numbers.
 
 
 <img class="philprofile" src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
