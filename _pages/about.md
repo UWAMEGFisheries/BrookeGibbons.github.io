@@ -25,14 +25,14 @@ In collaboration with colleagues from UWA, the University of Salford and Queensl
 
 <strong>Recent highlights:</strong>
 
-Sequeira AMM, <strong>Bouchet PJ<strong>, Yates KL, Mengersen K, Caley MJ. 2018. <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12998">Transferring biodiversity models for conservation: Opportunities and challenges.</a> Methods in Ecology and Evolution, 9(5): 1250-1264. DOI: 10.1111/2041-210X.12998.
+Sequeira AMM, <strong>Bouchet PJ</strong>, Yates KL, Mengersen K, Caley MJ. 2018. <a href="https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12998">Transferring biodiversity models for conservation: Opportunities and challenges.</a> Methods in Ecology and Evolution, 9(5): 1250-1264. DOI: 10.1111/2041-210X.12998.
 
-<strong>Bouchet PJ<strong>, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2018. Marine sampling field manual for pelagic stereo-BRUVS (Baited Remote Underwater Videos). In: <a href="https://www.nespmarine.edu.au/field-manuals">Field Manuals for Marine Sampling to Monitor Australian Waters</a>, pp. 105-132, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP), 212 p.
+<strong>Bouchet PJ</strong>, Meeuwig J, Huveneers C, Langlois T, Letessier T, Lowry M, Rees M, Santana-Garcon J, Scott M, Taylor M, Thompson C, Vigliola L, Whitmarsh S. 2018. Marine sampling field manual for pelagic stereo-BRUVS (Baited Remote Underwater Videos). In: <a href="https://www.nespmarine.edu.au/field-manuals">Field Manuals for Marine Sampling to Monitor Australian Waters</a>, pp. 105-132, Przeslawski R, Foster S (Eds). National Environmental Science Programme (NESP), 212 p.
 
 
-Allen SJ, Pollock KH, <strong>Bouchet PJ<strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://www.nature.com/articles/s41598-017-05189-0">Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> Scientific Reports, 7: art4995.
+Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://www.nature.com/articles/s41598-017-05189-0">Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> Scientific Reports, 7: art4995.
 
-<strong>Bouchet PJ<strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley MJ, Watson RA. 2017. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12619">Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records.</a> Global Ecology and Biogeography, 26: 1098–1111.
+<strong>Bouchet PJ</strong>, Meeuwig JJ, Huang Z, Letessier TBL, Nichol SL, Caley MJ, Watson RA. 2017. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12619">Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records.</a> Global Ecology and Biogeography, 26: 1098–1111.
 
 <img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="5">
 <figcaption>Filming Galapagos sharks (<em>Carcharhinus galapagensis</em>) at Marotiri, southern Austral islands, French Polynesia. <br>Photo credit: Manu San Félix (2014).</figcaption>
