@@ -5,22 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Recent highlights:</h2>
-<h2>Pelagic sampling</h2>
+<h2>Ocean sampling</h2>
 
 
 
-<h2>Megafauna biogeography</h2>
+<h2>Pelagic biogeography</h2>
+
+<h2>Model transferability</h2>
 
 
-
-<h2>Cetacean ecology</h2>
-
-<h3>Abundance estimation</h3>
+<h3 class="researchtitle">Abundance estimation</h3>
 
 Many cetaceans were hunted down to the brink of extinction during the 20th century. It is estimated, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Although some populations have begun to recover, not all have done so at the same pace, and many still face significant threats from human activities such as incidental catch in fisheries. In this context, abundance and population trend estimates are critically needed for management, but remain largely lacking.
 
-<img src='/images/2010-hw-Rottnest.jpg' align='right' hspace="20" vspace="20">
+<img class="researchimg" src='/images/2010-hw-Rottnest.jpg' align='right' hspace="20" vspace="20">
 <figcaption>Young humpback whale (<em>Megaptera novaeangliae</em>) on its southern migration past Rottnest Island, Western Australia. <br>Photo credit: Phil Bouchet (2010).</figcaption>
 
 I have produced abundance estimates for a number of dolphin and whale populations along the West Australian coast, using a combination of mark-recapture, line transect sampling, and spatial modelling methods.
