@@ -47,12 +47,10 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }} <a class="readmorelink" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "(Read more)" }}</a></p>
     {% endif %}
 
-    {% if post.venue and post.pdf %}
-            {% if post.dimensions and post.altmetric %}
+    {% if post.dimensions and post.altmetric %}
     <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}&emsp;{{ post.dimensions }}&nbsp;{{post.altmetric}}</span> </p>
-            {% else %}
+    {% else %}
     <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
-    {% endif %}
     {% endif %}
 
 
