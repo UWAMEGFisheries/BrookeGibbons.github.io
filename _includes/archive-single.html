@@ -41,19 +41,18 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-
-    {% if post.dimensions and post.altmetric %}
-    <p id="journalauthorsline"><span class="journalauthors">{{ post.authors }}&emsp;{{ post.dimensions }}&nbsp;{{post.altmetric}}</span></p>
-    {% else %}
-    <p id="journalauthorsline_report"><span class="journalauthors_report">{{ post.authors }}</span></p>
-    {% endif %}
+    <p id="journalauthorsline"><span class="journalauthors">{{ post.authors }}</span></p>
 
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }} <a class="readmorelink" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "(Read more)" }}</a></p>
     {% endif %}
 
     {% if post.venue and post.pdf %}
+            {% if post.dimensions and post.altmetric %}
+    <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}&emsp;{{ post.dimensions }}&nbsp;{{post.altmetric}}</span> </p>
+            {% else %}
     <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
+    {% endif %}
     {% endif %}
 
 

@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 class="aboutPhil">Hi, my name is Phil</h1>
 
-<img class="philprofile" src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="20">
+<img class="philprofile" src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="10">
 
 Initially trained as a marine mammalogist, I morphed into a shark/fish biologist as a doctoral student. I guess you could call me a jack of several trades - but at heart, I am really just an obstinately geeky data cruncher, who always gets a kick out of playing with numbers.
 
