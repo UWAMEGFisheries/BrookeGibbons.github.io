@@ -91,20 +91,17 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
 }
 
 #journalauthorsline{
-  margin-top:0.6em;
+  margin-top:0.4em;
   margin-bottom:0.1em;
   line-height: 1.2em;
 }
 
-#main > div.archive > div:nth-child(5) > article > p:nth-child(5){
-  display:none;
-}
 
 .archive__item-title {
   margin-bottom: 0.65em;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 0.9em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.75em;
 
   a + a {
     opacity: 0.5;
@@ -158,6 +155,8 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
 
     font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
     font-size: 0.85em !important;
+    margin-top: 0.215em;
+    float: left;
 }
 
 .__dimensions_badge_embed__{
