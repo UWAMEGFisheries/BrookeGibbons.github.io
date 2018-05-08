@@ -41,9 +41,10 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.authors and post.dimensions and post.altmetric %}
+
+    {% if post.dimensions and post.altmetric %}
     <p id="journalauthorsline"><span class="journalauthors">{{ post.authors }}&emsp;{{ post.dimensions }}&nbsp;{{post.altmetric}}</span></p>
-    {% else if post.authors %}
+    {% else %}
     <p id="journalauthorsline_report"><span class="journalauthors_report">{{ post.authors }}</span></p>
     {% endif %}
 
