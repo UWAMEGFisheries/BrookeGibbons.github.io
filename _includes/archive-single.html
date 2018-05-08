@@ -41,22 +41,18 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.venue and post.date %}
-
-      <p id="journalauthorsline"><span class="journalauthors">{{ post.authors }}</span></p>
-      <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
-
-    {% elsif post.date %}
-      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% if post.authors & post.dimensions and  post.altmetric %}
+    <p id="journalauthorsline"><span class="journalauthors">{{ post.authors }}</span><div>{{ post.dimensions }}&nbsp;{{post.altmetric}}</div></p>
     {% endif %}
 
     {% if post.excerpt %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }} <a class="readmorelink" href="{{ base_path }}{{ post.url }}" rel="permalink">{{ "(Read more)" }}</a></p>
     {% endif %}
 
-    {% if post.dimensions and  post.altmetric %}
-    <p><div>{{ post.dimensions }}&nbsp;{{post.altmetric}}</div></p>
+    {% if post.venue and post.pdf %}
+    <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
     {% endif %}
+
 
   </article>
 </div>
