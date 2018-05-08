@@ -7,11 +7,18 @@ author_profile: true
 
 <h2>Ocean sampling</h2>
 
-
+<img class="researchimg" src='/images/Research-img-OceanSampling.jpg' align='right' hspace="20" vspace="20">
+<figcaption>Deploying mid-water stereo-BRUVs off the remote island of Rapa, French Polynesia. <br>Photo credit: Manu San Felix, National Geographic Society (2014).</figcaption>
 
 <h2>Pelagic biogeography</h2>
 
+<img class="researchimg" src='/images/Research-img-Biogeography.jpg' align='right' hspace="20" vspace="20">
+<figcaption>Deploying mid-water stereo-BRUVs off the remote island of Rapa, French Polynesia. <br>Photo credit: Manu San Felix, National Geographic Society (2014).</figcaption>
+
 <h2>Model transferability</h2>
+
+<img class="researchimg" src='/images/Research-img-ModelTransferability.jpg' align='right' hspace="20" vspace="20">
+<figcaption>Ecological models are often used to make predictions beyond the areas in which they were developed. <br>Photo credit: Manu San Felix, National Geographic Society (2014).</figcaption>
 
 
 <h2 class="researchtitle">Abundance estimation</h2>
@@ -38,5 +45,5 @@ Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012.
 Snubfin dolphins (Orcaella heinsohni) are coastal and estuarine cetaceans endemic to northern Australia. Only discovered in 2005, the species remains very poorly known and little
 information currently exists on the animals’ distribution, habitat preferences, behaviour or Snubfin dolphins preferences, behaviour or abundance. Local populations have been identified in Queensland and Western Australia but these are likely small and geographically or genetically isolated. In 2010, a nomination was made for the listing of snubfin dolphins as a threatened species under the EPBC Act, based on its known biological characteristics and the rising threats it faces from coastal developments and industrial activities.
 
-<img class="manusanfelix" src='/images/Manu_San_Felix_Rapa.jpg' vspace="5">
-<figcaption>Filming Galapagos sharks (<em>Carcharhinus galapagensis</em>) at Marotiri, southern Austral islands, French Polynesia. <br>Photo credit: Manu San Félix (2014).</figcaption>
+<img class="manusanfelix" src='/images/Research-img-SpatialModelling.jpg' vspace="5">
+<figcaption>Little is known of the habitat preferences and regional distribution of snubfin dolphins (<em>Orcaella heinshoni</em>). <br>Photo credit: Deborah Thiele (2008).</figcaption>
