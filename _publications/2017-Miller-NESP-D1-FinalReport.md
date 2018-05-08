@@ -7,7 +7,7 @@ date: 2017-02-28
 venue: <img src="https://img.shields.io/badge/Technical-report-yellow.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/document/ecosystem-understanding-support-sustainable-use-management-and-monitoring-marine-assets-0'
-authors: 'Miller K, Puotinen M, Przeslawski R, Huang Z, <strong>Bouchet P</strong>, Radford B, Li J, Kool J, Picard K, Thums M, Meeuwig J, Nichol S.'
+authors: 'Miller K, Puotinen M, Przeslawski R, Huang Z, <strong>Bouchet P</strong>, et al.'
 citation: 'Miller K, Puotinen M, Przeslawski R, Huang Z, <strong>Bouchet P</strong>, Radford B, Li J, Kool J, Picard K, Thums M, Meeuwig J, Nichol S. 2017. NESP Project D1 Ecosystem understanding to support sustainable use, management and monitoring of marine assets in the North and North-West regions - Final Report 2016. Report to the National Environmental Science Programme, Marine Biodiversity Hub. Australian Institute of Marine Science, 146 p.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/document/ecosystem-understanding-support-sustainable-use-management-and-monitoring-marine-assets-0"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/system/files/Miller%20et%20al%20Project%20D1%20Report%20summarising%20outputs%20from%20synthesis%20of%20datasets%20and%20predictive%20models%20for%20N%20and%20NW_Milestone%204_RPv3.pdf">  Download (PDF)</a>

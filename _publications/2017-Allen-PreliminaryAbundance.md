@@ -7,7 +7,7 @@ date: 2017-06-13
 venue: <img src="https://img.shields.io/badge/Journal-Scientific%20Reports-blue.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nature.com/articles/s41598-017-05189-0'
-authors: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR.'
+authors: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, et al.'
 citation: 'Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery. <em>Scientific Reports</em>, 7: art4995.'
 dimensions: <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-017-05189-0" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-017-05189-0" class="altmetric-embed"></div>

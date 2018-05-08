@@ -7,7 +7,7 @@ date: 2015-08-11
 venue: <img src="https://img.shields.io/badge/Journal-Endangered%20Species%20Research-blue.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'http://www.int-res.com/abstracts/esr/v27/n2/p113-118/'
-authors: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</strong> Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ'
+authors: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</strong> et al.'
 citation: 'Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ,</strong> Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. Key research questions of global importance for cetacean conservation. <em>Endangered Species Research</em>, 27(2): 113-118.'
 dimensions: <span class="__dimensions_badge_embed__" data-doi="10.3354/esr00655" data-legend="hover-right" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 altmetric: <div data-badge-popover="right" data-badge-type="2" data-doi="10.3354/esr00655" class="altmetric-embed"></div>

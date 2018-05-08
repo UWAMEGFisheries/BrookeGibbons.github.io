@@ -7,7 +7,7 @@ date: 2018-03-04
 venue: <img src="https://img.shields.io/badge/Book-chapter-2a94ba.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
 paperurl: 'https://www.nespmarine.edu.au/field-manuals'
-authors: 'Langlois T, Williams J, Monk J, <strong>Bouchet P</strong>, Currey L, Goetze J, Harasti D, Huveneers C, Lerodiaconou D, Malcolm H, Whitmarsh S.'
+authors: 'Langlois T, Williams J, Monk J, <strong>Bouchet P</strong>, Currey L, et al.'
 citation: 'Langlois T, Williams J, Monk J, <strong>Bouchet P</strong>, Currey L, Goetze J, Harasti D, Huveneers C, Lerodiaconou D, Malcolm H, Whitmarsh S. 2018. Marine sampling field manual for pelagic BRUVS (Baited Remote Underwater Videos). <em>In:</em> Field Manuals for Marine Sampling to Monitor Australian Waters. National Environmental Science Programme (NESP), pp 82-104.'
 ---
 <i class="fa fa-link" aria-hidden="true"></i> <a href="https://www.nespmarine.edu.au/field-manuals"> Read online</a> &nbsp;<span>&#124;</span> &nbsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i> <a href="https://phbouchet.github.io/files/Langlois-2018-BBRUV-Manual.pdf">  Download (PDF)</a>
