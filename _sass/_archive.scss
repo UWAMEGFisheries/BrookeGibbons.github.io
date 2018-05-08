@@ -168,9 +168,10 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
 }
 
 /* Rogue paragraph */
-#main > div.archive > div:nth-child(5) > article > p:nth-child(4){
+#main > div.archive > div > article > p:nth-child(4){
   display:none;
 }
+
 
 .__dimensions_badge_embed__{
   display: inline-block !important;
