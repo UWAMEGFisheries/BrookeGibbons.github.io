@@ -50,7 +50,7 @@ src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
     {% if post.dimensions and post.altmetric %}
     <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}&emsp;{{ post.dimensions }}&nbsp;{{post.altmetric}}</span> </p>
     {% else %}
-    <p id="journalline"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
+    <p id="journalline_nometrics"><span class="journal">{{ post.venue }} &nbsp;{{ post.pdf }}</span> </p>
     {% endif %}
 
 

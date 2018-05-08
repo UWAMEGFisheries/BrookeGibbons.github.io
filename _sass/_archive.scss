@@ -89,6 +89,12 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
 #journalline{
   margin-top: 0.05em;
   margin-bottom: 0.5em;
+  float:left;
+}
+
+#journalline_nometrics{
+  margin-top: 0.05em;
+  margin-bottom: 0.5em;
 }
 
 #journalauthorsline{
