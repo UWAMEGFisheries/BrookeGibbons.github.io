@@ -207,6 +207,12 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
   width: 840px;
 }
 
+/* Font size for all items on grants page */
+
+.donor_meta, .grant_link, .grant_project{
+  font-size:0.85em;
+}
+
 .grantamount{
 color: #9fa0a6;
 
