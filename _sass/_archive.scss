@@ -29,6 +29,7 @@ width:78% !important;
 
 .paperlink{
   color:#494e52 !important;
+  line-height: 1.5em;
 }
 
 .recent_highlights{
@@ -64,7 +65,7 @@ width:78% !important;
     margin-top: 0.6em;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size: 0.9em;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.2em;
   }
 }
 
@@ -101,7 +102,7 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
   margin-bottom: 0.65em;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
   font-size: 0.9em;
-  margin-bottom: 0.75em;
+  margin-bottom: 0.2em;
 
   a + a {
     opacity: 0.5;
@@ -118,7 +119,7 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
     border-bottom: none;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size:0.9em;
-    margin-bottom: 0.85em;
+    margin-bottom: 0.2em;
 
   }
 }
@@ -431,7 +432,7 @@ font-size:16px;
     text-decoration: none;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-size:0.9em !important;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.2em;
   }
 }
 
@@ -490,7 +491,7 @@ and (orientation : portrait) { .archive {
     margin-top: 0.5em;
     font-size: 0.9em !important;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    margin-bottom: 0.75em;
+    margin-bottom: 0.2em;
   }
 
   .archive__item-excerpt {
