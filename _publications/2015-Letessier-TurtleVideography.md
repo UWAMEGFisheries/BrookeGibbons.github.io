@@ -1,7 +1,7 @@
 ---
-title: "Baited videography reveals remote foraging and migration behaviour of sea turtles. Marine Biodiversity"
+title: "Baited videography reveals remote foraging and migration behaviour of sea turtles."
 collection: publications
-permalink: /publications/2014-Letessier-TurtleVideography
+permalink: /publications/2015-Letessier-TurtleVideography
 excerpt: 'We report on observations of threatened sea turtles from multiple deployments of pelagic stereo-BRUVS in Western Australia.'
 date: 2015-08-12
 venue: <img src="https://img.shields.io/badge/Journal-Marine%20Biodiversity-blue.svg?longCache=true&style=flat-square">

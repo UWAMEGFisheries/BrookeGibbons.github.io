@@ -1,7 +1,7 @@
 ---
 title: "Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning"
 collection: publications
-permalink: /publications/2015-Letessier-SamplingMOFS
+permalink: /publications/2017-Letessier-SamplingMOFS
 excerpt: 'We review the literature surrounding sampling methods for mobile oceanic fishes and sharks (MOFs) and offer perspectives on future avenues of research, particularly in the context of global declines in marine predator populations and a corresponding expansion of space-based management in offshore waters.'
 date: 2017-05-18
 venue: <img src="https://img.shields.io/badge/Journal-Biological%20Reviews-blue.svg?longCache=true&style=flat-square">

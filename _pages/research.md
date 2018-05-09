@@ -31,13 +31,13 @@ A significant part of my research to date has centred around the development and
 
 <h3>Papers and related links</h3>
 
-Letessier TB, <strong>Bouchet PJ</strong>, Meeuwig JJ. 2017. Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning. <em>Biological Reviews</em>, 92(2): 627–646.
+Letessier TB, <strong>Bouchet PJ</strong>, Meeuwig JJ. 2017. <a href="https://phbouchet.github.io/publications/2017-Letessier-SamplingMOFS">Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning.</a> <em>Biological Reviews</em>, 92(2): 627–646.
 
-<strong>Bouchet PJ</strong>, Meeuwig JJ. 2015. Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves. <em>Ecosphere</em>, 6: art137.
+<strong>Bouchet PJ</strong>, Meeuwig JJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-DriftingVideography">Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves.</a> <em>Ecosphere</em>, 6: art137.
 
-Letessier TBL, Meeuwig JJ, Gollock M, Groves L, <strong>Bouchet PJ</strong>, Chapuis L, Vianna G, Kemp K, Koldewey HJ. 2013. Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment. <em>Methods in Oceanography</em>, 8: 41-55.
+<strong>Bouchet PJ</strong>, Meeuwig JJ, Salgado Kent CP, Letessier TBL, Jenner CKS. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-TopographicDeterminants">Topographic determinants of mobile vertebrate predator hotspots: Current knowledge and future directions.</a> <em>Biological Reviews</em>, 90(3): 699-728.
 
-<strong>Bouchet PJ</strong>, Meeuwig JJ, Salgado Kent CP, Letessier TBL, Jenner CKS. 2015. Topographic determinants of mobile vertebrate predator hotspots: Current knowledge and future directions. <em>Biological Reviews</em>, 90(3): 699-728.
+Letessier TBL, Meeuwig JJ, Gollock M, Groves L, <strong>Bouchet PJ</strong>, Chapuis L, Vianna G, Kemp K, Koldewey HJ. 2013. <a href="https://phbouchet.github.io/publications/2013-Letessier-Pelagic">Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment.</a> <em>Methods in Oceanography</em>, 8: 41-55.
 
 <h2>Conservation biogeography</h2>
 
@@ -50,9 +50,9 @@ Despite its size, ecological importance, and the plethora of ways in which it is
 
 Thompson C, <strong>Bouchet P</strong>, Meeuwig J. Forthcoming. First sub-surface sighting of Shepherd’s beaked whale (<em>Tasmacetus shepherdi</em>). <em>Marine Mammal Science</em>.
 
-<strong>Bouchet P</strong>, Meeuwig J, Huang Z, Letessier T, Nichol S, Caley J, Watson R. 2017. Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records. <em>Global Ecology and Biogeography</em>, 26: 1098-1111.
+<strong>Bouchet P</strong>, Meeuwig J, Huang Z, Letessier T, Nichol S, Caley J, Watson R. 2017. <a href="https://phbouchet.github.io/publications/2017-Bouchet-SAUHotspots">Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records.</a> <em>Global Ecology and Biogeography</em>, 26: 1098-1111.
 
-Letessier T, <strong>Bouchet P</strong>, Reisser J, Meeuwig J. 2015. Baited videography reveals remote foraging and migration behaviour of sea turtles. <em>Marine Biodiversity</em>, 45(4): 609-610.
+Letessier T, <strong>Bouchet P</strong>, Reisser J, Meeuwig J. 2015. <a href="https://phbouchet.github.io/publications/2015-Letessier-TurtleVideography">Baited videography reveals remote foraging and migration behaviour of sea turtles. <em>Marine Biodiversity</em>, 45(4): 609-610.
 
 <h2 class="researchtitle">Abundance estimation</h2>
 
