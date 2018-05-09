@@ -19,14 +19,14 @@ You can also check out my <a href="https://profiles.impactstory.org/u/0000-0002-
 
 <tr>
   <td class="left">2017</td>
-  <td class="right">Researchers discover Australian canyons are hotspots for fish life<br>
-  <strong>Phys.org</strong></td>
+  <td class="right"><p>Researchers discover Australian canyons are hotspots for fish life<br>
+  <strong>Phys.org</strong></p></td>
 </tr>
 
   <tr>
     <td class="left">2015</td>
-    <td class="right">Cross-cultural knowledge supports dolphin conservation<br>
-    <strong>UWA Oceans Institute News</strong></td>
+    <td class="right"><p>Cross-cultural knowledge supports dolphin conservation<br>
+    <strong>UWA Oceans Institute News</strong></p></td>
   </tr>
 
   <tr>
