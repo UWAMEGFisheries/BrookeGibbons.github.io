@@ -22,10 +22,12 @@ You can also check out my <a href="https://profiles.impactstory.org/u/0000-0002-
 
   <tr>
     <td class="left">2014</td>
-    <td class="right">Margaret Middleton Fund supports marine research<br>
-    <p><strong>Australian Academy of Science Newsletter</strong></p>
-    Rapa expedition: What do sharks do when we’re not looking? - National Geographic Society's Pristine Seas Programme<br>
-    Une mission scientifique envoyée à Rapa - La Dépêche de Tahiti (National Geographic Society)</td>
+    <td class="right"><p>Margaret Middleton Fund supports marine research<br>
+    <strong>Australian Academy of Science Newsletter</strong></p>
+    <p>Rapa expedition: What do sharks do when we’re not looking?<br>
+    <strong>National Geographic Society's Pristine Seas Programme</strong></p>
+    <p>Une mission scientifique envoyée à Rapa<br>
+    <strong>La Dépêche de Tahiti (National Geographic Society)</strong></p></td>
   </tr>
 
   <tr>
