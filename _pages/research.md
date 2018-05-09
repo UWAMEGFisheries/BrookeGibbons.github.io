@@ -33,7 +33,7 @@ A significant part of my research to date has centred around the development and
 
 Letessier TB, <strong>Bouchet PJ</strong>, Meeuwig JJ. 2017. <a href="https://phbouchet.github.io/publications/2017-Letessier-SamplingMOFS">Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning.</a> <em>Biological Reviews</em>, 92(2): 627–646.
 
-<strong>Bouchet PJ</strong>, Meeuwig JJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-DriftingVideography">Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves.</a> <em>Ecosphere</em>, 6: art137.
+<strong>Bouchet PJ</strong>, Meeuwig JJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-BaitedVideography">Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves.</a> <em>Ecosphere</em>, 6: art137.
 
 <strong>Bouchet PJ</strong>, Meeuwig JJ, Salgado Kent CP, Letessier TBL, Jenner CKS. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-TopographicDeterminants">Topographic determinants of mobile vertebrate predator hotspots: Current knowledge and future directions.</a> <em>Biological Reviews</em>, 90(3): 699-728.
 
@@ -41,10 +41,12 @@ Letessier TBL, Meeuwig JJ, Gollock M, Groves L, <strong>Bouchet PJ</strong>, Cha
 
 <h2>Conservation biogeography</h2>
 
-Despite its size, ecological importance, and the plethora of ways in which it is exploited, the pelagic ocean remains drastically unfamiliar to science and chronically under-explored. Documenting and mapping the distribution of biological diversity is crucial to delineating
+Despite its size, ecological importance, and the plethora of ways in which it is exploited, the pelagic ocean remains drastically unfamiliar to science and chronically under-explored. Documenting and mapping the distribution of biological diversity is crucial to delineating relevant seascape units and forecasting human-wildlife conflicts.
 
 <img class="researchimg" src='/images/Research-img-Biogeography.jpg' align='right' hspace="20" vspace="20">
 <figcaption>Understanding the distribution patterns of commercially exploited fish like yellowfin tuna (<em>Thunnus albacares</em>) is critical to managing and conserving stocks. <br>Photo credit: David Valencia.</figcaption>
+
+Much of my work to date has revealed new critical areas for threatened marine species.
 
 <h3>Papers and related links</h3>
 
@@ -67,11 +69,11 @@ I have produced abundance estimates for a number of dolphin and whale population
 
 <strong>Bouchet PJ</strong>, Raudino H, Thiele D, Miller DL, Brooks L, Waples K. Forthcoming. Going the distance and beyond when estimating the abundance of a cryptic cetacean in a proposed marine protected area. <em>Methods in Ecology and Evolution</em>.
 
-Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/files/Allen-2017-SciRep-PreliminaryEstimateAbundance.pdf"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
+Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/publications/2017-Allen-PreliminaryAbundance"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
 
-Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ</strong>, Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. <a href="http://www.int-res.com/abstracts/esr/v27/n2/p113-118/">Key research questions of global importance for cetacean conservation.</a> <em>Endangered Species Research</em>, 27(2): 113-118.
+Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ</strong>, Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Parsons-KeyQuestions">Key research questions of global importance for cetacean conservation.</a> <em>Endangered Species Research</em>, 27(2): 113-118.
 
-Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/files/Salgado-2012-JCRM-SouthernHemisphereHumpbacks.pdf">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
+Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 
 <h2>Spatial ecology - northern Australia</h2>
 
