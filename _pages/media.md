@@ -5,16 +5,19 @@ permalink: /media/
 author_profile: true
 ---
 
-My research has been featured in various press releases, newspaper and radio articles:
+My research has been featured in various press releases, newspaper and radio articles (see selected examples below).
+You can also check out my <a href="https://profiles.impactstory.org/u/0000-0002-2144-2049">ImpactStory profile</a> for more on global reach, download statistics, etc.
 
-<iframe class="media_iframe" src="https://profiles.impactstory.org/u/0000-0002-2144-2049"></iframe>
+<a href="https://profiles.impactstory.org/u/0000-0002-2144-2049"><img src='/images/PhilBouchet-ImpactStory-May2018.jpg' vspace="5"></a>.
+
 
 <h2 class="mediasection"> Assorted media</h2>
 
 <table style="width:100%">
   <tr>
     <td class="left">2015</td>
-    <td class="right">Cross-cultural knowledge supports dolphin conservation - UWA Oceans Institute News</td>
+    <td class="right">Cross-cultural knowledge supports dolphin conservation<br>
+    <strong>UWA Oceans Institute News</strong></td>
   </tr>
 
   <tr>

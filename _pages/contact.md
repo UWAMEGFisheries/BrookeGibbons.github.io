@@ -5,7 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-<p><strong>Address:</strong></p>
 <p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
 The University of Western Australia (M092)<br>
 35 Stirling Highway, Crawley WA 6009</p>
