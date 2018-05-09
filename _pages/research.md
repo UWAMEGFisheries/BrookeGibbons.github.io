@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2>Model transferability</h2>
+<h2 class="researchtitle">Model transferability</h2>
 
 Predictive models have become ubiquitous in ecology, where they are used to understand where and why species occur, and what impacts anthropogenic change may have on biodiversity. Very often, the need for model predictions is highest in systems, areas, or time periods where little or even no biological knowledge currently exists. Models that can produce accurate and precise predictions when transferred into these novel conditions are both highly desirable and of great utility for conservation and management.
 
@@ -20,7 +20,7 @@ I am co-leading projects on the topic of model transferability with colleagues f
 
 Sequeira A, <strong>Bouchet P</strong>, Yates K, Mengersen K, Caley J. 2018. <a href="https://phbouchet.github.io/publications/2018-Sequeira-TransferringBiodiversity">Transferring biodiversity models for conservation: Opportunities and challenges.</a> <em>Methods in Ecology and Evolution</em>, 9(5): 1250-1264.
 
-<h2>Ocean sampling</h2>
+<h2 class="researchtitle">Ocean sampling</h2>
 
 Pelagic protected areas have undergone exponential growth on a global scale in response to concerns over the footprint of human activities on the world's oceans. Assessing their performance in protecting biodiversity requires innovative tools that can not only detect a wide range of often elusive, mobile organisms but are also cost-effective, reliable, and non-invasive.
 
@@ -39,7 +39,7 @@ Letessier TB, <strong>Bouchet PJ</strong>, Meeuwig JJ. 2017. <a href="https://ph
 
 Letessier TBL, Meeuwig JJ, Gollock M, Groves L, <strong>Bouchet PJ</strong>, Chapuis L, Vianna G, Kemp K, Koldewey HJ. 2013. <a href="https://phbouchet.github.io/publications/2013-Letessier-Pelagic">Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment.</a> <em>Methods in Oceanography</em>, 8: 41-55.
 
-<h2>Conservation biogeography</h2>
+<h2 class="researchtitle">Conservation biogeography</h2>
 
 Despite its size, ecological importance, and the plethora of ways in which it is exploited, the pelagic ocean remains drastically unfamiliar to science and chronically under-explored. Documenting and mapping the distribution of biological diversity is crucial to delineating relevant seascape units and forecasting human-wildlife conflicts.
 
@@ -75,7 +75,7 @@ Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ</strong>, Cos
 
 Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
 
-<h2>Spatial ecology - northern Australia</h2>
+<h2 class="researchtitle">Spatial ecology - northern Australia</h2>
 
 Snubfin dolphins (<em>Orcaella heinsohni</em>) are coastal and estuarine cetaceans endemic to northern Australia. Only discovered in 2005, the species remains poorly studied - with limited information on patterns of distribution, habitat use, behaviour, or abundance. Similarly, the Timor Sea is an important - but data-deficient - reservoir of marine biodiversity that faces rising human impacts. This dearth of information undermines ecological monitoring and the implementation of effective management interventions.
 
