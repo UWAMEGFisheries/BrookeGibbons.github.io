@@ -8,7 +8,7 @@ author_profile: true
 My research has been featured in various press releases, newspaper and radio articles (see selected examples below).
 You can also check out my <a href="https://profiles.impactstory.org/u/0000-0002-2144-2049">ImpactStory profile</a> for more on global reach, download statistics, etc.
 
-<a href="https://profiles.impactstory.org/u/0000-0002-2144-2049"><img src='/images/PhilBouchet-ImpactStory-May2018.jpg' vspace="5"></a>.
+<a href="https://profiles.impactstory.org/u/0000-0002-2144-2049"><img src='/images/PhilBouchet-ImpactStory-May2018.jpg' vspace="5"></a>
 
 
 <h2 class="mediasection"> Assorted media</h2>
@@ -22,8 +22,8 @@ You can also check out my <a href="https://profiles.impactstory.org/u/0000-0002-
 
   <tr>
     <td class="left">2014</td>
-    <td class="right">Margaret Middleton Fund supports marine research - Australian Academy of Science
-    Newsletter<br>
+    <td class="right">Margaret Middleton Fund supports marine research<br>
+    <p><strong>Australian Academy of Science Newsletter</strong></p>
     Rapa expedition: What do sharks do when we’re not looking? - National Geographic Society's Pristine Seas Programme<br>
     Une mission scientifique envoyée à Rapa - La Dépêche de Tahiti (National Geographic Society)</td>
   </tr>
