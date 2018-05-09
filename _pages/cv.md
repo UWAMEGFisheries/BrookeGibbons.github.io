@@ -464,6 +464,12 @@ My full CV is available as a <a href="https://phbouchet.github.io/assets/Phil_Bo
     </tr>
 
     <tr>
+      <td class="left">2018</td>
+      <td class="right"><span class="cvrole">Alex McLennan (Masters)</span><br>
+      <span class="studentproject">Effects of camera field of view on the richness, abundance and biomass of fish assemblages recorded on BRUVS (Baited Remote Underwater Video Systems) </span></td>
+    </tr>
+
+    <tr>
       <td class="left">2017</td>
       <td class="right"><span class="cvrole">Thelma Panaiotis (Masters)</span><br>
       <span class="studentproject">Dynamics of fish schooling behaviour in relation to shark abundance</span></td>
