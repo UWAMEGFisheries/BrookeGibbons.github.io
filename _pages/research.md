@@ -77,7 +77,7 @@ Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012.
 
 Snubfin dolphins (<em>Orcaella heinsohni</em>) are coastal and estuarine cetaceans endemic to northern Australia. Only discovered in 2005, the species remains poorly studied - with limited information on patterns of distribution, habitat use, behaviour, or abundance. Similarly, the Timor Sea is an important - but data-deficient - reservoir of marine biodiversity that faces rising human impacts. This dearth of information undermines ecological monitoring and the implementation of effective management interventions.
 
-<img class="manusanfelix" src='/images/Research-img-SpatialModelling.jpg' vspace="5">
+<img class="researchimg" src='/images/Research-img-SpatialModelling.jpg' vspace="5">
 <figcaption>Little is known of the habitat preferences and regional distribution patterns of snubfin dolphins (<em>Orcaella heinshoni</em>). <br>Photo credit: Deborah Thiele (2008).</figcaption>
 
 I am involved in collaborative projects aimed at predicting the distribution of dolphins and other marine vertebrates at regional scales across remote tropical areas.
