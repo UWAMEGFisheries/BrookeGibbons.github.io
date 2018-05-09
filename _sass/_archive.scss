@@ -223,7 +223,10 @@ body > div.main-view.container-fluid.ng-scope > div > div.person-header.row{
 
 .grantamount, .fa.fa-usd{
 color: #494e52;
+}
 
+.grantamount{
+  font-weight: 600;
 }
 
 .amount_meta {

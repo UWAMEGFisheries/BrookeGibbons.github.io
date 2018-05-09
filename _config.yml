@@ -80,11 +80,11 @@ author:
   name             : "Dr. Phil Bouchet"
   avatar           : "phbouchet.png"
   bio              : "Quantitative ecologist"
-  location         : "Biological Sciences <br> University of WA (M092) <br> 35 Stirling Highway <br> Crawley WA 6009"
-  phone            : "(+61) (0)406 811 113"
+  location         :
+  phone            :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
-  email            : "bouchet.philippe@gmail.com"
+  email            :
   uri              : "http://www.meeuwig.org/current-members/phil-bouchet"
   bitbucket        :
   codepen          :
@@ -92,14 +92,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/phbouchet"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
   researchgate     : "https://www.researchgate.net/profile/Phil_Bouchet"
-  orcid            :
+  orcid            : "0000-0002-2144-2049"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
