@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <p><strong>Address:</strong></p>
-<i class="far fa-building"></i> School of Biological Sciences<br>
+<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
 The University of Western Australia (M092)<br>
-35 Stirling Highway, Crawley WA 6009
+35 Stirling Highway, Crawley WA 6009</p>
 
 
 <p><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:bouchet.philippe@gmail.com">bouchet.philippe@gmail.com</a><br>
