@@ -12,7 +12,7 @@ redirect_from:
 
 <img class="philprofile" src='/images/20141104-Rapa.jpg' align='right' width="350" hspace="20" vspace="10">
 
-Initially trained as a marine mammalogist, I morphed into a shark/fish biologist as a doctoral student. I guess you could call me a jack of several trades - but at heart, I am really just an obstinately geeky data cruncher, who always gets a kick out of playing with numbers.
+I am an obstinately geeky data cruncher, who always gets a kick out of playing with numbers. Initially trained as a marine mammalogist (<a href="http://www.smru.st-andrews.ac.uk/" target="_blank">Sea Mammal Research Unit</a>, Univ. of St Andrews), I morphed into a shark/fish biologist as a doctoral student. 
 
 My research broadly spans the field of quantitative ecology, and I have an active interest in the use of GIS and statistical methods to address pressing wildlife conservation problems. My work so far has focused on a range of marine taxa (fishes, sharks, turtles & cetaceans), habitats (coastal, pelagic), approaches (empirical, simulation, theoretical), scales (local, regional, global), and bioregions (temperate, tropical).
 
