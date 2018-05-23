@@ -23,40 +23,40 @@ academics:
   - title: Academics
     children:
       - title: "Tim Langlois"
-        url: /docs/tim-langlois/
+        url: /academics/tim-langlois/
       - title: "Dianne McLean"
-        url: /docs/dianne-mclean/
+        url: /academics/dianne-mclean/
   
 staff:
   - title: Staff
     children:
       - title: "Brooke Gibbons"
-        url: /docs/brooke-gibbons/
+        url: /staff/brooke-gibbons/
       - title: "Michael Taylor"
-        url: /docs/michael-taylor/
+        url: /staff/michael-taylor/
  
 students:
   - title: Students
     children:
       - title: "Anna Cresswell (PhD)"
-        url: /docs/anna-cresswell/
+        url: /students/anna-cresswell/
       - title: "Ashlyn Miller (MS)"
-        url: /docs/ashlyn-miller/
+        url: /students/ashlyn-miller/
       - title: "Camilla Piggot (PhD)"
-        url: /docs/camilla-piggot/
+        url: /students/camilla-piggot/
       - title: "Emily Lester (PhD)"
-        url: /docs/emily-lester/
+        url: /students/emily-lester/
       - title: "Jess Kolbusz (PhD)"
-        url: /docs/jess-kolbusz/
+        url: /students/jess-kolbusz/
       - title: "Jonathon Mitchell (PhD)"
-        url: /docs/jonathon-mitchell/
+        url: /students/jonathon-mitchell/
       - title: "Matthew Navarro (PhD)"
-        url: /docs/matthew-navarro/
+        url: /students/matthew-navarro/
       - title: "Michael Brooker (PhD)"
-        url: /docs/michael-brooker/
+        url: /students/michael-brooker/
       - title: "Nestor Bosch (PhD)"
-        url: /docs/nestor-bosch/
+        url: /students/nestor-bosch/
       - title: "Oscar Doncel Canon (MS)"
-        url: /docs/oscar-doncel-canon/
+        url: /students/oscar-doncel-canon/
       - title: "Todd Bond (PhD)"
-        url: /docs/todd-bond/
+        url: /students/todd-bond/
