@@ -35,4 +35,28 @@ staff:
       - title: "Michael Taylor"
         url: /docs/michael-taylor/
  
-
+students:
+  - title: Students
+    children:
+      - title: "Anna Cresswell (PhD)"
+        url: /docs/anna-cresswell/
+      - title: "Ashlyn Miller (MS)"
+        url: /docs/ashlyn-miller/
+      - title: "Camilla Piggot (PhD)"
+        url: /docs/camilla-piggot/
+      - title: "Emily Lester (PhD)"
+        url: /docs/emily-lester/
+      - title: "Jess Kolbusz (PhD)"
+        url: /docs/jess-kolbusz/
+      - title: "Jonathon Mitchell (PhD)"
+        url: /docs/jonathon-mitchell/
+      - title: "Matthew Navarro (PhD)"
+        url: /docs/matthew-navarro/
+      - title: "Michael Brooker (PhD)"
+        url: /docs/michael-brooker/
+      - title: "Nestor Bosch (PhD)"
+        url: /docs/nestor-bosch/
+      - title: "Oscar Doncel Canon (MS)"
+        url: /docs/oscar-doncel-canon/
+      - title: "Todd Bond (PhD)"
+        url: /docs/todd-bond/
