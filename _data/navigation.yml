@@ -3,8 +3,6 @@ main:
 
   - title: "Research"
     url: /research/
-    - subtitle: "Test"
-    url: /test/
 
   - title: "Publications"
     url: /publications/
