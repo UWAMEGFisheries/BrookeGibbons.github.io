@@ -22,3 +22,11 @@ main:
 
   - title: "Contact"
     url: /contact/
+
+docs:
+  - title: Academics
+    children:
+      - title: "Tim Langlois"
+        url: /docs/tim-langlois/
+      - title: "Dianne McLean"
+        url: /docs/dianne-mclean/
