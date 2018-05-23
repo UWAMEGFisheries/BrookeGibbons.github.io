@@ -6,12 +6,7 @@ author_profile: false
 sidebar:
   nav: "academics"
 ---
-
-test markdown
-
-
 <table style="width:100%">
-
 <tr>
   <td class="left"><strong>Dianne Mclean</strong></td>
   <td class="right"><strong>Tim Langlois</strong></td>
