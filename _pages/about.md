@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "UWA Marine Ecology Group"
 author_profile: true
 redirect_from:
   - /about/
