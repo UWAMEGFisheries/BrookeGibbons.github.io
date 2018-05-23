@@ -3,7 +3,7 @@ main:
 
   - title: "Research"
     url: /research/
-    #subcategories:
+    subcategories:
     - subtitle: "Test"
       subhref: "/research/test/"
       
