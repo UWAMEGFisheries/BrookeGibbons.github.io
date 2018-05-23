@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Dr. Phil Bouchet"
-description              : &description "Quantitative ecologist"
-url                      : https://phbouchet.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Brooke Gibbons"
+description              : &description ""
+url                      : https://brookegibbons1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "phbouchet/phbouchet.github.io"
+repository               : "brookegibbons/brookegibbons1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
