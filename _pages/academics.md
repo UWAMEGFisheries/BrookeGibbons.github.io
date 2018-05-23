@@ -15,7 +15,7 @@ test markdown
     <td class="left">p>Dianne Mclean<br>
     <strong>research fellow</strong></p><br>![test](images/MEGLogo.jpg)</td>
     <td class="right"><p>Tim Langlois<br>
-    <strong>research fellow</strong></p></td>
+    <strong>research fellow</strong></p><br>![test](images/MEGLogo.jpg)</td>
   </tr>
 
 </table>
