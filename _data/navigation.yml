@@ -36,7 +36,3 @@ docs:
         url: /docs/brooke-gibbons/
       - title: "Michael Taylor"
         url: /docs/michael-taylor/
-   - title: Students
-    children:
-      - title: "Todd Bond"
-        url: /docs/todd-bond/
