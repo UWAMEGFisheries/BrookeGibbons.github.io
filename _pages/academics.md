@@ -25,4 +25,4 @@ test markdown
 | ------------- |:-------------:|
 | **Dianne Mclean**  | **Tim Langlois**   |
 |Research Fellow |Research Fellow |
-|![test](images/MEGLogo.jpg)|![test](images/MEGLogo.jpg)|
+|![](https://research.csiro.au/pmcp/wp-content/uploads/sites/65/2016/02/Di-McLean-e1472785960793-818x1024.jpg)|![](https://avatars0.githubusercontent.com/u/14978794?s=460&v=4)|
