@@ -2,7 +2,7 @@
 main:
 
   - title: "Research"
-    - subtitle: "Test"
+    - sub-title: "Test"
       url: "/research/test/"
       
   - title: "Academics"
