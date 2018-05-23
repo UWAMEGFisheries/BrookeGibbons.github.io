@@ -8,15 +8,11 @@ sidebar:
 ---
 
 # Tim Langlois
-======
 
 ## Research
-======
 
 
 ## Publications
-======
 
 
 ## Contact
-======
