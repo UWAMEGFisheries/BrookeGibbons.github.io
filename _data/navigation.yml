@@ -2,6 +2,7 @@
 main:
 
   - title: "Research"
+    url: /research/
     - sub-title: "Test"
       url: "/research/test/"
       
