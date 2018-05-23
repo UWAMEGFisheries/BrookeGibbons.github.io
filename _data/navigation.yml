@@ -3,9 +3,8 @@ main:
 
   - title: "Research"
     url: /research/
-    subcategories:
-    - subtitle: "Test"
-      subhref: "/research/test/"
+    - sub-title: "Test"
+      url: "/research/test/"
       
   - title: "Academics"
     url: /academics/
