@@ -30,3 +30,13 @@ docs:
         url: /docs/tim-langlois/
       - title: "Dianne McLean"
         url: /docs/dianne-mclean/
+  - title: Staff
+    children:
+      - title: "Brooke Gibbons"
+        url: /docs/brooke-gibbons/
+      - title: "Michael Taylor"
+        url: /docs/michael-taylor/
+   - title: Students
+    children:
+      - title: "Todd Bond"
+        url: /docs/todd-bond/
