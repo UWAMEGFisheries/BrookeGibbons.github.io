@@ -2,9 +2,11 @@
 main:
 
   - title: "Research"
-    url: /research/
-    - sub-title: "Test"
+    children:
+    - title: "Test"
       url: /research/test/
+    - title: "Test2"
+      url: /research/test2/
       
   - title: "Academics"
     url: /academics/
