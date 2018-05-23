@@ -7,12 +7,10 @@ sidebar:
   nav: "academics"
 ---
 
-# Tim Langlois
-
 ## Research
 
 
-## Publications
+## Publications and impact
 
 
 ## Contact
