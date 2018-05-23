@@ -2,11 +2,7 @@
 main:
 
   - title: "Research"
-    children:
-    - title: "Test"
-      url: /research/test/
-    - title: "Test2"
-      url: /research/test2/
+    url: /research/
       
   - title: "Academics"
     url: /academics/
@@ -23,19 +19,23 @@ main:
   - title: "Contact"
     url: /contact/
 
-docs:
+academics:
   - title: Academics
     children:
       - title: "Tim Langlois"
         url: /docs/tim-langlois/
       - title: "Dianne McLean"
         url: /docs/dianne-mclean/
+  
+  staff:
   - title: Staff
     children:
       - title: "Brooke Gibbons"
         url: /docs/brooke-gibbons/
       - title: "Michael Taylor"
         url: /docs/michael-taylor/
+ 
+ students:
   - title: Students
     children:
       - title: "Todd Bond (PhD)"
