@@ -3,24 +3,21 @@ main:
 
   - title: "Research"
     url: /research/
-   sublinks:
-    - title: "Test"
-      url: /test/
+    subcategories:
+    - subtitle: "Test"
+      subhref: "/research/test/"
       
-  - title: "Publications"
-    url: /publications/
+  - title: "Academics"
+    url: /academics/
 
-  - title: "Conferences & talks"
-    url: /talks/
+  - title: "Staff"
+    url: /staff/
 
-  - title: "Grants & awards"
-    url: /grants/
+  - title: "Students"
+    url: /students/
 
   - title: "Media & impact"
     url: /media/
-
-  - title: "CV"
-    url: /cv/
 
   - title: "Contact"
     url: /contact/
