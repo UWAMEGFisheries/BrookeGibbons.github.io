@@ -2,7 +2,7 @@
 layout: archive
 title: "Media and impact"
 permalink: /media/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "docs"
 ---
