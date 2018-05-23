@@ -26,6 +26,6 @@ test markdown
 
 | Tables        | Are           |
 | ------------- |:-------------:|
-| Dianne Mclean  | Tim Langlois   |
+| **Dianne Mclean**  | **Tim Langlois**   |
 |Research Fellow |Research Fellow |
-|![](MEGLogo.jpg)|![](MEGLogo.jpg)|
+|![test](images/MEGLogo.jpg)|![test](images/MEGLogo.jpg)|
