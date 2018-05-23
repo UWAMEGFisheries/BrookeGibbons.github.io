@@ -3,6 +3,8 @@ layout: archive
 title: "Media and impact"
 permalink: /media/
 author_profile: true
+sidebar:
+  nav: "docs"
 ---
 
 My research has been featured in various press releases, newspaper and radio articles (see selected examples below).
