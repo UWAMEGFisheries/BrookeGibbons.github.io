@@ -27,7 +27,7 @@ academics:
       - title: "Dianne McLean"
         url: /docs/dianne-mclean/
   
-  staff:
+staff:
   - title: Staff
     children:
       - title: "Brooke Gibbons"
@@ -35,7 +35,7 @@ academics:
       - title: "Michael Taylor"
         url: /docs/michael-taylor/
  
- students:
+students:
   - title: Students
     children:
       - title: "Anna Cresswell (PhD)"
