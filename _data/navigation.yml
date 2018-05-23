@@ -3,7 +3,8 @@ main:
 
   - title: "Research"
     url: /research/
-    - sub-title: "Test"
+    subcategories:
+    - subtitle: "Test"
       url: "/research/test/"
       
   - title: "Academics"
