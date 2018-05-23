@@ -3,9 +3,10 @@ main:
 
   - title: "Research"
     url: /research/
-    sublinks:
+   sublinks:
     - title: "Test"
       url: /test/
+      
   - title: "Publications"
     url: /publications/
 
