@@ -11,9 +11,9 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Brooke Gibbons"
 description              : &description ""
-url                      : https://brookegibbons1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://brookegibbons.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "brookegibbons/brookegibbons1.github.io"
+repository               : "brookegibbons/brookegibbons.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &phbouchet
+  username               : #&phbouchet
 facebook:
   username               :
   app_id                 :
@@ -77,35 +77,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Phil Bouchet"
+  name             : "Brooke Gibbons"
   avatar           : "phbouchet.png"
-  bio              : "Quantitative ecologist"
+  bio              : "Research Assistant"
   location         :
   phone            :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
   email            :
-  uri              : "http://www.meeuwig.org/current-members/phil-bouchet"
+  uri              : #"http://www.meeuwig.org/current-members/phil-bouchet"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "phbouchet"
+  github           : "BrookeGibbons"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  researchgate     : "https://www.researchgate.net/profile/Phil_Bouchet"
-  orcid            : "http://orcid.org/0000-0002-2144-2049"
+  researchgate     : #"https://www.researchgate.net/profile/Phil_Bouchet"
+  orcid            : #"http://orcid.org/0000-0002-2144-2049"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@phbouchet"
+  twitter          : #"@phbouchet"
   vine             :
   weibo            :
   xing             :
