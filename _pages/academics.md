@@ -22,3 +22,8 @@ test markdown
   </tr>
 
 </table>
+
+|:-------------: |:-------------: |
+| Dianne Mclean  | Tim Langlois   |
+|Research Fellow |Research Fellow |
+|![](MEGLogo.jpg)|![](MEGLogo.jpg)|
