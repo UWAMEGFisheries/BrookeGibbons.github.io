@@ -2,8 +2,6 @@
 main:
 
   - title: "Research"
-    url: /research/
-    subcategories:
     - subtitle: "Test"
       url: "/research/test/"
       
