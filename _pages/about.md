@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<h1 class="aboutPhil">The UWA Marine Ecology Group - Fisheries Research</h1>
 
 <img class="philprofile" src='/images/BRUV_Steve.jpg' align='right' width="350" hspace="20" vspace="10">
 
