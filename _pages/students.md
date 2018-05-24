@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Current Students"
 permalink: /students/
