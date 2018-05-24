@@ -4,7 +4,7 @@ title: "Current Research Staff"
 permalink: /staff/
 author_profile: false
 sidebar:
-  nav: "academics"
+  nav: "staff"
 ---
  **Brooke Gibbons**  | **Michael Taylor**
 :-------------:|:-------------:
