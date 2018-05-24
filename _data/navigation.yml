@@ -56,6 +56,8 @@ students:
         url: /students/nestor-bosch/
       - title: "Todd Bond"
         url: /students/todd-bond/
+      - title: "Yannick Mulders"
+        url: /students/yannick-mulders/
   - title: Masters Students
     children:
       - title: "Ashlyn Miller"
