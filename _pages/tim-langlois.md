@@ -6,8 +6,8 @@ author_profile: false
 sidebar:
   nav: "academics"
 ---
-<h2 class="aboutPhil">research</h2>
-<img class="philprofile" src='/images/Tim.jpg' align='right' width="350" hspace="20" vspace="10">
+## Research
+<img class="philprofile" src='/images/Tim.jpg' align='left' width="350" hspace="20" vspace="10">
 
 bla bla bla
 
