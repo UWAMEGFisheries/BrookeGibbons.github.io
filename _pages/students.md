@@ -7,7 +7,7 @@ sidebar:
   nav: "students"
 ---
 ## PhD Candidates
- **Anna Cresswell**  |  **Camilla Piggot**
+**Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Project A | Project B 
  photo | photo
@@ -27,13 +27,13 @@ Project E | Project F
 Project G | Project H 
  photo | photo 
 
-  **Todd Bond**  | **Yannick Mulders**
+ **Todd Bond**  | **Yannick Mulders**
 :-------------:|:-------------:
 Project I| Project J 
  photo | photo
 
 ## Masters Students
- **Ashlyn Miller** | **Daniel Lindstedt**
+**Ashlyn Miller** | **Daniel Lindstedt**
 :-------------:|:-------------:
 Project A | Project B 
  photo | photo
