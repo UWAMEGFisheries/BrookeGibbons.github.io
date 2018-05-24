@@ -6,34 +6,33 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
- **Anna Cresswell**  | **Ashlyn Miller**
+## PhD Candidates
+ **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
-PhD Candidate|Masters Student
+ | 
  |     
 
- **Camilla Piggot**  | **Emily Lester**
+**Emily Lester**|**Jess Kolbusz**
 :-------------:|:-------------:
-PhD Candidate|PhD Candidate
  |     
  
-  **Jess Kolbusz**  | **Jonathon Mitchell**
+**Jonathon Mitchell**|  **Matthew Navarro**
 :-------------:|:-------------:
-PhD Candidate|PhD Candidate
  |    
  
-  **Matthew Navarro**  | **Michael Brooker**
+ **Michael Brooker**|  **Nestor Bosch** 
 :-------------:|:-------------:
-PhD Candidate|PhD Candidate
  |     
-  
-  **Nestor Bosch**  | **Oscar Doncel Canon**
-:-------------:|:-------------:
-PhD Candidate|Masters Student
- |  
 
   **Todd Bond**  | **Yannick Mulders**
 :-------------:|:-------------:
-PhD Candidate|PhD Candidate
  |  
 
-<a href="https://brookegibbons.github.io/academics/tim-langlois/"><img src='/images/Tim.jpg' vspace="5"></a>
+## Masters Students
+ **Ashlyn Miller** | **Daniel Lindstedt**
+:-------------:|:-------------:
+ | 
+ 
+**Oscar Doncel Canon** |   
+:-------------:|:-------------:
+ | 
