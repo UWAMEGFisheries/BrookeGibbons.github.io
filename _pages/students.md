@@ -11,7 +11,7 @@ sidebar:
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Project A | Project B 
-<a href="https://brookegibbons.github.io/academics/anna-cresswell/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/camilla-piggot/"><img src='/images/headshot.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/academics/anna-cresswell/"><img src='/images/Anna_Cresswell.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/camilla-piggot/"><img src='/images/headshot.png' vspace="5"></a>
 
 **Emily Lester**|**Jess Kolbusz**
 :-------------:|:-------------:
@@ -21,7 +21,7 @@ Project C | Project D
 **Jonathon Mitchell**|  **Matthew Navarro**
 :-------------:|:-------------:
 Project E | Project F 
-<a href="https://brookegibbons.github.io/academics/jonathon-mitchell/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/matthew-navarro/"><img src='/images/headshot.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/academics/jonathon-mitchell/"><img src='/images/Jon_Mitchell.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/matthew-navarro/"><img src='/images/headshot.png' vspace="5"></a>
  
  **Michael Brooker**|  **Nestor Bosch** 
 :-------------:|:-------------:
@@ -31,7 +31,7 @@ Project G | Project H
  **Todd Bond**  | **Yannick Mulders**
 :-------------:|:-------------:
 Project I| Project J 
-<a href="https://brookegibbons.github.io/academics/todd-bond/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/yannick-mulders/"><img src='/images/headshot.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/academics/todd-bond/"><img src='/images/Todd_Bond.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/yannick-mulders/"><img src='/images/Yannick.jpg' vspace="5"></a>
 
 ## Masters Students
 
