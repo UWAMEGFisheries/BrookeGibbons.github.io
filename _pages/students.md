@@ -38,9 +38,9 @@ Project I| Project J
 **Ashlyn Miller** | **Daniel Lindstedt**
 :-------------:|:-------------:
 Project A | Project B 
-<a href="https://brookegibbons.github.io/academics/anna-cresswell/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/camilla-piggot/"><img src='/images/headshot.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/academics/ashlyn-miller/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/daniel-lindstedt/"><img src='/images/headshot.png' vspace="5"></a>
  
-**Oscar Doncel Canon** | blank
+**Matt Hammond**| **Oscar Doncel Canon**
 :-------------:|:-------------:
-Project C | blank
-<a href="https://brookegibbons.github.io/academics/anna-cresswell/"><img src='/images/headshot.png' vspace="5"></a>| blank
+Project C | Project D
+<a href="https://brookegibbons.github.io/academics/matt-hammond/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/oscar-doncel-canon/"><img src='/images/headshot.png' vspace="5"></a>
