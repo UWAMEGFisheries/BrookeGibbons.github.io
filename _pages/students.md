@@ -38,7 +38,7 @@ Project I| Project J
 Project A | Project B 
  photo | photo
  
-**Oscar Doncel Canon** |   
+**Oscar Doncel Canon** | blank
 :-------------:|:-------------:
-Project C | 
- photo | 
+Project C | blank
+ photo | blank
