@@ -17,6 +17,11 @@ We then use such data to create models that can help us better understand commun
 
 **Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems.** 
 
+## Recent Highlights
+- 
+- 
+-
+
 
 
 <img class="manusanfelix" src='/images/DOV_Julia.jpg' vspace="5">
