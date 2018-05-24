@@ -6,6 +6,7 @@ author_profile: false
 sidebar:
   nav: "academics"
 ---
+<img class="philprofile" src='/images/Di_McLean.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Research
 bla bla bla
