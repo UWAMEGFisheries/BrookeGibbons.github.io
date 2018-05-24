@@ -19,4 +19,4 @@ We then use such data to create models that can help us better understand commun
 
 
 <img class="manusanfelix" src='/images/DOV_Julia.jpg' vspace="5">
-<figcaption>Stereo diver operated video (<em>Carcharhinus galapagensis</em>) at Mo'orea, French Polynesia. <br>Photo credit: Lauric Thiault (2016).</figcaption>
+<figcaption>Past MEG member Julia harbourstraw using stereo diver operated video at Mo'orea, French Polynesia. <br>Photo credit: Lauric Thiault (2016).</figcaption>
