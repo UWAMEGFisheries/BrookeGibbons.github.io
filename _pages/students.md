@@ -7,6 +7,7 @@ sidebar:
   nav: "students"
 ---
 ## PhD Candidates
+
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Project A | Project B 
@@ -33,6 +34,7 @@ Project I| Project J
 <a href="https://brookegibbons.github.io/academics/todd-bond/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/academics/yannick-mulders/"><img src='/images/headshot.png' vspace="5"></a>
 
 ## Masters Students
+
 **Ashlyn Miller** | **Daniel Lindstedt**
 :-------------:|:-------------:
 Project A | Project B 
