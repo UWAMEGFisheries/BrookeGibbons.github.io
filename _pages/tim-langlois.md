@@ -7,7 +7,7 @@ sidebar:
   nav: "academics"
 ---
 ## Research
-<img class="philprofile" src='/images/Tim.jpg' align='left' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/Tim.jpg' align='right' width="350" hspace="20" vspace="10">
 
 bla bla bla
 
