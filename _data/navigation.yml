@@ -36,12 +36,10 @@ staff:
         url: /staff/michael-taylor/
  
 students:
-  - title: Students
+  - title: PhD candidates
     children:
       - title: "Anna Cresswell (PhD)"
         url: /students/anna-cresswell/
-      - title: "Ashlyn Miller (MS)"
-        url: /students/ashlyn-miller/
       - title: "Camilla Piggot (PhD)"
         url: /students/camilla-piggot/
       - title: "Emily Lester (PhD)"
@@ -56,7 +54,13 @@ students:
         url: /students/michael-brooker/
       - title: "Nestor Bosch (PhD)"
         url: /students/nestor-bosch/
-      - title: "Oscar Doncel Canon (MS)"
-        url: /students/oscar-doncel-canon/
       - title: "Todd Bond (PhD)"
         url: /students/todd-bond/
+  - title: Masters Students
+    children:
+      - title: "Ashlyn Miller (MS)"
+        url: /students/ashlyn-miller/
+      - title: "Daniel Lindstedt (MS)"
+        url: /students/daniel lindstedt/
+      - title: "Oscar Doncel Canon (MS)"
+        url: /students/oscar-doncel-canon/
