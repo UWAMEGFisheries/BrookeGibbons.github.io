@@ -30,7 +30,7 @@ Trade-off no-take areas | Western Rock Lobster
 
 **Nestor Bosch** | **Rob Power**
 :-------------:|:-------------:
-Algae | Western Rock Lobster
+Recent changes in abundance and herbivory of rabbit fish in southwestern Australia  | Western Rock Lobster
 <a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/Nestor_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/rob-power/"><img src='/images/blank.png' vspace="5"></a>
 
 **Salvador Zarco-Perello** | **Todd Bond**
