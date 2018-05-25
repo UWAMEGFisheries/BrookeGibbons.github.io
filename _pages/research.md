@@ -4,6 +4,7 @@ title: "Current and past research projects"
 permalink: /research/
 author_profile: true
 ---
+<img class="researchimg" src='/images/1_Globalarchive.png' align='right' hspace="20" vspace="20">
 
 ## Global Data synthesis
 In contrast to well developed structures for physical and chemical ocean data, tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. To rectify this we have devised and implemented cloud infrastructure, using seed funding from the Emerging Leaders grant from the Oceans Institute, to collate and synthesise global marine ecological data (globalarchive.org). This initiative has now been supported in Australia by IMOS, the National Environmental Science Programme (NESP) and NECTAR, and this year we will be managing $220k of further development work under the National Collaborative Research Infrastructure Strategy (NCRIS). Internationally we are collaborating with the GlobalFinPrint project /Paul G Allen Philanthropies to coordinate with comparable global initiatives.
@@ -38,5 +39,3 @@ Developing aquaculture in Western Australia is challenging due to low levels of 
 ## Research to inform emerging management issues - shark depredation
 Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia ($160K).
 
-## The role of media in marine management 
-An important aspect of progressive leadership is the development of good communication strategies especially for controversial issues that interest many stakeholders. Social media provides a useful platform for science communication and our research group maintains a FaceBook page with 1,300+ followers which we use to publish media releases for new research programmes and publications. 
