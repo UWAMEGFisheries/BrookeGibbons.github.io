@@ -30,17 +30,17 @@ Trade-off no-take areas | Western Rock Lobster
 
 **Nestor Bosch** | **Rob Power**
 :-------------:|:-------------:
-Recent changes in abundance and herbivory of rabbit fish in southwestern Australia  | Western Rock Lobster
+Changes in functional diversity of reef fishes within an ocean warming hotspot: implications for temperate reef resilience  | Western Rock Lobster
 <a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/Nestor_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/rob-power/"><img src='/images/blank.png' vspace="5"></a>
 
 **Salvador Zarco-Perello** | **Todd Bond**
 :-------------:|:-------------:
-Rabbitfish | Decommissioning
+Persistence and impact of tropical herbivorous fish on temperate ecosystems  | Decommissioning
 <a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
 
 **Yannick Mulders** |_
 :-------------:|:-------------:
-Functional redundancy of seaweed habitats | _
+Ecological functions and functional redundancy between different habitat-forming seaweeds | _
 <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
 
 ## Masters Students
