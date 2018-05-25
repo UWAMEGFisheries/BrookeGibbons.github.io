@@ -62,9 +62,13 @@ students:
     children:
       - title: "Ashlyn Miller"
         url: /students/ashlyn-miller/
+      - title: "Brock Keymer"
+        url: /student/brock-keymer/
       - title: "Daniel Lindstedt"
         url: /students/daniel-lindstedt/
       - title: "Matt Hammond"
         url: /students/matt-hammond/
       - title: "Oscar Doncel Canon"
         url: /students/oscar-doncel-canon/
+      - title: "Sam Brock"
+        url: /students/sam-brock/
