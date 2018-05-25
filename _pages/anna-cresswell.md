@@ -13,8 +13,9 @@ bla bla bla
 
 ## Supervisors
 - Tim Langlois
-- 
-- 
+- Michael
+- Mick
+- Damian
 
 ## Qualifications
 -
