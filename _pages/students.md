@@ -36,12 +36,12 @@ Algae | Western Rock Lobster
 **Salvador Zarco-Perello** | **Todd Bond**
 :-------------:|:-------------:
 Rabbitfish | Decommissioning
-<a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS2.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
 
 **Yannick Mulders** |_
 :-------------:|:-------------:
 Functional redundancy of seaweed habitats | _
-<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS2.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
 
 ## Masters Students
 
