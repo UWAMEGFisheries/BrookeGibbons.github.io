@@ -11,12 +11,12 @@ sidebar:
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Ningaloo outlook - shallow reefs | Fish recruitment in coastal habitats of north-west Australia. 
-<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/blank.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS2.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/blank.png' vspace="5"></a>
 
 **Emily Lester**| **Emma-Jade Tuffley**
 :-------------:|:-------------:
 Behaviourally mediated trophic cascades | Catchability of Western Rock Lobster 
-<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/blank.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/emma-jade-tuffley/"><img src='/images/MJ_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/Emily_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/emma-jade-tuffley/"><img src='/images/MJ_WS.jpg' vspace="5"></a>
 
 **Jess Kolbusz** | **Jonathon Mitchell**
 :-------------:|:-------------:
@@ -36,12 +36,12 @@ Algae | Western Rock Lobster
 **Salvador Zarco-Perello** | **Todd Bond**
 :-------------:|:-------------:
 Rabbitfish | Decommissioning
-<a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS2.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
 
 **Yannick Mulders** |_
 :-------------:|:-------------:
 Functional redundancy of seaweed habitats | _
-<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS2.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
 
 ## Masters Students
 
