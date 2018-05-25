@@ -28,22 +28,22 @@ Project | Influence of currents on Western Rock Lobster
 Shark depredation Ningaloo | Trade-off no-take areas
 <a href="https://brookegibbons.github.io/students/jonathon-mitchell/"><img src='/images/Jon_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/matthew-navarro/"><img src='/images/Matt_N_WS.jpg' vspace="5"></a>
 
- **Todd Bond**  | **Yannick Mulders**
-:-------------:|:-------------:
-Decommissioning | Functional redundancy of seaweed habitats
-<a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a>
-
  **Michael Brooker**|  **Nestor Bosch** 
 :-------------:|:-------------:
 Western Rock Lobster | Algae
 <a href="https://brookegibbons.github.io/students/michael-brooker/"><img src='/images/Brooker_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/Nestor_WS.jpg' vspace="5"></a>
+
+ **Todd Bond**  | **Yannick Mulders**
+:-------------:|:-------------:
+Decommissioning | Functional redundancy of seaweed habitats
+<a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a>
 
 ## Masters Students
 
 **Ashlyn Miller** | **Daniel Lindstedt**
 :-------------:|:-------------:
 Seismic survey impacts on Western Rock Lobster | Catchability and behaviour of Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/daniel-lindstedt/"><img src='/images/Dan_WS.jpg.' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/daniel-lindstedt/"><img src='/images/Dan_WS.jpg' vspace="5"></a>
  
 **Matt Hammond**| **Oscar Doncel Canon**
 :-------------:|:-------------:
