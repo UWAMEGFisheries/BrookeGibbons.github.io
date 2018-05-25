@@ -38,9 +38,9 @@ Algae | Western Rock Lobster
 Rabbitfish | Decommissioning
 <a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
 
-**Yannick Mulders** |    
+**Yannick Mulders** |_
 :-------------:|:-------------:
-Functional redundancy of seaweed habitats | 
+Functional redundancy of seaweed habitats | _
 <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
 
 ## Masters Students
@@ -48,7 +48,7 @@ Functional redundancy of seaweed habitats |
 **Ashlyn Miller** | **Brock Keymer**
 :-------------:|:-------------:
 Seismic survey impacts on Western Rock Lobster | Catchability of juvenile Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/brock-keymer/"><img src='/images/Dan_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/brock-keymer/"><img src='/images/Brock_WS.jpg' vspace="5"></a>
 
 **Daniel Lindstedt** | **Matt Hammond**
 :-------------:|:-------------:
