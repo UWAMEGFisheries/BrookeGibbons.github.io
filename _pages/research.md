@@ -5,87 +5,38 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2 class="researchtitle">Model transferability</h2>
+## Global Data synthesis
+In contrast to well developed structures for physical and chemical ocean data, tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. To rectify this we have devised and implemented cloud infrastructure, using seed funding from the Emerging Leaders grant from the Oceans Institute, to collate and synthesise global marine ecological data (globalarchive.org). This initiative has now been supported in Australia by IMOS, the National Environmental Science Programme (NESP) and NECTAR, and this year we will be managing $220k of further development work under the National Collaborative Research Infrastructure Strategy (NCRIS). Internationally we are collaborating with the GlobalFinPrint project /Paul G Allen Philanthropies to coordinate with comparable global initiatives.
 
-Predictive models have become ubiquitous in ecology, where they are used to understand where and why species occur, and what impacts anthropogenic change may have on biodiversity. Very often, the need for model predictions is highest in systems, areas, or time periods where little or even no biological knowledge currently exists. Models that can produce accurate and precise predictions when transferred into these novel conditions are both highly desirable and of great utility for conservation and management.
+## Governance and reporting tools for policy makers
+Spatial management is commonly used in marine systems, and all Australian state agencies tasked with conservation and fisheries management are now using globalarchive.org to organise and synthesise national data sets into a series of in progress high-impact manuscripts. Importantly, this allows matching macro-ecological data with physical and chemical data at the ocean scale. In addition, the current NCRIS funding will be used to develop macro-ecological reporting tools designed for communication with policy makers and stakeholders. 
 
-<img class="researchimg" src='/images/Research-img-ModelTransferability.jpg' align='right' hspace="20" vspace="20">
-<figcaption>Ecological models are often used to make predictions beyond the areas in which they were developed. <br>Photo credit: OxyMotion.</figcaption>
+## Standard Operating Procedures and Technology innovation
+Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video (stereo-BRUV) methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies and an emerging method for fisheries independent assessments. We have worked with stereo-BRUV methods for many years, and published a range of methodological studies (see publications). We have developed methods and workflows to validate data derived from stereo-video annotation software, which are being used nationally and internationally and are freely available to the research community via Tim Langlois's GitHub. In addition, together with our collaborators we have demonstrated an automated and georeferenced stereo-BRUV system that can be deployed during standard commercial fishing practices and can decrease the cost of data collection by 50%. This manuscript was recently submitted to the Journal of Applied Ecology.
 
-I am co-leading projects on the topic of model transferability with colleagues from the University of Salford (UK) and the University of Western Australia.
+## Using socio-economic assessments to inform spatial management policy
+Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
 
-<h3>Papers and related links</h3>
+## Research with the fishing industry
+Tim Langlois's PhD revealed that predation by rock lobster can control the abundance of soft-sediment infauna adjacent to rocky reefs. In collaboration with DPIRD-Fisheries and fishers, Tim is the Principal Investigator on a $380k Fisheries Research Development Corporation (FRDC) funded project to investigate low-catch rates within nursery areas at the centre of the fishery. The MEG lab is also invloved in another two FRDC funded projects, the first with DPRID-Fisheries to investigate lobster catchability ($380k) and the second with Prof Chari Pattiaratchi to establish a strong current warning system ($199k). These projects represent excellent research training opportunities for postgraduate students. We have also been invited to sit on the organising committee for the 12th International Conference and Workshop on Lobster Biology and Management, to be held in Perth in 2020 and that will provide an excellent opportunity for raising the profile of UWA in meeting the needs of the Blue Economy agenda. 
 
-<strong>Bouchet P</strong>/Yates K, Caley JM, Mengersen K, Randin C, Parnell S, Fielding AH, Bamford AJ, Ban S, Barbosa AM, Dormann CF, Elith J, Embling CB, Ervin GN, Fisher R, Gould S, Graf RF, Gregr EJ, Halpin P, Heikkinen RK, Heinänen S, Jones AR, Krishnakumar PK, Lauria V, Lozano-Montes H, Mannocci L, Mellin C, Mesgaran MB, Moreno-Amat E, Mormede S, Novaczek E, Oppel S, Ortuño Crespo G, Peterson AT, Rapacciuolo G, Roberts JJ, Ross RE, Scales KL, Schoeman D, Snelgrove P, Sundblad G, Thuiller W, Torres LG, Verbruggen H, Wang L, Wenger S, Whittingham MJ, Zharikov Y, Zurell D, Sequeira AMM. Forthcoming. Key questions in model transferability. <em>Trends in Ecology and Evolution</em>.
+## The effects of fishing on ecosystem processes and informing third party certification of fisheries
+we have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management. Third-party certification schemes are now seen as the gold standard for commercial fishers and essential for accessing premium markets. The Western rock lobster fishery was the first in the world to receive Marine Stewardship Certification and we have led ecosystem process research vital to ensuring continued certification.
 
-Sequeira A, <strong>Bouchet P</strong>, Yates K, Mengersen K, Caley J. 2018. <a href="https://phbouchet.github.io/publications/2018-Sequeira-TransferringBiodiversity">Transferring biodiversity models for conservation: Opportunities and challenges.</a> <em>Methods in Ecology and Evolution</em>, 9(5): 1250-1264.
+## Developing novel applications of statistical theory
+We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research.
 
-<h2 class="researchtitle">Ocean sampling</h2>
+## Fisheries modeling and decommissioning
+In collaboration with the DPIRD-Fisheries we have two high-impact manuscripts in progress that detail and predict the positive implications of a large (2450 km2) fishery closure on the northwest shelf of Australia for fisheries management. With colleagues at UWA we are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as  potential defacto closed areas. This research informs decommissioning strategies and has helped cement UWA as the leading university for decommissioning marine science research.
 
-Pelagic protected areas have undergone exponential growth on a global scale in response to concerns over the footprint of human activities on the world's oceans. Assessing their performance in protecting biodiversity requires innovative tools that can not only detect a wide range of often elusive, mobile organisms but are also cost-effective, reliable, and non-invasive.
+## Marine extremes
+Our early work in WA described patterns of distribution in marine ecological communities along the coast which were strongly correlated with temperature regimes, and contrasted with global trends demonstrating less consistency. These studies provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards. We collaborate closely with Dr Thomas Wernberg and currently co-supervise three students investigating further marine ecological impacts of these marine extremes.
 
-<img class="researchimg" src='/images/Research-img-OceanSampling.jpg' align='right' hspace="20" vspace="20">
-<figcaption>Deploying pelagic stereo-BRUVs off the remote island of Rapa, French Polynesia. <br>Photo credit: Manu San Felix, National Geographic Society (2014).</figcaption>
+## Aquaculture innovation
+Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are supervising a PhD student to trial a novel and low-cost method for tropical lobster culture, a species for which there is currently no commercial fishery. The student comes with 20 years experience in the aquaculture industry overseas. The novel approach we are testing has the potential to provide a sustainable income and protein source with a low-tech design ideal for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study.
 
-A significant part of my research to date has centred around the development and application of baited underwater camera technology to conduct surveys of ocean wildlife in remote, offshore areas characterised by complex seafloor terrains.
+## Research to inform emerging management issues - shark depredation
+Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia ($160K).
 
-<h3>Papers and related links</h3>
-
-Letessier TB, <strong>Bouchet PJ</strong>, Meeuwig JJ. 2017. <a href="https://phbouchet.github.io/publications/2017-Letessier-SamplingMOFS">Sampling mobile oceanic fishes and sharks: Implications for fisheries and conservation planning.</a> <em>Biological Reviews</em>, 92(2): 627–646.
-
-<strong>Bouchet PJ</strong>, Meeuwig JJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-BaitedVideography">Drifting baited stereo-videography: A novel sampling tool for surveying pelagic wildlife in offshore marine reserves.</a> <em>Ecosphere</em>, 6: art137.
-
-<strong>Bouchet PJ</strong>, Meeuwig JJ, Salgado Kent CP, Letessier TBL, Jenner CKS. 2015. <a href="https://phbouchet.github.io/publications/2015-Bouchet-TopographicDeterminants">Topographic determinants of mobile vertebrate predator hotspots: Current knowledge and future directions.</a> <em>Biological Reviews</em>, 90(3): 699-728.
-
-Letessier TBL, Meeuwig JJ, Gollock M, Groves L, <strong>Bouchet PJ</strong>, Chapuis L, Vianna G, Kemp K, Koldewey HJ. 2013. <a href="https://phbouchet.github.io/publications/2013-Letessier-Pelagic">Assessing pelagic fish populations: The application of demersal techniques to the mid-water environment.</a> <em>Methods in Oceanography</em>, 8: 41-55.
-
-<h2 class="researchtitle">Conservation biogeography</h2>
-
-Despite its size, ecological importance, and the plethora of ways in which it is exploited, the pelagic ocean remains drastically unfamiliar to science and chronically under-explored. Documenting and mapping the distribution of biological diversity is crucial to delineating relevant seascape units and forecasting human-wildlife conflicts.
-
-<img class="researchimg" src='/images/Research-img-Biogeography.jpg' align='right' hspace="20" vspace="20">
-<figcaption>Understanding the distribution patterns of commercially exploited fish like yellowfin tuna (<em>Thunnus albacares</em>) is critical to managing and conserving stocks. <br>Photo credit: David Valencia.</figcaption>
-
-Much of my work to date has revealed new critical areas for threatened marine species.
-
-<h3>Papers and related links</h3>
-
-Thompson C, <strong>Bouchet P</strong>, Meeuwig J. Forthcoming. First sub-surface sighting of Shepherd’s beaked whale (<em>Tasmacetus shepherdi</em>). <em>Marine Mammal Science</em>.
-
-<strong>Bouchet P</strong>, Meeuwig J, Huang Z, Letessier T, Nichol S, Caley J, Watson R. 2017. <a href="https://phbouchet.github.io/publications/2017-Bouchet-SAUHotspots">Continental-scale hotspots of pelagic fish abundance inferred from commercial catch records.</a> <em>Global Ecology and Biogeography</em>, 26: 1098-1111.
-
-Letessier T, <strong>Bouchet P</strong>, Reisser J, Meeuwig J. 2015. <a href="https://phbouchet.github.io/publications/2015-Letessier-TurtleVideography">Baited videography reveals remote foraging and migration behaviour of sea turtles. <em>Marine Biodiversity</em>, 45(4): 609-610.
-
-<h2 class="researchtitle">Abundance estimation</h2>
-
-Many cetaceans were hunted down to the brink of extinction during the 20th century. It is estimated, for instance, that whaling stations in Australia and New Zealand had killed over 40,000 humpback whales by the time their operation ceased in the mid-1960s. Although some populations have begun to recover, not all have done so at the same pace, and many still face significant threats from human activities such as incidental catch in fisheries. In this context, abundance and population trend estimates are critically needed for management, but remain largely lacking.
-
-<img class="researchimg" src='/images/Research-img-AbundanceEstimation.jpg' align='right' hspace="20" vspace="20">
-<figcaption>Young humpback whale (<em>Megaptera novaeangliae</em>) on its southern migration past Rottnest Island, Western Australia. <br>Photo credit: Phil Bouchet (2010).</figcaption>
-
-I have produced abundance estimates for a number of dolphin and whale populations along the West Australian coast, using a combination of mark-recapture, line transect sampling, and spatial modelling methods.
-
-<h3>Papers and related links</h3>
-
-<strong>Bouchet PJ</strong>, Raudino H, Thiele D, Miller DL, Brooks L, Waples K. Forthcoming. Going the distance and beyond when estimating the abundance of a cryptic cetacean in a proposed marine protected area. <em>Methods in Ecology and Evolution</em>.
-
-Allen SJ, Pollock KH, <strong>Bouchet PJ</strong>, Kobryn HT, McElligott DB, Nicholson KE, Smith JN, Loneragan NR. 2017. <a href="https://phbouchet.github.io/publications/2017-Allen-PreliminaryAbundance"> Preliminary estimates of the abundance and fidelity of dolphins associating with a demersal trawl fishery.</a> <em>Scientific Reports</em>, 7: art4995.
-
-Parsons ECM, Baulch S, Bechshoft T, Bellazzi G, <strong>Bouchet PJ</strong>, Cosentino AM, Godard-Codding CAJ, Gulland F, Hoffmann-Kuhnt M, Hoyt E, Livermore S, MacLeod CD, Matrai E, Munger L, Ochiai M, Peyman A, Recalde-Salas A, Regnery R, Rojas-Bracho L, Salgado-Kent CP, Slooten E, Wang JY, Wilson SC, Wright AJ, Young S, Zwamborn E, Sutherland WJ. 2015. <a href="https://phbouchet.github.io/publications/2015-Parsons-KeyQuestions">Key research questions of global importance for cetacean conservation.</a> <em>Endangered Species Research</em>, 27(2): 113-118.
-
-Salgado Kent C, Jenner C, Jenner M, <strong>Bouchet P</strong>, Rexstad E. 2012. <a href="https://phbouchet.github.io/publications/2012-Salgado-Humpbacks">Southern Hemisphere breeding stock D humpback whale population estimates from North West Cape, Western Australia.</a> <em>Journal of Cetacean Research and Management</em>, 12(1): 29-38.
-
-<h2 class="researchtitle">Spatial ecology - northern Australia</h2>
-
-Snubfin dolphins (<em>Orcaella heinsohni</em>) are coastal and estuarine cetaceans endemic to northern Australia. Only discovered in 2005, the species remains poorly studied - with limited information on patterns of distribution, habitat use, behaviour, or abundance. Similarly, the Timor Sea is an important - but data-deficient - reservoir of marine biodiversity that faces rising human impacts. This dearth of information undermines ecological monitoring and the implementation of effective management interventions.
-
-<img class="researchimg" src='/images/Research-img-SpatialModelling.jpg' vspace="5">
-<figcaption>Little is known of the habitat preferences and regional distribution patterns of snubfin dolphins (<em>Orcaella heinshoni</em>). <br>Photo credit: Deborah Thiele (2008).</figcaption>
-
-I am involved in collaborative projects aimed at predicting the distribution of dolphins and other marine vertebrates at regional scales across remote tropical areas.
-
-<h3>Papers and related links</h3>
-
-<strong>Bouchet P</strong>, Letessier TBL, Caley MJ, Nichol SL, Hemmi JM, Meeuwig JJ. Forthcoming. Spatial dimensions of pelagic diversity in a geodiverse offshore marine park. <em>Journal of Applied Ecology</em>.
-
-Thiele D, <strong>Bouchet P</strong>, Waples K, Weisenberger F, Dambimangari Rangers, Uunguu Rangers, Balangarra Rangers, Raudino H. Forthcoming. Cross-cultural knowledge, crowdsourcing, and expert elicitation inform the predicted distribution of snubfin dolphins in the Kimberley, Western Australia. <em>Frontiers in Marine Science</em>.
+## The role of media in marine management 
+An important aspect of progressive leadership is the development of good communication strategies especially for controversial issues that interest many stakeholders. Social media provides a useful platform for science communication and our research group maintains a FaceBook page with 1,300+ followers which we use to publish media releases for new research programmes and publications. 
