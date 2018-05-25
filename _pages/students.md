@@ -11,7 +11,7 @@ sidebar:
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Ningaloo outlook - shallow reefs | Fish recruitment in coastal habitats of north-west Australia. 
-<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS2.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/blank.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS2.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/Milly_WS.jpg' vspace="5"></a>
 
 **Emily Lester**| **Emma-Jade Tuffley**
 :-------------:|:-------------:
