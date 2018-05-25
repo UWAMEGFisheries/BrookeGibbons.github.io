@@ -25,7 +25,7 @@ Spatial management policy development has historically been slowed by the percei
 
 
 ## Research with the fishing industry
-<img class="philprofile" src='/images/1_Lobster.png' align='left' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/1_Lobster.png' align='left' width="375" hspace="20" vspace="10">
 Tim Langlois's PhD revealed that predation by rock lobster can control the abundance of soft-sediment infauna adjacent to rocky reefs. In collaboration with DPIRD-Fisheries and fishers, Tim is the Principal Investigator on a $380k Fisheries Research Development Corporation (FRDC) funded project to investigate low-catch rates within nursery areas at the centre of the fishery. The MEG lab is also invloved in another two FRDC funded projects, the first with DPRID-Fisheries to investigate lobster catchability ($380k) and the second with Prof Chari Pattiaratchi to establish a strong current warning system ($199k). These projects represent excellent research training opportunities for postgraduate students. We have also been invited to sit on the organising committee for the 12th International Conference and Workshop on Lobster Biology and Management, to be held in Perth in 2020 and that will provide an excellent opportunity for raising the profile of UWA in meeting the needs of the Blue Economy agenda. 
 
 
@@ -37,7 +37,9 @@ we have made significant contributions to studying the direct and indirect impac
 We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research.
 
 
+
 <img class="philprofile" src='/images/1_Fishing.png' align='right' width="350" hspace="20" vspace="10">
+
 ## Fisheries modeling and decommissioning
 In collaboration with the DPIRD-Fisheries we have two high-impact manuscripts in progress that detail and predict the positive implications of a large (2450 km2) fishery closure on the northwest shelf of Australia for fisheries management. With colleagues at UWA we are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as  potential defacto closed areas. This research informs decommissioning strategies and has helped cement UWA as the leading university for decommissioning marine science research.
 
