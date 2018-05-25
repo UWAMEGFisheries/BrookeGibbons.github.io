@@ -48,4 +48,4 @@ Seismic survey impacts on Western Rock Lobster | Catchability and behaviour of W
 **Matt Hammond**| **Oscar Doncel Canon**
 :-------------:|:-------------:
 Fish assemblages on Artifical Reef | Catch rate of white Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/matt-hammond/"><img src='/images/Matt_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/oscar-doncel-canon/"><img src='/images/Oscar_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/matt-hammond/"><img src='/images/Matt_WS.JPG' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/oscar-doncel-canon/"><img src='/images/Oscar_WS.jpg' vspace="5"></a>
