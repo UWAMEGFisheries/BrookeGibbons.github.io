@@ -4,8 +4,7 @@ title: "Current and past research projects"
 permalink: /research/
 author_profile: true
 ---
-<img class="researchimg" src='/images/1_Globalarchive.png' align='right' hspace="20" vspace="20">
-
+<img class="philprofile" src='/images/1_Globalarchive.png' align='right' hspace="20" vspace="20">
 ## Global Data synthesis
 In contrast to well developed structures for physical and chemical ocean data, tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. To rectify this we have devised and implemented cloud infrastructure, using seed funding from the Emerging Leaders grant from the Oceans Institute, to collate and synthesise global marine ecological data (globalarchive.org). This initiative has now been supported in Australia by IMOS, the National Environmental Science Programme (NESP) and NECTAR, and this year we will be managing $220k of further development work under the National Collaborative Research Infrastructure Strategy (NCRIS). Internationally we are collaborating with the GlobalFinPrint project /Paul G Allen Philanthropies to coordinate with comparable global initiatives.
 
