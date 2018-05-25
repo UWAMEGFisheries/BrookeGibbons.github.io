@@ -11,17 +11,17 @@ sidebar:
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Ningaloo outlook - shallow reefs | Fish recruitment in coastal habitats of north-west Australia. 
-<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/headshot.png' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/blank.png' vspace="5"></a>
 
 **Emily Lester**| **Emma-Jade Tuffley**
 :-------------:|:-------------:
 Behaviourally mediated trophic cascades | Catchability of Western Rock Lobster 
-<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/emma-jade-tuffley/"><img src='/images/MJ_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/blank.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/emma-jade-tuffley/"><img src='/images/MJ_WS.jpg' vspace="5"></a>
 
-**Robb Power**|**Jess Kolbusz**
+**Rob Power**|**Jess Kolbusz**
 :-------------:|:-------------:
 Project | Influence of currents on Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/jess-kolbusz/"><img src='/images/Jess_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/blank.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/jess-kolbusz/"><img src='/images/Jess_WS.jpg' vspace="5"></a>
 
 **Jonathon Mitchell**|  **Matthew Navarro**
 :-------------:|:-------------:
