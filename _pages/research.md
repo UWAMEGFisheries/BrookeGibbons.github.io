@@ -33,8 +33,8 @@ We have applied novel methods to comparing body-size distributions. Working with
 ## Fisheries modeling and decommissioning
 In collaboration with the DPIRD-Fisheries we have two high-impact manuscripts in progress that detail and predict the positive implications of a large (2450 km2) fishery closure on the northwest shelf of Australia for fisheries management. With colleagues at UWA we are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as  potential defacto closed areas. This research informs decommissioning strategies and has helped cement UWA as the leading university for decommissioning marine science research.
 
-<img class="philprofile" src='/images/1_Extremes.png' align='right' width="300" hspace="20" vspace="10">
 ## Marine extremes
+<img class="philprofile" src='/images/1_Extremes.png' align='left' width="300" hspace="20" vspace="10">
 Our early work in WA described patterns of distribution in marine ecological communities along the coast which were strongly correlated with temperature regimes, and contrasted with global trends demonstrating less consistency. These studies provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards. We collaborate closely with Dr Thomas Wernberg and currently co-supervise three students investigating further marine ecological impacts of these marine extremes.
 
 ## Aquaculture innovation
