@@ -8,6 +8,16 @@ sidebar:
 ---
 ## PhD Candidates
 
+**Jonathon Mitchell**|  **Matthew Navarro**
+:-------------:|:-------------:
+Project E | Project F 
+<a href="https://brookegibbons.github.io/students/jonathon-mitchell/"><img src='/images/Jon_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/matthew-navarro/"><img src='/images/Matt_N_WS.jpg' vspace="5"></a>
+
+ **Todd Bond**  | **Yannick Mulders**
+:-------------:|:-------------:
+Project I| Project J 
+<a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a>
+
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Project A | Project B 
@@ -17,21 +27,11 @@ Project A | Project B
 :-------------:|:-------------:
 Project C | Project D 
 <a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/jess-kolbusz/"><img src='/images/headshot.png' vspace="5"></a>
- 
-**Jonathon Mitchell**|  **Matthew Navarro**
-:-------------:|:-------------:
-Project E | Project F 
-<a href="https://brookegibbons.github.io/students/jonathon-mitchell/"><img src='/images/Jon_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/matthew-navarro/"><img src='/images/Matt_N_WS.jpg' vspace="5"></a>
- 
+
  **Michael Brooker**|  **Nestor Bosch** 
 :-------------:|:-------------:
 Project G | Project H 
 <a href="https://brookegibbons.github.io/students/michael-brooker/"><img src='/images/headshot.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/headshot.png' vspace="5"></a>
-
- **Todd Bond**  | **Yannick Mulders**
-:-------------:|:-------------:
-Project I| Project J 
-<a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a>
 
 ## Masters Students
 
