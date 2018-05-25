@@ -18,34 +18,44 @@ Ningaloo outlook - shallow reefs | Fish recruitment in coastal habitats of north
 Behaviourally mediated trophic cascades | Catchability of Western Rock Lobster 
 <a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/blank.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/emma-jade-tuffley/"><img src='/images/MJ_WS.jpg' vspace="5"></a>
 
-**Rob Power**|**Jess Kolbusz**
+**Jess Kolbusz** | **Jonathon Mitchell**
 :-------------:|:-------------:
-Project | Influence of currents on Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/emily-lester/"><img src='/images/blank.png' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/jess-kolbusz/"><img src='/images/Jess_WS.jpg' vspace="5"></a>
+Influence of currents on Western Rock Lobster | Shark depredation Ningaloo 
+<a href="https://brookegibbons.github.io/students/jess-kolbusz/"><img src='/images/Jess_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/jonathon-mitchell/"><img src='/images/Jon_WS.jpg' vspace="5"></a>
 
-**Jonathon Mitchell**|  **Matthew Navarro**
+**Matthew Navarro** |  **Michael Brooker**
 :-------------:|:-------------:
-Shark depredation Ningaloo | Trade-off no-take areas
-<a href="https://brookegibbons.github.io/students/jonathon-mitchell/"><img src='/images/Jon_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/matthew-navarro/"><img src='/images/Matt_N_WS.jpg' vspace="5"></a>
+Trade-off no-take areas | Western Rock Lobster
+<a href="https://brookegibbons.github.io/students/matthew-navarro/"><img src='/images/Matt_N_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/michael-brooker/"><img src='/images/Brooker_WS.jpg' vspace="5"></a>
 
- **Michael Brooker**|  **Nestor Bosch** 
+**Nestor Bosch** | **Rob Power**
 :-------------:|:-------------:
-Western Rock Lobster | Algae
-<a href="https://brookegibbons.github.io/students/michael-brooker/"><img src='/images/Brooker_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/Nestor_WS.jpg' vspace="5"></a>
+Algae | Western Rock Lobster
+<a href="https://brookegibbons.github.io/students/nestor-bosch/"><img src='/images/Nestor_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/rob-power/"><img src='/images/blank.png' vspace="5"></a>
 
- **Todd Bond**  | **Yannick Mulders**
+**Salvador Zarco-Perello** | **Todd Bond**
 :-------------:|:-------------:
-Decommissioning | Functional redundancy of seaweed habitats
-<a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a>
+Rabbitfish | Decommissioning
+<a href="https://brookegibbons.github.io/students/salvador-zarco-perello/"><img src='/images/Salvador_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/todd-bond/"><img src='/images/Todd_WS.jpg' vspace="5"></a>
+
+**Yannick Mulders** |    
+:-------------:|:-------------:
+Functional redundancy of seaweed habitats | 
+<a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/Yannick_WS.jpg' vspace="5"></a> | <a href="https://brookegibbons.github.io/students/yannick-mulders/"><img src='/images/blank.png' vspace="5"></a>
 
 ## Masters Students
 
-**Ashlyn Miller** | **Daniel Lindstedt**
+**Ashlyn Miller** | **Brock Keymer**
 :-------------:|:-------------:
-Seismic survey impacts on Western Rock Lobster | Catchability and behaviour of Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/daniel-lindstedt/"><img src='/images/Dan_WS.jpg' vspace="5"></a>
- 
-**Matt Hammond**| **Oscar Doncel Canon**
+Seismic survey impacts on Western Rock Lobster | Catchability of juvenile Western Rock Lobster
+<a href="https://brookegibbons.github.io/students/ashlyn-miller/"><img src='/images/Ash_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/brock-keymer/"><img src='/images/Dan_WS.jpg' vspace="5"></a>
+
+**Daniel Lindstedt** | **Matt Hammond**
 :-------------:|:-------------:
-Fish assemblages on Artifical Reef | Catch rate of white Western Rock Lobster
-<a href="https://brookegibbons.github.io/students/matt-hammond/"><img src='/images/Matt_WS.JPG' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/oscar-doncel-canon/"><img src='/images/Oscar_WS.jpg' vspace="5"></a>
+Catchability and behaviour of Western Rock Lobster | Fish assemblages on Artifical Reef 
+<a href="https://brookegibbons.github.io/students/daniel-lindstedt/"><img src='/images/Dan_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/matt-hammond/"><img src='/images/Matt_WS.JPG' vspace="5"></a>
+
+**Oscar Doncel Canon** | **Sam Brock**
+:-------------:|:-------------:
+Catch rate of white Western Rock Lobster | Artificial Reefs
+<a href="https://brookegibbons.github.io/students/oscar-doncel-canon/"><img src='/images/Oscar_WS.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/sam-brock/"><img src='/images/blank.png' vspace="5"></a>
