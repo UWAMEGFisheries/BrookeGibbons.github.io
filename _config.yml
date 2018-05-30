@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
+  name             : "Marine Ecology Group - Fisheries Research"
   avatar           : "MEGLogo.jpg"
   bio              : 
-  location         :
+  location         : Perth, Australia
   phone            :
   employer         :
   googlescholar    : #"https://scholar.google.com/citations?user=X5SMt_8AAAAJ"
@@ -95,7 +95,7 @@ author:
   github           : "UWA-MarineEcologyGroup"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : https://www.instagram.com/uwa_marine_ecology/
   lastfm           :
   linkedin         :
   researchgate     : #"https://www.researchgate.net/profile/Phil_Bouchet"
