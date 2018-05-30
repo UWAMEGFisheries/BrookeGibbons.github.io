@@ -4,8 +4,9 @@ title: "Current and past research projects"
 permalink: /research/
 author_profile: true
 ---
+
+<img class="philprofile" src='/images/1_Globalarchive.png' align='right' width="350" hspace="20" vspace="20">
 ## Global Data synthesis
-<img class="philprofile" src='/images/1_Globalarchive.png' align='left' width="350" hspace="20" vspace="10">
 In contrast to well developed structures for physical and chemical ocean data, tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. To rectify this we have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data [(GlobalArchive)](globalarchive.org). This initiative has now been supported in Australia by [Integrated Marine Observing System](http://imos.org.au/home/) (IMOS), the [National Environmental Science Programme](http://www.environment.gov.au/science/nesp) (NESP) and [National eResearch Collaboration Tools and Resources](https://nectar.org.au/) (NECTAR), and this year we will be further developing work under the [National Collaborative Research Infrastructure Strategy](https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris) (NCRIS). Internationally we are collaborating with the [GlobalFinPrint project](https://globalfinprint.org/) and [Paul G. Allen Philanthropies](http://www.pgaphilanthropies.org/) to coordinate with comparable global initiatives.
 
 ## Governance and reporting tools for policy makers
@@ -15,14 +16,13 @@ Spatial management is commonly used in marine systems, and all Australian state 
 Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video (stereo-BRUV) methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies and an emerging method for fisheries independent assessments. We have worked with stereo-BRUV methods for many years, and published a range of methodological studies (see [publications](https://brookegibbons.github.io/media/)). We have developed methods and workflows to validate data derived from stereo-video annotation software, which are being used nationally and internationally and are freely available to the research community via [Tim Langlois's GitHub](https://github.com/TimLanglois). In addition, together with our collaborators we have demonstrated an automated and georeferenced stereo-BRUV system that can be deployed during standard commercial fishing practices and can decrease the cost of data collection by 50%. 
 
 
-<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="350" hspace="20" vspace="20">
 
 ## Using socio-economic assessments to inform spatial management policy
 Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
 
-
+<img class="philprofile" src='/images/1_Lobster.png' align='right' width="375" hspace="20" vspace="20">
 ## Research with the fishing industry
-<img class="philprofile" src='/images/1_Lobster.png' align='left' width="375" hspace="20" vspace="10">
 [Tim Langlois's](https://brookegibbons.github.io/academics/tim-langlois/) PhD revealed that predation by rock lobster can control the abundance of soft-sediment infauna adjacent to rocky reefs. In collaboration with DPIRD-Fisheries and fishers, Tim is the Principal Investigator on a Fisheries Research Development Corporation (FRDC) funded project to investigate low-catch rates within nursery areas at the centre of the fishery. The MEG lab is also invloved in another two FRDC funded projects, the first with DPRID-Fisheries to investigate lobster catchability and the second with Prof Chari Pattiaratchi to establish a strong current warning system. These projects represent excellent research training opportunities for postgraduate students. We have also been invited to sit on the organising committee for the 12th International Conference and Workshop on Lobster Biology and Management, to be held in Perth in 2020 and that will provide an excellent opportunity for raising the profile of UWA in meeting the needs of the Blue Economy agenda. 
 
 
@@ -32,10 +32,6 @@ we have made significant contributions to studying the direct and indirect impac
 
 ## Developing novel applications of statistical theory
 We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research.
-
-
-
-<img class="philprofile" src='/images/1_Fishing.png' align='right' width="350" hspace="20" vspace="10">
 
 ## Fisheries modeling and decommissioning
 In collaboration with the DPIRD-Fisheries we have two high-impact manuscripts in progress that detail and predict the positive implications of a large (2450 km2) fishery closure on the northwest shelf of Australia for fisheries management. With colleagues at UWA we are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as  potential defacto closed areas. This research informs decommissioning strategies and has helped cement UWA as the leading university for decommissioning marine science research.
