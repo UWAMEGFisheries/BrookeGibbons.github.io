@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h1 class="aboutPhil">The UWA Marine Ecology Group - Fisheries Research</h1>
-
 <img class="philprofile" src='/images/BRUV_Steve.jpg' align='right' width="350" hspace="20" vspace="10">
+
+<h1 class="aboutPhil">The UWA Marine Ecology Group - Fisheries Research</h1>
 
 We are a group of researchers at the University of Western Australia, dedicated to better understanding fish assemblages and lobster populations mainly along the coast of Western Australia, although our work extends to other areas of the Pacific such as New Caledonia and Fiji. Our main focus is in the use of stereo-video techniques to survey marine benthic and pelagic systems, gathering very precise data on fish abundance, population size structure and habitat associations of a variety of species, from site attached pomacentrids to pelagic scombrids. 
 
@@ -20,9 +20,5 @@ We then use such data to create models that can help us better understand commun
 ## Recent Highlights
 - 
 - 
--
+- 
 
-
-
-<img class="manusanfelix" src='/images/DOV_Julia.jpg' vspace="5">
-<figcaption>Past MEG member Julia harbourstraw using stereo diver operated video at Mo'orea, French Polynesia. <br>Photo credit: Lauric Thiault (2016).</figcaption>
