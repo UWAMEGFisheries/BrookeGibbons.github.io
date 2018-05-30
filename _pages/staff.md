@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Research Staff"
 permalink: /staff/
-author_profile: false
+author_profile: true
 sidebar:
   nav: "staff"
 ---
