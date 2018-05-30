@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Students"
 permalink: /students/
-author_profile: false
+author_profile: true
 sidebar:
   nav: "students"
 ---
@@ -11,7 +11,7 @@ sidebar:
 **Anna Cresswell**  |  **Camilla Piggot**
 :-------------:|:-------------:
 Ningaloo outlook - shallow reefs | Fish recruitment in coastal habitats of north-west Australia. 
-<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS2.jpg' vspace="5"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/Milly_WS.jpg' vspace="5"></a>
+<a href="https://brookegibbons.github.io/students/anna-cresswell/"><img src='/images/Anna_WS2.jpg' vspace="15"></a>|<a href="https://brookegibbons.github.io/students/camilla-piggot/"><img src='/images/Milly_WS.jpg' vspace="15"></a>
 
 **Emily Lester**| **Emma-Jade Tuffley**
 :-------------:|:-------------:
