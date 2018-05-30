@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "UWA Marine Ecology Group"
 title_separator          : "-"
 name                     : &name "UWA Marine Ecology Group - Fisheries Research"
 description              : &description ""
@@ -56,7 +56,7 @@ yandex_site_verification :
 twitter:
   username               : #&phbouchet
 facebook:
-  username               :
+  username               : marineecologygroupUWA
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Marine Ecology Group - Fisheries Research"
   avatar           : "MEGLogo.jpg"
-  bio              : "BIO"
+  bio              : 
   location         :
   phone            :
   employer         :
@@ -90,9 +90,9 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/marineecologygroupUWA/
   foursquare       :
-  github           : "BrookeGibbons"
+  github           : "UWA-MarineEcologyGroup"
   google_plus      :
   keybase          :
   instagram        :
