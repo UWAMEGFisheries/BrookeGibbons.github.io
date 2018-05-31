@@ -14,7 +14,6 @@ feature_row1:
     btn_class: "btn--info"
 sidebar:
   nav: "academics"
-
 ---
 
 {% include feature_row id="feature_row1"%}
