@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "UWA Marine Ecology Group"
+title                    : "UWA MEG Fisheries Research"
 title_separator          : "-"
 name                     : &name ""
 description              : &description ""
