@@ -10,7 +10,7 @@ sidebar:
     image_path: /images/Di_WS.jpg
     alt: "Dianne Mclean"
   - url: https://brookegibbons.github.io/academics/tim-langlois/
-    image_path: '/images/Tim_WA.jpg'
+    image_path: /images/Tim_WA.jpg
     alt: "Tim Langlois"
 ---
  **Dianne Mclean**  | **Tim Langlois**
