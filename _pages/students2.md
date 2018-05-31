@@ -60,6 +60,20 @@ feature_row5:
     btn_label: /images/Yannick_WS.jpg
     btn_class: "btn--info"
     url: "https://brookegibbons.github.io/academics/yannick-mulders/"
+feature_row6:
+  - image_path: /images/Ash_WS.jpg
+    btn_label: "Ashlyn Miller"
+    btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/ashlyn-miller/"
+  - image_path: /images/Brock_WS.jpg
+    url: "https://brookegibbons.github.io/academics/brock-keymer/"
+    btn_label: "Brock Keymer"
+    btn_class: "btn--info"
+  - image_path: /images/Dan_WS.jpg
+    url: "https://brookegibbons.github.io/academics/daniel-lindstedt/"
+    btn_label: "Daniel Lindstedt"
+    btn_class: "btn--info"
+
 sidebar:
   nav: "students"
 ---
@@ -74,3 +88,7 @@ sidebar:
 {% include feature_row id="feature_row4"%}
 
 {% include feature_row id="feature_row5"%}
+
+
+## Masters
+{% include feature_row id="feature_row6"%}
