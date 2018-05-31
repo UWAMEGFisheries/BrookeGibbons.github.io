@@ -4,7 +4,7 @@ title: "Current Academics"
 permalink: /academics2/
 author_profile: true
 feature_row1:
-  - image_path: /MEG.png
+  - image_path: /images/Di_WS.jpg
     btn_label: "Dianne McLean"
     btn_class: "btn--info"
     excerpt: "Research Fellow"
