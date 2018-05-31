@@ -24,7 +24,7 @@ Spatial management policy development has historically been slowed by the percei
  
  
 <h2 class="researchtitle">Research with the fishing industry</h2>
-<img class="philprofile" src='/images/1_Lobster.png' align='right' width="375" hspace="20" vspace="20">
+<img class="philprofile" src='/images/1_Lobster.png' align='right' width="350" hspace="20" vspace="20">
 [Tim Langlois's](https://brookegibbons.github.io/academics/tim-langlois/) PhD revealed that predation by rock lobster can control the abundance of soft-sediment infauna adjacent to rocky reefs. In collaboration with DPIRD-Fisheries and fishers, Tim is the Principal Investigator on a Fisheries Research Development Corporation (FRDC) funded project to investigate low-catch rates within nursery areas at the centre of the fishery. The MEG lab is also invloved in another two FRDC funded projects, the first with DPRID-Fisheries to investigate lobster catchability and the second with Prof Chari Pattiaratchi to establish a strong current warning system. These projects represent excellent research training opportunities for postgraduate students. We have also been invited to sit on the organising committee for the 12th International Conference and Workshop on Lobster Biology and Management, to be held in Perth in 2020 and that will provide an excellent opportunity for raising the profile of UWA in meeting the needs of the Blue Economy agenda. 
  
  
@@ -41,7 +41,7 @@ In collaboration with the DPIRD-Fisheries we have two high-impact manuscripts in
  
  
 <h2 class="researchtitle">Marine extremes</h2>
-<img class="philprofile" src='/images/1_Extremes.png' align='right' width="350" hspace="20" vspace="20">
+<img class="philprofile" src='/images/1_Extremes.png' align='right' width="300" hspace="20" vspace="20">
 Our early work in WA described patterns of distribution in marine ecological communities along the coast which were strongly correlated with temperature regimes, and contrasted with global trends demonstrating less consistency. These studies provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards. We collaborate closely with [Dr Thomas Wernberg](https://wernberglab.org/) and currently co-supervise three students investigating further marine ecological impacts of these marine extremes.
  
  
@@ -50,5 +50,5 @@ Developing aquaculture in Western Australia is challenging due to low levels of 
  
  
 <h2 class="researchtitle">Research to inform emerging management issues - shark depredation</h2>
-<img class="philprofile" src='/images/1_interview.png' align='right' width="350" hspace="20" vspace="20">
+<img class="philprofile" src='/images/1_interview.png' align='right' width="300" hspace="20" vspace="20">
 Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia.
