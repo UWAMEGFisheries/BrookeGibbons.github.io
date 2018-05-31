@@ -16,10 +16,8 @@ Spatial management is commonly used in marine systems, and all Australian state 
 <h2 class="researchtitle">Standard Operating Procedures and Technology innovation</h2>
 Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video (stereo-BRUV) methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies and an emerging method for fisheries independent assessments. We have worked with stereo-BRUV methods for many years, and published a range of methodological studies (see [publications](https://brookegibbons.github.io/media/)). We have developed methods and workflows to validate data derived from stereo-video annotation software, which are being used nationally and internationally and are freely available to the research community via [Tim Langlois's GitHub](https://github.com/TimLanglois). In addition, together with our collaborators we have demonstrated an automated and georeferenced stereo-BRUV system that can be deployed during standard commercial fishing practices and can decrease the cost of data collection by 50%. 
 
-
-<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="350" hspace="20" vspace="20">
-
 <h2 class="researchtitle">Using socio-economic assessments to inform spatial management policy</h2>
+<img class="philprofile" src='/images/1_Marinepark.png' align='left' width="350" hspace="20" vspace="20">
 Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
 
 <img class="philprofile" src='/images/1_Lobster.png' align='right' width="375" hspace="20" vspace="20">
@@ -47,8 +45,9 @@ Our early work in WA described patterns of distribution in marine ecological com
 Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are supervising a PhD student to trial a novel and low-cost method for tropical lobster culture, a species for which there is currently no commercial fishery. The student comes with 20 years experience in the aquaculture industry overseas. The novel approach we are testing has the potential to provide a sustainable income and protein source with a low-tech design ideal for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study.
 
 
-<img class="philprofile" src='/images/1_interview.png' align='left' width="350" hspace="20" vspace="10">
+
 
 <h2 class="researchtitle">Research to inform emerging management issues - shark depredation</h2>
+<img class="philprofile" src='/images/1_interview.png' align='left' width="350" hspace="20" vspace="10">
 Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia.
 
