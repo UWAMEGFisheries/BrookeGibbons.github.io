@@ -8,7 +8,7 @@ feature_row1:
     btn_label: "Dianne McLean"
     btn_class: "btn--info"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
-  - image_path: '/images/Tim_WA.jpg'
+  - image_path: 'Tim_WS.jpg'
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
     btn_label: "Tim Langlois"
     btn_class: "btn--info"
