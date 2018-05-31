@@ -4,10 +4,9 @@ title: "Current Academics"
 permalink: /academics2/
 author_profile: true
 feature_row1:
-  - image_path: '/images/Di_WS.jpg'
+  - image_path: https://research.csiro.au/pmcp/wp-content/uploads/sites/65/2016/02/Di-McLean-e1472785960793-240x300.jpg
     btn_label: "Dianne McLean"
     btn_class: "btn--info"
-    title: "Dianne McLean"
     excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
   - image_path: '/images/Tim_WA.jpg'
