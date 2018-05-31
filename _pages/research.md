@@ -13,10 +13,9 @@ In contrast to well developed structures for physical and chemical ocean data, t
 <h2 class="researchtitle">Governance and reporting tools for policy makers</h2>
 Spatial management is commonly used in marine systems, and all Australian state agencies tasked with conservation and fisheries management are now using [(GlobalArchive)](globalarchive.org) to organise and synthesise national data sets into a series of in progress high-impact manuscripts. Importantly, this allows matching macro-ecological data with physical and chemical data at the ocean scale. In addition, the current [(NCRIS)](https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris) funding will be used to develop macro-ecological reporting tools designed for communication with policy makers and stakeholders. 
 
-
-<h2 class="researchtitle">Using socio-economic assessments to inform spatial management policy</h2>
-<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="375" hspace="10" vspace="10">
-Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
+<h2 class="researchtitle">Research to inform emerging management issues - shark depredation</h2>
+<img class="philprofile" src='/images/1_interview.png' align='right' width="300" hspace="20" vspace="20">
+Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia.
  
 
 <h2 class="researchtitle">Standard Operating Procedures and Technology innovation</h2>
@@ -49,7 +48,6 @@ Developing aquaculture in Western Australia is challenging due to low levels of 
  <h2 class="researchtitle">Developing novel applications of statistical theory</h2>
 We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research.
  
- 
-<h2 class="researchtitle">Research to inform emerging management issues - shark depredation</h2>
-<img class="philprofile" src='/images/1_interview.png' align='right' width="300" hspace="20" vspace="20">
-Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia.
+<h2 class="researchtitle">Using socio-economic assessments to inform spatial management policy</h2>
+<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="375" hspace="10" vspace="10">
+Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
