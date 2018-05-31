@@ -4,7 +4,9 @@ title: "Current Students"
 permalink: /students/
 author_profile: true
 feature_row1:
-  - btn_label: "Anna Cresswell"
+  - title: "Anna Cresswell"
+    excerpt: "Ningaloo outlook - shallow reefs"
+    btn_label: "More about Anna..."
     btn_class: "btn--info"
     image_path: /Anna_WS2.jpg
     url: "https://brookegibbons.github.io/students/anna-cresswell/"
