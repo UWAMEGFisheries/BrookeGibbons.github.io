@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Academics"
-permalink: /academics/
+permalink: /academicsold/
 author_profile: true
 gallery1:
   - url: https://brookegibbons.github.io/academics/dianne-mclean/
