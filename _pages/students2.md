@@ -55,6 +55,11 @@ feature_row4:
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
     btn_label: "Todd Bond"
     btn_class: "btn--info"
+feature_row5:
+  - image_path: /Di_WS.jpg
+    btn_label: /images/Yannick_WS.jpg
+    btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/yannick-mulders/"
 sidebar:
   nav: "students"
 ---
@@ -67,3 +72,5 @@ sidebar:
 {% include feature_row id="feature_row3"%}
 
 {% include feature_row id="feature_row4"%}
+
+{% include feature_row id="feature_row5"%}
