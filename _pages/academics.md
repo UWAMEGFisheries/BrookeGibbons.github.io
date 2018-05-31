@@ -3,15 +3,16 @@ layout: archive
 title: "Current Academics"
 permalink: /academics/
 author_profile: true
-sidebar:
-  nav: "academics"
-  gallery1:
+gallery1:
   - url: https://brookegibbons.github.io/academics/dianne-mclean/
     image_path: /images/Di_WS.jpg
     alt: "Dianne Mclean"
   - url: https://brookegibbons.github.io/academics/tim-langlois/
     image_path: /images/Tim_WA.jpg
     alt: "Tim Langlois"
+sidebar:
+  nav: "academics"
+
 ---
  **Dianne Mclean**  | **Tim Langlois**
 :------------------:|:-----------------:
