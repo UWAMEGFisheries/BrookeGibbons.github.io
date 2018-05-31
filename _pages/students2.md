@@ -89,6 +89,7 @@ feature_row7:
     btn_label: "Sam Brock"
     btn_class: "btn--info"
 ---
+
 ## PhD Candidates
 {% include feature_row id="feature_row1"%}
 {% include feature_row id="feature_row2"%}
