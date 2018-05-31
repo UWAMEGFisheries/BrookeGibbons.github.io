@@ -8,7 +8,7 @@ feature_row1:
     btn_label: "Brooke Gibbons"
     btn_class: "btn--info"
     url: "https://brookegibbons.github.io/staff/brooke-gibbons/"
-  - image_path: /Mike_WS.jpg
+  - image_path: /Mike_WS2.jpg
     url: "https://brookegibbons.github.io/staff/michael-taylor/"
     btn_label: "Michael Taylor"
     btn_class: "btn--info"
