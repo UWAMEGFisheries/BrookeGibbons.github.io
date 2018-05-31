@@ -7,11 +7,8 @@ feature_row1:
   - image_path: /images/Di_WS.jpg
     btn_label: "Dianne McLean"
     btn_class: "btn--info"
-    excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
   - image_path: '/images/Tim_WA.jpg'
-    title: "Tim Langlois"
-    excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
     btn_label: "Tim Langlois"
     btn_class: "btn--info"
