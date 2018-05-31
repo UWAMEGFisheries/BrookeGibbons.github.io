@@ -13,22 +13,22 @@ intro:
   
   We then use such data to create models that can help us better understand community structure and ecological relationships, and assess impacts of resource use and protection measures. The group has also created strong links with both government and non-government organisations to broaden the spectrum of action of our activities. We now use camera systems on lobster traps and work with lobster fishermen to assist in monitoring abundance, size structure and reproductive capacity of lobster stocks in Western Australia.'
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /BRUV_Steve.jpg
     title: "Project 1"
     excerpt: "This is some sample content"
-    url: "#test-link"
+    url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /DOV_Julia.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
-    url: "#test-link"
+    url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /Globalarchive.png
     title: "Project 3"
     excerpt: "This is some sample content"
-    url: "#test-link"
+    url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
