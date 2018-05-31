@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: archive
 title: "Current Academics"
 permalink: /academics2/
 author_profile: true
