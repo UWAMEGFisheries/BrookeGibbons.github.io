@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Students"
-permalink: /students/
+permalink: /studentsold/
 author_profile: true
 sidebar:
   nav: "students"
