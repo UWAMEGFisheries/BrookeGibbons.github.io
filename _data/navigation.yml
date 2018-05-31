@@ -9,6 +9,10 @@ main:
     sublinks:
       - title: "Tim Langlois"
         url: /tim-langlois/
+        
+  - title: "Academics2"
+    url: /academics2/
+      
   - title: "Staff"
     url: /staff/
 
