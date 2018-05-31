@@ -3,7 +3,7 @@ layout: splash
 title: "Current Academics"
 permalink: /academics2/
 author_profile: true
-feature_row:
+feature_row1:
   - image_path: /images/Di_WS.jpg
     title: "Dianne McLean"
     excerpt: "Research Fellow"
@@ -19,5 +19,5 @@ sidebar:
 
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row1"%}
 
