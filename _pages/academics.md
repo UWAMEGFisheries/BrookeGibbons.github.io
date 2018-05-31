@@ -5,10 +5,10 @@ permalink: /academics/
 author_profile: true
 gallery1:
   - url: https://brookegibbons.github.io/academics/dianne-mclean/
-    image_path: /images/Di_WS.jpg
+    image_path: '/images/Di_WS.jpg'
     alt: "Dianne Mclean"
   - url: https://brookegibbons.github.io/academics/tim-langlois/
-    image_path: /images/Tim_WA.jpg
+    image_path: '/images/Tim_WA.jpg'
     alt: "Tim Langlois"
 sidebar:
   nav: "academics"
