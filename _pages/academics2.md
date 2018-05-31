@@ -8,12 +8,14 @@ feature_row1:
     title: "Dianne McLean"
     excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
+    btn_label: "Dianne McLean"
+    btn_class: "btn--info"
   - image_path: '/images/Tim_WA.jpg'
     title: "Tim Langlois"
     excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
     btn_label: "Tim Langlois"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 sidebar:
   nav: "academics"
 
