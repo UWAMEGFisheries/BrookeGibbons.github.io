@@ -1,12 +1,11 @@
 ---
 permalink: /students/jess-kolbusz/
 title: "Jess Kolbusz"
-excerpt: "title: "Jess Kolbusz"
+excerpt: "Jess Kolbusz"
 author_profile: false
 sidebar:
   nav: "students"
 ---
-
 <img class="philprofile" src='/images/Jess_L.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Influence of currents on Western Rock Lobster
