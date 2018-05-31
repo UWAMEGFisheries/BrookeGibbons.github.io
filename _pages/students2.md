@@ -42,11 +42,28 @@ feature_row3:
     url: "https://brookegibbons.github.io/academics/nestor-bosch/"
     btn_label: "Nestor Bosch"
     btn_class: "btn--info"
+feature_row4:
+  - image_path: /images/blank.png
+    btn_label: "Rob Power"
+    btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/rob-power/"
+  - image_path: /images/Salvador_WS.jpg
+    url: "https://brookegibbons.github.io/academics/salvador-zarco-perello/"
+    btn_label: "Salvador Zarco-Perello"
+    btn_class: "btn--info"
+  - image_path: /images/Todd_WS.jpg
+    url: "https://brookegibbons.github.io/academics/tim-langlois/"
+    btn_label: "Todd Bond"
+    btn_class: "btn--info"
 sidebar:
   nav: "students"
 ---
 
 ## PhD Candidates
 {% include feature_row id="feature_row1"%}
+
 {% include feature_row id="feature_row2"%}
+
 {% include feature_row id="feature_row3"%}
+
+{% include feature_row id="feature_row4"%}
