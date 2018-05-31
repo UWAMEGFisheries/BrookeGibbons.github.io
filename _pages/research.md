@@ -24,7 +24,7 @@ Spatial management policy development has historically been slowed by the percei
  
  
 <h2 class="researchtitle">Research with the fishing industry</h2>
-<img class="philprofile" src='/images/1_Lobster.png' align='right' width="350" hspace="20" vspace="20">
+<img class="philprofile" src='/images/1_Lobster.png' align='right' width="325" hspace="20" vspace="20">
 [Tim Langlois's](https://brookegibbons.github.io/academics/tim-langlois/) PhD revealed that predation by rock lobster can control the abundance of soft-sediment infauna adjacent to rocky reefs. In collaboration with DPIRD-Fisheries and fishers, Tim is the Principal Investigator on a Fisheries Research Development Corporation (FRDC) funded project to investigate low-catch rates within nursery areas at the centre of the fishery. The MEG lab is also invloved in another two FRDC funded projects, the first with DPRID-Fisheries to investigate lobster catchability and the second with Prof Chari Pattiaratchi to establish a strong current warning system. These projects represent excellent research training opportunities for postgraduate students. We have also been invited to sit on the organising committee for the 12th International Conference and Workshop on Lobster Biology and Management, to be held in Perth in 2020 and that will provide an excellent opportunity for raising the profile of UWA in meeting the needs of the Blue Economy agenda. 
  
  
