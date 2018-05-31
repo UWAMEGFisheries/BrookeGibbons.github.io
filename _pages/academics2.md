@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Current Academics"
-permalink: /academics/
+permalink: /academics2/
 author_profile: true
 sidebar:
   nav: "academics"
