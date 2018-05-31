@@ -9,7 +9,7 @@ header:
   overlay_image: /Reef.jpg
 excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
 feature_row:
-  - image_path: /1_Lobster.jpg
+  - image_path: /1_Lobster.png
     title: "Something about lobsters"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
