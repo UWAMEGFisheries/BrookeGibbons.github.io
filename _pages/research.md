@@ -47,7 +47,7 @@ Our early work in WA described patterns of distribution in marine ecological com
 Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are supervising a PhD student to trial a novel and low-cost method for tropical lobster culture, a species for which there is currently no commercial fishery. The student comes with 20 years experience in the aquaculture industry overseas. The novel approach we are testing has the potential to provide a sustainable income and protein source with a low-tech design ideal for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study.
 
 
-<img class="philprofile" src='/images/1_interview.png' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/1_interview.png' align='left' width="350" hspace="20" vspace="10">
 
 <h2 class="researchtitle">Research to inform emerging management issues - shark depredation</h2>
 Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery. We also formed an advisory panel including the DBCA, DPIRD, WAFIC and RecFishWest, to supervise the development of this project, leading to the implementation of a science communication strategy that has resulted in balanced media coverage for the first publication. An MSc and PhD student on this project have so far received funding from the Jock Clough Marine Foundation, and both the Recreational Fishing Initiatives Fund for Western Australia and New South Wales and Parks Australia.
