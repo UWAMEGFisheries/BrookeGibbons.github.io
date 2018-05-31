@@ -16,10 +16,7 @@ The University of Western Australia (M092)<br>
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au">tim.langlois@uwa.edu.au</a><br>
 <i class="fas fa-phone"></i>&nbsp;&nbsp;(+61) (8) 0000 0000<br>
 <i class="fas fa-mobile-alt"></i>&nbsp;&nbsp; (+61) (4) 0000 0000<br>
-<i class="fab fa-facebook"></i>&nbsp;&nbsp;
-  
-  
-  [Marine Ecology Group - Fisheries Research]<br>
+<i class="fab fa-facebook"></i>&nbsp;&nbsp;<a href="https://www.facebook.com/marineecologygroupUWA/">Marine Ecology Group - Fisheries Research</a><br>
 <i class="fab fa-instagram"></i>&nbsp;&nbsp;[meg_fish_lab]<br>
 <i class="fab fa-github"></i>&nbsp;&nbsp;[UWA-MarineEcologyGroup]<br>
 
