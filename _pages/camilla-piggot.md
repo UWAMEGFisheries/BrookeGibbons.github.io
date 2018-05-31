@@ -12,8 +12,10 @@ sidebar:
 bla bla bla
 
 ## Supervisors
-- Tim Langlois
-
+- Martial
+- Monica
+- [Tim Langlois](https://brookegibbons.github.io/academics/tim-langlois/ "Tim Langlois")
+- Gary Kendrick
 
 ## Qualifications
 -
