@@ -6,9 +6,9 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/Anna_L.jpg' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/MJ_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
-## PhD Project Title
+## Ningaloo outlook - shallow reefs
 bla bla bla
 
 ## Supervisors
