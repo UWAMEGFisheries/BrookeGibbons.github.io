@@ -9,9 +9,9 @@ feature_row1:
     btn_class: "btn--info"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
   - image_path: /Tim_WS.jpg
-    url: "https://brookegibbons.github.io/academics/tim-langlois/"
     btn_label: "Tim Langlois"
     btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/tim-langlois/"
 sidebar:
   nav: "academics"
 ---
