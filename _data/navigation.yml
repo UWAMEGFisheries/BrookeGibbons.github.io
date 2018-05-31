@@ -6,18 +6,12 @@ main:
       
   - title: "Academics"
     url: /academics/
-        
-  - title: "Academics2"
-    url: /academics2/
       
   - title: "Staff"
     url: /staff/
 
   - title: "Students"
     url: /students/
-    
-  - title: "Students2"
-    url: /students2/
 
   - title: "Media & impact"
     url: /media/
