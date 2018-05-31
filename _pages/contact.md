@@ -4,9 +4,9 @@ title: "Get in touch"
 permalink: /contact/
 author_profile: true
 ---
-<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
+<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 The University of Western Australia (M092)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+64 Fairway, Crawley WA 6009</p>
 
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au">tim.langlois@uwa.edu.au</a><br>
