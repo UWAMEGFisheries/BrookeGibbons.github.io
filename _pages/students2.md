@@ -36,7 +36,7 @@ feature_row3:
     btn_label: "Matthew Navarro"
     btn_class: "btn--info"
     url: "https://brookegibbons.github.io/academics/matthew-navarro/"
-  - image_path: '/images/Brooker_WS.jpg
+  - image_path: /images/Brooker_WS.jpg
     url: "https://brookegibbons.github.io/academics/michael-brooker/"
     btn_label: "Michael Brooker"
     btn_class: "btn--info"
