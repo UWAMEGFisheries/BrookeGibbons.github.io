@@ -102,7 +102,7 @@ sidebar:
 {% include feature_row id="feature_row5"%}
 
 
-## Masters
+## Masters Students
 {% include feature_row id="feature_row6"%}
 
 {% include feature_row id="feature_row7"%}
