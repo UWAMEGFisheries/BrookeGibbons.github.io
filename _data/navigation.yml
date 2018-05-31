@@ -25,10 +25,11 @@ main:
 academics:
   - title: Academics
     children:
-      - title: "Tim Langlois"
-        url: /academics/tim-langlois/
       - title: "Dianne McLean"
         url: /academics/dianne-mclean/
+      - title: "Tim Langlois"
+        url: /academics/tim-langlois/
+
   
 staff:
   - title: Staff
