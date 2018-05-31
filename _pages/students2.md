@@ -29,6 +29,19 @@ feature_row2:
     url: "https://brookegibbons.github.io/academics/jonathon-mitchell/"
     btn_label: "Jonathon Mitchell"
     btn_class: "btn--info"
+feature_row3:
+  - image_path: /images/Matt_N_WS.jpg
+    btn_label: "Matthew Navarro"
+    btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/matthew-navarro/"
+  - image_path: /images/Brooker_WS.jpg
+    url: "https://brookegibbons.github.io/academics/michael-brooker/"
+    btn_label: "Michael Brooker"
+    btn_class: "btn--info"
+  - image_path: /images/Nestor_WS.jpg
+    url: "https://brookegibbons.github.io/academics/nestor-bosch/"
+    btn_label: "Nestor Bosch"
+    btn_class: "btn--info"
 sidebar:
   nav: "students"
 ---
@@ -36,3 +49,4 @@ sidebar:
 ## PhD Candidates
 {% include feature_row id="feature_row1"%}
 {% include feature_row id="feature_row2"%}
+{% include feature_row id="feature_row3"%}
