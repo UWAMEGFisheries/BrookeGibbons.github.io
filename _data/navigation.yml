@@ -15,6 +15,9 @@ main:
 
   - title: "Students"
     url: /students/
+    
+  - title: "Students2"
+    url: /students2/
 
   - title: "Media & impact"
     url: /media/
