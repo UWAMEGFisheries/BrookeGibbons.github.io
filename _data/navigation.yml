@@ -6,9 +6,6 @@ main:
       
   - title: "Academics"
     url: /academics/
-    sublinks:
-      - title: "Tim Langlois"
-        url: /tim-langlois/
         
   - title: "Academics2"
     url: /academics2/
