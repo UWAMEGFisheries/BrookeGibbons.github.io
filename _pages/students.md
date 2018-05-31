@@ -4,9 +4,9 @@ title: "Current Students"
 permalink: /students/
 author_profile: true
 feature_row1:
-  - image_path: /Anna_WS2.jpg
-    btn_label: "Anna Cresswell"
+  - btn_label: "Anna Cresswell"
     btn_class: "btn--info"
+    image_path: /Anna_WS2.jpg
     url: "https://brookegibbons.github.io/students/anna-cresswell/"
   - image_path: /Milly_WS.jpg
     url: "https://brookegibbons.github.io/students/camilla-piggot/"
