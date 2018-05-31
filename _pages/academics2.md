@@ -4,11 +4,11 @@ title: "Current Academics"
 permalink: /academics2/
 author_profile: true
 feature_row1:
-  - image_path: /images/Di_WS.jpg
+  - image_path: '/images/Di_WS.jpg'
     title: "Dianne McLean"
     excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/dianne-mclean/"
-  - image_path: /images/Tim_WA.jpg
+  - image_path: '/images/Tim_WA.jpg'
     title: "Tim Langlois"
     excerpt: "Research Fellow"
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
