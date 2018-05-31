@@ -73,7 +73,19 @@ feature_row6:
     url: "https://brookegibbons.github.io/academics/daniel-lindstedt/"
     btn_label: "Daniel Lindstedt"
     btn_class: "btn--info"
-
+feature_row7:
+  - image_path: /images/Matt_WS.JPG
+    btn_label: "Matt Hammond"
+    btn_class: "btn--info"
+    url: "https://brookegibbons.github.io/academics/matt-hammond/"
+  - image_path: /images/Oscar_WS.jpg
+    url: "https://brookegibbons.github.io/academics/oscar-doncel-canon/"
+    btn_label: "Oscar Doncel Canon"
+    btn_class: "btn--info"
+  - image_path: /images/blank.png
+    url: "https://brookegibbons.github.io/academics/sam-brock/"
+    btn_label: "Sam Brock"
+    btn_class: "btn--info"
 sidebar:
   nav: "students"
 ---
@@ -92,3 +104,5 @@ sidebar:
 
 ## Masters
 {% include feature_row id="feature_row6"%}
+
+{% include feature_row id="feature_row7"%}
