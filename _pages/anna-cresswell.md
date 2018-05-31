@@ -6,13 +6,13 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/MJ_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/Anna_L.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Ningaloo outlook - shallow reefs
 bla bla bla
 
 ## Supervisors
-- Tim Langlois
+- [Tim Langlois](https://brookegibbons.github.io/academics/tim-langlois/ "Tim Langlois")
 - Michael
 - Mick
 - Damian
