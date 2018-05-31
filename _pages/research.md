@@ -17,9 +17,9 @@ Spatial management is commonly used in marine systems, and all Australian state 
 Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video (stereo-BRUV) methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies and an emerging method for fisheries independent assessments. We have worked with stereo-BRUV methods for many years, and published a range of methodological studies (see [publications](https://brookegibbons.github.io/media/)). We have developed methods and workflows to validate data derived from stereo-video annotation software, which are being used nationally and internationally and are freely available to the research community via [Tim Langlois's GitHub](https://github.com/TimLanglois). In addition, together with our collaborators we have demonstrated an automated and georeferenced stereo-BRUV system that can be deployed during standard commercial fishing practices and can decrease the cost of data collection by 50%. 
 
 
-<img class="researchtitle" src='/images/1_Marinepark.png' align='right' width="350" hspace="20" vspace="20">
+<img class="philprofile" src='/images/1_Marinepark.png' align='right' width="350" hspace="20" vspace="20">
 
-<h2 class="aboutPhil">Using socio-economic assessments to inform spatial management policy</h2>
+<h2 class="researchtitle">Using socio-economic assessments to inform spatial management policy</h2>
 Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. 
 
 <img class="philprofile" src='/images/1_Lobster.png' align='right' width="375" hspace="20" vspace="20">
