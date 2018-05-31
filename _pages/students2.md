@@ -3,8 +3,6 @@ layout: archive
 title: "Current Students"
 permalink: /students2/
 author_profile: true
-sidebar:
-  nav: "students"
 feature_row1:
   - image_path: /images/Anna_WS2.jpg
     btn_label: "Anna Cresswell"
@@ -87,7 +85,9 @@ feature_row7:
   - image_path: /images/blank.png
     url: "https://brookegibbons.github.io/academics/sam-brock/"
     btn_label: "Sam Brock"
-    btn_class: "btn--info"
+    btn_class: "btn--info" 
+sidebar:
+  nav: "students"
 ---
 
 ## PhD Candidates
