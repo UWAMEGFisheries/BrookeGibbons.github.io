@@ -16,19 +16,19 @@ feature_row:
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /2015AugBRUVs4.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /1_Globalarchive.png
     title: "GlobalArchive"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 <center>We are a group of researchers at the University of Western Australia, dedicated to better understanding fish assemblages and lobster populations mainly along the coast of Western Australia, although our work extends to other areas of the Pacific such as New Caledonia and Fiji. Our main focus is in the use of stereo-video techniques to survey marine benthic and pelagic systems, gathering very precise data on fish abundance, population size structure and habitat associations of a variety of species, from site attached pomacentrids to pelagic scombrids. 
