@@ -13,19 +13,19 @@ excerpt: "Our ultimate aim is to produce information that can assist managers an
 
 "
 feature_row:
-  - image_path: /RH_Lobster.png
+  - image_path: /Di_WS.jpg
     title: "Something about lobsters"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /RH_Dov.jpg
+  - image_path: /Di_WS.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /RH_Globalarchive.png
+  - image_path: /Di_WS.jpg
     title: "GlobalArchive"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
