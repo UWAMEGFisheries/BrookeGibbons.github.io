@@ -36,6 +36,6 @@ We are a group of researchers at the University of Western Australia, dedicated 
   We then use such data to create models that can help us better understand community structure and ecological relationships, and assess impacts of resource use and protection measures. The group has also created strong links with both government and non-government organisations to broaden the spectrum of action of our activities. We now use camera systems on lobster traps and work with lobster fishermen to assist in monitoring abundance, size structure and reproductive capacity of lobster stocks in Western Australia.
 
 
-# Recent Highlights
+<h1 class="aboutPhil">Recent Highlights</h1>
 {% include feature_row %}
 
