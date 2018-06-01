@@ -19,5 +19,5 @@ gallery:
 sidebar:
   nav: "academics"
 ---
-{% include gallery id="gallery" %}
 {% include feature_row id="feature_row1" %}
+{% include gallery id="gallery" %}
