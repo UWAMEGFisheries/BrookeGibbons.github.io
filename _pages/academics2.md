@@ -13,10 +13,8 @@ feature_row1:
 gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: /Di_WS.jpg
-    title: "Image 1 title caption"
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
-    title: "Image 2 title caption"
   - url: ""
     image_path: 
     title: 
