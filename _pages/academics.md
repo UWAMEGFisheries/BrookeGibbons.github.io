@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Academics"
-permalink: /academics/
+permalink: /academicskeep/
 author_profile: true
 feature_row1:
   - image_path: /Di_WS.jpg
