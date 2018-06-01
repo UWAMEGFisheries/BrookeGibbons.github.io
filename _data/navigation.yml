@@ -13,9 +13,6 @@ main:
   - title: "Students"
     url: /students/
 
-  - title: "Media & impact"
-    url: /media/
-
   - title: "Contact"
     url: /contact/
 
