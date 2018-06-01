@@ -17,6 +17,9 @@ gallery:
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
     title: "Image 2 title caption"
+  - url: ""
+    image_path: 
+    title: 
 sidebar:
   nav: "academics"
 ---
