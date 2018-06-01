@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Academics"
+title: "Current Academics t"
 permalink: /academics/
 author_profile: true
 feature_row1:
