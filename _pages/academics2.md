@@ -21,8 +21,12 @@ sidebar:
 ---
 
 {% include gallery id="gallery" %}
-| Di | Tim |   |
-|----|-----|---|
+
+| Dianne McLean   | Tim Langlois    |                |   |   |
+|-----------------|-----------------|----------------|---|---|
+| Research Fellow | Research Fellow |                |   |   |
+|                 |                 |                |   |   |
+|                 |                 |                |   |   |
 
 {% include feature_row id="feature_row1" %}
 t
