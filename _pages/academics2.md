@@ -26,6 +26,5 @@ sidebar:
   nav: "academics"
 ---
 
-{% include gallery id="gallery" %}
-{% include gallery id="gallerynames" %}
+{% include gallery id="gallery" %}{% include gallery id="gallerynames" %}
 
