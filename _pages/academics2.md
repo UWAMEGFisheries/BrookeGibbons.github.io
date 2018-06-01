@@ -6,10 +6,8 @@ author_profile: true
 feature_row1:
   - title: "Dianne McLean"
     excerpt: 'Research Fellow'
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/blanks.PNG?raw=true
   - title: "Tim Langlois"
     excerpt: 'Research Fellow'
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/blanks.PNG?raw=true
 gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: /Di_WS.jpg
