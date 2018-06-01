@@ -17,7 +17,7 @@ feature_row:
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /1_Marinepark.png
+  - image_path: /2015AugBRUVs4.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
