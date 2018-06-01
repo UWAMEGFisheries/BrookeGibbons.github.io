@@ -13,11 +13,15 @@ gallery:
     image_path: /Di_WS.jpg
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
+  - url: 
+    image_path: 
 gallerynames:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Di.PNG?raw=true
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Tim.PNG?raw=true
+  - url: 
+    image_path: 
 sidebar:
   nav: "academics"
 ---
