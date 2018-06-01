@@ -20,7 +20,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row3:
-  - image_path: /Tim.png
+  - image_path: /images/Tim_WA.jpg
     title: "Tim Langlois"
     excerpt: 'Research Fellow'
     url: "https://brookegibbons.github.io/academics/tim-langlois/"
