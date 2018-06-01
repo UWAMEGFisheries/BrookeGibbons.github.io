@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: /Reef.jpg
 excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
-feature_row:
+feature_rowt:
   - image_path: /1_Lobster.png
     title: "Something about lobsters"
     excerpt: "This is some sample content"
@@ -18,6 +18,25 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /Yannick_WS2.jpg
+    title: "Another project about..."
+    excerpt: "This is some sample content"
+    url: "https://brookegibbons.github.io/research/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: /1_Globalarchive.png
+    title: "GlobalArchive"
+    excerpt: "This is some sample content"
+    url: "https://brookegibbons.github.io/research/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+feature_row:
+  - image_path: /1_Lobster.png
+    title: "Something about lobsters"
+    excerpt: "This is some sample content"
+    url: "https://brookegibbons.github.io/research/"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: "https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/1_dov.png"
     title: "Another project about..."
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
