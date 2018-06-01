@@ -21,7 +21,8 @@ sidebar:
 ---
 
 {% include gallery id="gallery" %}
-Di | Tim |  
+| Di | Tim |   |
+|----|-----|---|
 
 {% include feature_row id="feature_row1" %}
 t
