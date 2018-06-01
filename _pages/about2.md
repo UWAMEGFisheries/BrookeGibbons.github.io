@@ -9,19 +9,19 @@ header:
   overlay_image: /Reef.jpg
 excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
 feature_row:
-  - image_path: /1_Lobster.png
+  - image_path: /RH_Lobster.png
     title: "Something about lobsters"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /DOV_Julia.jpg
+  - image_path: /RH_Dov.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /Globalarchive.PNG
+  - image_path: /RH_Globalarchive.png
     title: "GlobalArchive"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
