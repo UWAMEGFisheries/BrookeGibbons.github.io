@@ -16,8 +16,10 @@ feature_row1:
     btn_class: "btn--info"
 feature_row2:
   - title: "Dianne McLean"
+    image_path: /blanks.PNG
     excerpt: 'Research Fellow'
   - title: "Tim Langlois"
+    image_path: /blanks.PNG
     excerpt: 'Research Fellow'
 gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
