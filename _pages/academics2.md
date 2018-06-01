@@ -17,15 +17,8 @@ feature_row1:
 feature_row2:
   - title: "Dianne McLean"
     excerpt: 'Research Fellow'
-    btn_label: "Dianne McLean"
-    btn_class: "btn--info"
-    url: "https://brookegibbons.github.io/academics/dianne-mclean/"
-  - image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
-    title: "Tim Langlois"
+  - title: "Tim Langlois"
     excerpt: 'Research Fellow'
-    url: "https://brookegibbons.github.io/academics/tim-langlois/"
-    btn_label: "Read More"
-    btn_class: "btn--info"
 gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: /Di_WS.jpg
