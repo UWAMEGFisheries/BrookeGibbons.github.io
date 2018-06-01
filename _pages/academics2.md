@@ -16,15 +16,18 @@ gallery:
   - url: ""
     image_path: 
     title: 
+gallerynames:
+  - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
+    image_path: /Name_Di.PNG
+  - url: "https://brookegibbons.github.io/academics/tim-langlois/"
+    image_path: /Name_Tim.PNG
+  - url: ""
+    image_path: 
+    title: 
 sidebar:
   nav: "academics"
 ---
 
 {% include gallery id="gallery" %}
+{% include gallery id="gallerynames" %}
 
-| Dianne McLean   | Tim Langlois    |                |
-|-----------------|-----------------|----------------|
-| Research Fellow | Research Fellow |                |
-
-{% include feature_row id="feature_row1" %}
-t
