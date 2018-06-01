@@ -5,10 +5,8 @@ permalink: /academics/
 author_profile: true
 feature_row1:
   - title: "Dianne McLean"
-    image_path: /blanks.PNG
     excerpt: 'Research Fellow'
   - title: "Tim Langlois"
-    image_path: /blanks.PNG
     excerpt: 'Research Fellow'
 gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
@@ -22,4 +20,4 @@ sidebar:
 ---
 {% include gallery id="gallery" %}
 
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1" %}
