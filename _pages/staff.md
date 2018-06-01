@@ -12,10 +12,23 @@ feature_row1:
     url: "https://brookegibbons.github.io/staff/michael-taylor/"
     btn_label: "Michael Taylor"
     btn_class: "btn--info"
+gallery:
+  - url: "https://brookegibbons.github.io/staff/brooke-gibbons/"
+    image_path: /Brooke_WS.jpg
+  - url: "https://brookegibbons.github.io/staff/michael-taylor/"
+    image_path: /Mike_WS2.jpg
+  - url: 
+    image_path: 
+  - url: "https://brookegibbons.github.io/staff/brooke-gibbons/"
+    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Brooke.PNG?raw=true
+  - url: "https://brookegibbons.github.io/staff/michael-taylor/"
+    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Mike.PNG?raw=true
+  - url: 
+    image_path: 
 sidebar:
   nav: "staff"
 
 ---
 
-{% include feature_row id="feature_row1"%}
+{% include gallery id="gallery"%}
 
