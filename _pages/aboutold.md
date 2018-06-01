@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /aboutold
 title: ""
 excerpt: "UWA Marine Ecology Group"
 author_profile: true
 redirect_from:
-  - /about/
+  - /aboutold/
   - /about.html
 ---
 <img class="philprofile" src='/images/BRUV_Steve.jpg' align='right' width="350" hspace="20" vspace="10">
