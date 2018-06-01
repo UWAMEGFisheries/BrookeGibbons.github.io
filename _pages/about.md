@@ -17,7 +17,7 @@ feature_row:
     url: "https://brookegibbons.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /RHDov.jpg
+  - image_path: /Yannick.jpg
     title: "Project 2"
     excerpt: "This is some sample content"
     url: "https://brookegibbons.github.io/research/"
