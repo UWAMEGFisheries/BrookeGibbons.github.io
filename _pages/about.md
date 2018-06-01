@@ -1,13 +1,17 @@
 ---
+permalink: /
+redirect_from:
+  - /aboutold/
+  - /about.html
 title: "The UWA Marine Ecology Group - Fisheries Research"
 layout: splash
-permalink: /about/
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /Reef.jpg
-excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
+excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems.
+
+"
 feature_row:
   - image_path: /RH_Lobster.png
     title: "Something about lobsters"
