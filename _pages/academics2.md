@@ -15,7 +15,6 @@ gallery:
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
   - url: 
     image_path: 
-gallerynames:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Di.PNG?raw=true
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
@@ -26,5 +25,5 @@ sidebar:
   nav: "academics"
 ---
 
-{% include gallery id="gallery" %}{% include gallery id="gallerynames" %}
+{% include gallery id="gallery" %}
 
