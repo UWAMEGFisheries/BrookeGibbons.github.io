@@ -12,7 +12,7 @@ gallery:
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
     image_path: /Di_WS.jpg
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Tim_WS.jpg?raw=true
+    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/tim.new.png?raw=true
   - url: 
     image_path: 
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
