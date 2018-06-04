@@ -16,9 +16,9 @@ gallery:
   - url: 
     image_path: 
   - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Di.PNG?raw=true
+    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/names/N_Di.png?raw=true
   - url: "https://brookegibbons.github.io/academics/tim-langlois/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/Name_Tim.PNG?raw=true
+    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/names/N_Tim.png?raw=true
   - url: 
     image_path: 
 sidebar:
