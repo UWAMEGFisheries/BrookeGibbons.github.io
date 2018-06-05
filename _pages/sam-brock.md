@@ -12,7 +12,7 @@ sidebar:
 bla bla bla
 
 ## Supervisors
-- [Todd Bond](https://brookegibbons.github.io/students/todd-bond/ "Todd Bond")
+- [Todd Bond](https://uwamegfisheries.github.io/students/todd-bond/ "Todd Bond")
 
 ## Qualifications
 -
