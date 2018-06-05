@@ -12,7 +12,7 @@ sidebar:
 bla bla bla
 
 ## Supervisors
-- [Tim Langlois](https://brookegibbons.github.io/academics/tim-langlois/ "Tim Langlois")
+- [Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois")
 
 
 ## Qualifications
