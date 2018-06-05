@@ -12,7 +12,7 @@ sidebar:
 bla bla bla
 
 ## Supervisors
-- [Dianne McLean](https://brookegibbons.github.io/academics/dianne-mclean/ "Dianne McLean")
+- [Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean")
 - Jane Prince
 - Julian Patridge
 
