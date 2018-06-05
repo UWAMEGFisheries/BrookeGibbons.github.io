@@ -9,16 +9,16 @@ feature_row1:
   - title: "Tim Langlois"
     excerpt: 'Research Fellow'
 gallery:
-  - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
+  - url: "https://uwamegfisheries.github.io/academics/dianne-mclean/"
     image_path: /Di_WS.jpg
-  - url: "https://brookegibbons.github.io/academics/tim-langlois/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/tim.new.png?raw=true
+  - url: "https://uwamegfisheries.github.io/academics/tim-langlois/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/tim.new.png?raw=true
   - url: 
     image_path: 
-  - url: "https://brookegibbons.github.io/academics/dianne-mclean/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/names/N_Di.png?raw=true
-  - url: "https://brookegibbons.github.io/academics/tim-langlois/"
-    image_path: https://github.com/BrookeGibbons/BrookeGibbons.github.io/blob/master/names/N_Tim.png?raw=true
+  - url: "https://uwamegfisheries.github.io/academics/dianne-mclean/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/names/N_Di.png?raw=true
+  - url: "https://uwamegfisheries.github.io/academics/tim-langlois/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/names/N_Tim.png?raw=true
   - url: 
     image_path: 
 sidebar:
