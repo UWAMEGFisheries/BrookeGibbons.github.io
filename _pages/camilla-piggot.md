@@ -14,7 +14,7 @@ bla bla bla
 ## Supervisors
 - Martial
 - Monica
-- [Tim Langlois](https://brookegibbons.github.io/academics/tim-langlois/ "Tim Langlois")
+- [Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois")
 - Gary Kendrick
 
 ## Qualifications
