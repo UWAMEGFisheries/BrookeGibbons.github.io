@@ -8,13 +8,14 @@ sidebar:
 ---
 <img class="philprofile" src='/images/Todd_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
-## Decommissioning
+## The influence of subsea infrastructure on fish and fisheries and the implications for decommissioning 
 bla bla bla
 
 ## Supervisors
-- [Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean")
 - Jane Prince
+- [Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean")
 - Julian Patridge
+- David White
 
 ## Qualifications
 -
