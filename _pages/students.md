@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Students"
 permalink: /students/
-author_profile: true
+author_profile: false
 gallery1:
   - url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Anna_WS2.jpg?raw=true
