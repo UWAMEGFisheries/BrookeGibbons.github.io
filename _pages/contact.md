@@ -2,7 +2,7 @@
 layout: archive
 title: "Get in touch"
 permalink: /contact/
-author_profile: true
+author_profile: false
 ---
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 The University of Western Australia (M092)<br>
