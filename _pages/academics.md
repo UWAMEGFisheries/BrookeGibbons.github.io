@@ -12,7 +12,7 @@ gallery:
   - url: "https://uwamegfisheries.github.io/academics/dianne-mclean/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Di_WS.jpg?raw=true
   - url: "https://uwamegfisheries.github.io/academics/tim-langlois/"
-    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/tim.new.png?raw=true
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/tim.new.png?raw=true
   - url: 
     image_path: 
   - url: "https://uwamegfisheries.github.io/academics/dianne-mclean/"
