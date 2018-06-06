@@ -20,9 +20,9 @@ gallery:
   - url: 
     image_path: 
   - url: "https://uwamegfisheries.github.io/staff/brooke-gibbons/"
-    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/Name_Brooke.PNG?raw=true
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/names/N_Brooke.png?raw=true
   - url: "https://uwamegfisheries.github.io/staff/michael-taylor/"
-    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/Name_Mike.PNG?raw=true
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/names/N_Mike.png?raw=true
   - url: 
     image_path: 
 sidebar:
