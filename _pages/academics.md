@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Academics"
 permalink: /academics/
-author_profile: true
+author_profile: false
 feature_row1:
   - title: "Dianne McLean"
     excerpt: 'Research Fellow'
