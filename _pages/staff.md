@@ -2,7 +2,7 @@
 layout: archive
 title: "Current Research Staff"
 permalink: /staff/
-author_profile: true
+author_profile: false
 feature_row1:
   - image_path: /Brooke_WS.jpg
     btn_label: "Brooke Gibbons"
