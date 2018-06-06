@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Academics"
+title: "Current Academics t"
 permalink: /academics/
 author_profile: true
 feature_row1:
@@ -10,7 +10,7 @@ feature_row1:
     excerpt: 'Research Fellow'
 gallery:
   - url: "https://uwamegfisheries.github.io/academics/dianne-mclean/"
-    image_path: /Di_WS.jpg
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Di_WS.jpg?raw=true
   - url: "https://uwamegfisheries.github.io/academics/tim-langlois/"
     image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/tim.new.png?raw=true
   - url: 
