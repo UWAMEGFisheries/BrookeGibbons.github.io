@@ -3,108 +3,99 @@ layout: archive
 title: "Current Students"
 permalink: /students/
 author_profile: true
-feature_row1:
-  - title: "Anna Cresswell"
-    excerpt: "Ningaloo outlook - shallow reefs"
-    btn_label: "More about Anna..."
-    btn_class: "btn--info"
-    image_path: /Anna_WS2.jpg
-    url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
-  - image_path: /Milly_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/camilla-piggot/"
-    btn_label: "Camilla Piggot"
-    btn_class: "btn--info"
-  - image_path: /Emily_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/emily-lester/"
-    btn_label: "Emily Lester"
-    btn_class: "btn--info"
-feature_row2:
-  - image_path: /MJ_WS.jpg
-    btn_label: "Emma-Jade Tuffley"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/emma-jade-tuffley/"
-  - image_path: /Jess_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/jess-kolbusz/"
-    btn_label: "Jess Kolbusz"
-    btn_class: "btn--info"
-  - image_path: /Jon_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/jonathon-mitchell/"
-    btn_label: "Jonathon Mitchell"
-    btn_class: "btn--info"
-feature_row3:
-  - image_path: /Matt_N_WS.jpg
-    btn_label: "Matthew Navarro"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
-  - image_path: /Brooker_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/michael-brooker/"
-    btn_label: "Michael Brooker"
-    btn_class: "btn--info"
-  - image_path: /Nestor_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/nestor-bosch/"
-    btn_label: "Nestor Bosch"
-    btn_class: "btn--info"
-feature_row4:
-  - image_path: /blank.png
-    btn_label: "Rob Power"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/rob-power/"
-  - image_path: /Salvador_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/salvador-zarco-perello/"
-    btn_label: "Salvador Zarco-Perello"
-    btn_class: "btn--info"
-  - image_path: /Todd_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/tim-langlois/"
-    btn_label: "Todd Bond"
-    btn_class: "btn--info"
-feature_row5:
-  - image_path: /Yannick_WS.jpg
-    btn_label: "Yannick Mulders"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/yannick-mulders/"
-feature_row6:
-  - image_path: /Ash_WS.jpg
-    btn_label: "Ashlyn Miller"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/ashlyn-miller/"
-  - image_path: /Brock_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/brock-keymer/"
-    btn_label: "Brock Keymer"
-    btn_class: "btn--info"
-  - image_path: /Dan_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/daniel-lindstedt/"
-    btn_label: "Daniel Lindstedt"
-    btn_class: "btn--info"
-feature_row7:
-  - image_path: /Matt_WS.JPG
-    btn_label: "Matt Hammond"
-    btn_class: "btn--info"
-    url: "https://uwamegfisheries.github.io/students/matt-hammond/"
-  - image_path: /Oscar_WS.jpg
-    url: "https://uwamegfisheries.github.io/students/oscar-doncel-canon/"
-    btn_label: "Oscar Doncel Canon"
-    btn_class: "btn--info"
-  - image_path: /blank.png
-    url: "https://uwamegfisheries.github.io/students/sam-brock/"
-    btn_label: "Sam Brock"
-    btn_class: "btn--info"
+gallery1:
+  - url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Anna_WS2.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/camilla-piggot/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Milly_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/emily-lester/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Emily_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/camilla-piggot/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/emily-lester/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/emma-jade-tuffley/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/MJ_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/jess-kolbusz/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Jess_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/jonathon-mitchell/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Jon_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/emma-jade-tuffley/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/jess-kolbusz/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/jonathon-mitchell/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Matt_N_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/michael-brooker/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Brooker_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/nestor-bosch/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Nestor_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/michael-brooker/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/nestor-bosch/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/rob-power/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/blank.png?raw=true
+  - url: "https://uwamegfisheries.github.io/students/salvador-zarco-perello/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Salvador_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/todd-bond/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Todd_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/rob-power/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/salvador-zarco-perello/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/todd-bond/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/yannick-mulders/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Yannick_WS.jpg?raw=true
+  - url: 
+    image_path: 
+  - url: 
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/yannick-mulders/"
+    image_path: 
+  - url: 
+    image_path: 
+  - url: 
+    image_path: 
+gallery2:
+  - url: "https://uwamegfisheries.github.io/students/ashlyn-miller/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Ash_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/brock-keymer/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Brock_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/daniel-lindstedt/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Dan_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/ashlyn-miller/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/brock-keymer/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/daniel-lindstedt/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/matt-hammond/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Matt_WS.JPG?raw=true
+  - url: "https://uwamegfisheries.github.io/students/oscar-doncel-canon/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Oscar_WS.jpg?raw=true
+  - url: "https://uwamegfisheries.github.io/students/sam-brock/"
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/blank.png?raw=true
+  - url: "https://uwamegfisheries.github.io/students/matt-hammond/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/oscar-doncel-canon/"
+    image_path: 
+  - url: "https://uwamegfisheries.github.io/students/sam-brock/"
+    image_path: 
 sidebar:
   nav: "students"
 ---
 
 ## PhD Candidates
-{% include feature_row id="feature_row1"%}
-
-{% include feature_row id="feature_row2"%}
-
-{% include feature_row id="feature_row3"%}
-
-{% include feature_row id="feature_row4"%}
-
-{% include feature_row id="feature_row5"%}
+{% include gallery id="gallery1"%}
 
 
 ## Masters Students
-{% include feature_row id="feature_row6"%}
-
-{% include feature_row id="feature_row7"%}
+{% include gallery id="gallery2"%}
