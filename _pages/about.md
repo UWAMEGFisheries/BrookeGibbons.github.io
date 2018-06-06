@@ -11,22 +11,22 @@ header:
   overlay_image: /Reef.jpg
 excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
 feature_row:
-  - image_path: /1_Lobster.png
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Lobster.png?raw=true
     title: "Something about lobsters"
     excerpt: "This is some sample content"
-    url: "https://brookegibbons.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://scontent.fper2-1.fna.fbcdn.net/v/t31.0-8/13690949_910703815742906_4679801320121614197_o.jpg?_nc_cat=0&oh=da19d5c7d5304269248fc0ef632ae18b&oe=5B7A7643
     title: "Another project about..."
     excerpt: "This is some sample content"
-    url: "https://brookegibbons.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /1_Globalarchive.png
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Globalarchive.png?raw=true
     title: "GlobalArchive"
     excerpt: "This is some sample content"
-    url: "https://brookegibbons.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
