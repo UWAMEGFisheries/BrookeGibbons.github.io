@@ -11,7 +11,7 @@ gallery1:
   - url: "https://uwamegfisheries.github.io/students/emily-lester/"
     image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Emily_WS.jpg?raw=true
   - url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
-    image_path: 
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/names/N_Anna.png?raw=true
   - url: "https://uwamegfisheries.github.io/students/camilla-piggot/"
     image_path: 
   - url: "https://uwamegfisheries.github.io/students/emily-lester/"
