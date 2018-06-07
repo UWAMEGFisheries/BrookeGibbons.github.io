@@ -21,9 +21,10 @@ Decommissioning off shore infrastructure is a major global issue set to cost Aus
 I grew up in Perth and graduated from UWA in 2009 with an Honours degree in Marine Science. For the past 7 years I have worked with the Marine Ecology Group in the Fisheries Research Lab at UWA, using stereo-video to better understand fish ecology and communities throughout the world. Recently, I have been working with oil and gas operators on the North West Shelf to understand how fish may be interacting with their subsea infrastructure. 
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> School of Biological Sciences<br>
-The University of Western Australia (M092)<br>
+<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+School of Biological Sciences<br>
+The University of Western Australia (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:todd.bond@uwa.edu.au">todd.bond@uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp;+61 8 6488 4733<br>
+<i class="fas fa-phone"></i>&nbsp;&nbsp; +61 8 6488 4733<br>
