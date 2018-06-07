@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Current and past research projects"
 permalink: /research/
 author_profile: false
