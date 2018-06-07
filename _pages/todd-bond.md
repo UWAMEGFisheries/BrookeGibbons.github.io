@@ -6,16 +6,13 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/Todd_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## The influence of subsea infrastructure on fish and fisheries and the implications for decommissioning 
+<img class="philprofile" src='/images/Todd_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 Decommissioning off shore infrastructure is a major global issue set to cost Australia $18 billion over the next 50 years. In Australia, full removal of infrastructure is required at this phase unless alternatives, such as leaving infrastructure in-situ, are shown to reduce impacts and risks to as low as reasonably practicable. My research assesses the value of in-situ infrastructure to fish ecology and fisheries on the North West Shelf of Western Australia, and will provide scientific evidence to enable decommissioning alternatives. 
 
 ## Supervisors
-- Dr. Jane Prince
-- [Dr. Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean")
-- Prof. Julian Patridge
-- Prof. David White
+Dr. Jane Prince, [Dr. Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean"), Prof. Julian Patridge, and Prof. David White
 
 ## About me
 I grew up in Perth and graduated from UWA in 2009 with an Honours degree in Marine Science. For the past 7 years I have worked with the Marine Ecology Group in the Fisheries Research Lab at UWA, using stereo-video to better understand fish ecology and communities throughout the world. Recently, I have been working with oil and gas operators on the North West Shelf to understand how fish may be interacting with their subsea infrastructure. 
