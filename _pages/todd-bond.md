@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
+<link rel="stylesheet" href="/_sass/academicons.css"/>
 
 ## The influence of subsea infrastructure on fish and fisheries and the implications for decommissioning 
 <img class="philprofile" src='/images/Todd_WS.jpg' align='right' width="350" hspace="20" vspace="10">
