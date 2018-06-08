@@ -27,3 +27,15 @@ School of Biological Sciences (M470)<br>
 <i class="fas fa-phone"></i>&nbsp;&nbsp;+618 6488 4733<br>
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com.au/citations?user=pHO-koQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Todd_Bond">ResearchGate</a><br>
+
+
+<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:todd.bond@uwa.edu.au">todd.bond@uwa.edu.au</a><br>
+<i class="fas fa-phone"></i>&nbsp;&nbsp;+618 6488 4733<br>
+<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com.au/citations?user=pHO-koQAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
+<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Todd_Bond">ResearchGate</a><br>|<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+School of Biological Sciences (M470)<br>
+35 Stirling Highway, Crawley WA 6009</p>|
+--|--|
+td, th {
+    border: 1px solid grey
+}
