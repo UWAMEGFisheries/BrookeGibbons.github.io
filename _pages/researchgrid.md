@@ -41,6 +41,8 @@ feature_row2:
     url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
+sidebar:
+  nav: "students"
 ---
 
 {% include feature_row id="feature_row1"%}
