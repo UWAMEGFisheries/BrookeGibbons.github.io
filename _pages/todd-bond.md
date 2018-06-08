@@ -6,6 +6,8 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
+<link rel="stylesheet" href="/path/to/folder/css/academicons.css"/>
+
 ## The influence of subsea infrastructure on fish and fisheries and the implications for decommissioning 
 <img class="philprofile" src='/images/Todd_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 Decommissioning off shore infrastructure is a major global issue set to cost Australia $18 billion over the next 50 years. In Australia, full removal of infrastructure is required at this phase unless alternatives, such as leaving infrastructure in-situ, are shown to reduce impacts and risks to as low as reasonably practicable. My research assesses the value of in-situ infrastructure to fish ecology and fisheries on the North West Shelf of Western Australia, and will provide scientific evidence to enable decommissioning alternatives. 
@@ -23,3 +25,5 @@ School of Biological Sciences (M470)<br>
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:todd.bond@uwa.edu.au">todd.bond@uwa.edu.au</a><br>
 <i class="fas fa-phone"></i>&nbsp;&nbsp; +61 8 6488 4733<br>
+<i class="ai ai-google-scholar-square ai-3x"></i>&nbsp;&nbsp; [Google Scholar](https://scholar.google.com.au/citations?user=pHO-koQAAAAJ&hl=en&oi=ao)<br>
+<i class="ai ai-researchgate-square ai-3x"></i>&nbsp;&nbsp; [ResearchGate](https://www.researchgate.net/profile/Todd_Bond)<br>
