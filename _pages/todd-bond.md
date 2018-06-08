@@ -3,6 +3,7 @@ permalink: /students/todd-bond/
 title: "Todd Bond"
 excerpt: "Todd Bond"
 author_profile: false
+classes: wide
 sidebar:
   nav: "students"
 ---
