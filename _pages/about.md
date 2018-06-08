@@ -11,21 +11,21 @@ header:
   overlay_image: /Reef.jpg
 excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
 feature_row:
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Lobster.png?raw=true
-    title: "Something about lobsters"
-    excerpt: "This is some sample content"
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
+    title: "Research with the fishing industry"
+    excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating low-catch rates within nursery areas at the centre of the fishery"
     url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://scontent.fper2-1.fna.fbcdn.net/v/t31.0-8/13690949_910703815742906_4679801320121614197_o.jpg?_nc_cat=0&oh=da19d5c7d5304269248fc0ef632ae18b&oe=5B7A7643
-    title: "Another project about..."
-    excerpt: "This is some sample content"
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
+    title: "Shark depradation"
+    excerpt: "We initiated the first research programme in Australia into shark depredation in a recreational fishery"
     url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Globalarchive.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHGlobalarchive.png?raw=true
     title: "GlobalArchive"
-    excerpt: "This is some sample content"
+    excerpt: "We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data"
     url: "https://UWAMEGFisheries.github.io/research/"
     btn_label: "Read More"
     btn_class: "btn--info"
