@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Current and past research projects"
-permalink: /researchgrid/
+permalink: /research/
 author_profile: false
 feature_row1:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHGlobalarchive.png?raw=true
