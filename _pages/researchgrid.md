@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Current and past research projects"
 permalink: /researchgrid/
 author_profile: false
