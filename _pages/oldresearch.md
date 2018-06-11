@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Current and past research projects"
-permalink: /research/
+permalink: /researchold/
 author_profile: false
 ---
 <h2 class="researchtitle">Global Data synthesis</h2>
