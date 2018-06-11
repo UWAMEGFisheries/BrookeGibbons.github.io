@@ -17,7 +17,7 @@ My research is concerned with the tropicalization of temperate marine ecosystems
 I graduated as Marine Biologist with my research on spatial interpolation analyses of reef benthic communities in the Yucatan Peninsula (National University of Mexico). I then got interested on the direct and indirect effects of global warming on reef fish (Diploma on Research on James Cook University) and temperate ecosystems by altering the herbivory processes (Masters at University of Western Australia). Just before starting my PhD I studied the fish communities associated with different seagrass habitats of the Mexican Caribbean (Institute of Marine Science of Mexico). Currently, as a PhD student I am expanding my work on the impact that established populations of tropical herbivorous fish can have on temperate marine ecosystems dominated by macrophytes.
 
 ## Supervisors
-Dr. Thomas Wernberg (UWA), [Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois") (UWA), Dr. Mat Vanderklift (CSIRO), Dr. Tom Holmes (DBCA). 
+[Dr. Thomas Wernberg](https://wernberglab.org/) (UWA), [Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois") (UWA), Dr. Mat Vanderklift (CSIRO), Dr. Tom Holmes (DBCA). 
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
