@@ -43,7 +43,7 @@ gallery1:
   - url: "https://uwamegfisheries.github.io/students/rob-power/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/blank.png?raw=true
   - url: "https://uwamegfisheries.github.io/students/salvador-zarco-perello/"
-    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Salvador_WS.jpg?raw=true
+    image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Salvador.png?raw=true
   - url: "https://uwamegfisheries.github.io/students/todd-bond/"
     image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/images/Todd_WS.jpg?raw=true
   - url: "https://uwamegfisheries.github.io/students/rob-power/"
