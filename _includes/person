@@ -43,12 +43,17 @@
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
   {% endfor %}
+  </figure>
+
+<div class="archive__item-body">
   {% if include.title %}
     <h2 class="archive__item-title">{{ f.title }}</h2>
   {% endif %}
+  
   {% if f.excerpt %}
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
           {% endif %}
-</figure>
+        </div>
+  {% endfor %}
