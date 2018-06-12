@@ -7,7 +7,7 @@ sidebar:
   nav: "students"
 ---
 ## PhD Candidates
-<font size="10">
+<font size="7">
 <figure class="third">
 	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo" align="" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
