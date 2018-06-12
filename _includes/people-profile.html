@@ -2,16 +2,11 @@
 [![Foo]({{ site.url }}{{ site.baseurl }}{{ include.image }})]({{ include.url }})
 {% endcapture %}
 
-{% capture fig_title %}
-{{ include.title }}
-{% endcapture %}
 {% capture fig_caption %}
 {{ include.name }}
 {% endcapture %}
 
-
-<figure style="width: 150px" class="{{ include.align }}">
+<figure style="width: 300px" class="{{ include.align }}">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figtitle>{{ fig_title | markdownify | remove: "<p>" | remove: "</p>" }}</figtitle>
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
