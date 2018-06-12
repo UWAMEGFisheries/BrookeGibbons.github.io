@@ -45,6 +45,7 @@ feature_row2:
 sidebar:
   nav: "students"
 ---
+<h1 class="aboutPhil">Current and past research projects</h1>
 
 {% include feature_row id="feature_row1"%}
 
