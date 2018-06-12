@@ -79,7 +79,7 @@ feature_row4:
     title: 
     excerpt: 
 ---
-<h1 class="aboutPhil">Current and past research projects</h1>
+<h1 class="aboutPhil">test Current and past research projects</h1>
 
 {% include feature_row id="feature_row1"%}
 
