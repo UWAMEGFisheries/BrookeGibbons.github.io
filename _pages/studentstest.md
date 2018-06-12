@@ -6,7 +6,7 @@ author_profile: false
 person1: 
   - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Matt_N_WS.jpg?raw=true
-    title: "test"
+    title: "test 1"
     excerpt: "another test"
 gallery1:
   - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
