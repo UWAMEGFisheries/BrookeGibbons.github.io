@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: false
 feature_row1:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHGlobalarchive.png?raw=true
+    img.url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     title: "Global Data synthesis"
     excerpt: "Tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data."
     image_url: "https://UWAMEGFisheries.github.io/research/globalarchive"
