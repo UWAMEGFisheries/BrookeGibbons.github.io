@@ -71,15 +71,15 @@ sidebar:
 ## PhD Candidates
 
 <figure class="third">
-	{% include people-profile.html image="/images/Anna_WS2.jpg?raw=true" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="Anna Cresswell" align="" %}
-	{% include people-profile.html image="images/Milly_WS.jpg?raw=true" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
-	{% include people-profile.html image="images/Emily_WS.jpg?raw=true" url="https://uwamegfisheries.github.io/students/emily-lester/" name="Emily Lester" align="" %}
+	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="Anna Cresswell" align="" %}
+	{% include people-profile.html image="images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
+	{% include people-profile.html image="images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="Emily Lester" align="" %}
 </figure>
 
 <figure class="third">
-	{% include people-profile.html image="/images/MJ_WS.jpg?raw=true" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="Emma Jade Tuffley" align="" %}
-	{% include people-profile.html image="/images/Jess_WS.jpg?raw=true" url="https://uwamegfisheries.github.io/students/jess-kolbusz/" name="Jess Kolbusz" align="" %}
-	{% include people-profile.html image="/images/Jon_WS.jpg?raw=true" url="https://uwamegfisheries.github.io/students/jonathon-mitchell/" name="Jonathon Mitchell" align="" %}
+	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="Emma Jade Tuffley" align="" %}
+	{% include people-profile.html image="/images/Jess_WS.jpg" url="https://uwamegfisheries.github.io/students/jess-kolbusz/" name="Jess Kolbusz" align="" %}
+	{% include people-profile.html image="/images/Jon_WS.jpg" url="https://uwamegfisheries.github.io/students/jonathon-mitchell/" name="Jonathon Mitchell" align="" %}
 </figure>
  
 ## Masters Students
