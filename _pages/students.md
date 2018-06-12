@@ -94,8 +94,8 @@ sidebar:
 ---
 
 ## PhD Candidates
-{% include gallery id="gallery1"%}<br />
 <font size="5">
+{% include gallery id="gallery1"%}<br />
 <figure class="third">
 	{% include people-caption.html name="<b>Anna Cresswell</b><br />Ningaloo" align="" %}
 	{% include people-caption.html name="<b>Camilla Piggot</b><br />" align="" %}
