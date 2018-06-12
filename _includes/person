@@ -1,0 +1,63 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign person = page.[include.id] %}
+{% else %}
+  {% assign person = page.person %}
+{% endif %}
+
+{% if person.size == 2 %}
+  {% assign person_layout = 'half' %}
+{% elsif person.size >= 3 %}
+  {% assign person_layout = 'third' %}
+{% else %}
+  {% assign person_layout = '' %}
+{% endif %}
+
+<figure class="{{ person_layout }} {{ include.class }}">
+  {% for p in person %}
+    {% if p.url %}
+      <a href=
+        {% if p.url contains "://" %}
+          "{{ p.url }}"
+        {% else %}
+          "{{ p.url | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        {% if p.title %}title="{{ p.title }}"{% endif %}
+      >
+        <img src=
+          {% if img.image_path contains "://" %}
+            "{{ img.image_path }}"
+          {% else %}
+            "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+          alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+      </a>
+    {% else %}
+      <img src=
+        {% if img.image_path contains "://" %}
+          "{{ img.image_path }}"
+        {% else %}
+          "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt="{% if img.alt %}{{ img.alt }}{% endif %}">
+    {% endif %}
+  {% endfor %}
+  
+  <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
