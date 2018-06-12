@@ -75,7 +75,8 @@ sidebar:
 ---
 ## PhD Candidates
 <figure class="third">
-	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<font size="+3"><p><b>Anna Cresswell</b></p><p>Ningaloo</p></font>" align="" %}
+	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<font size="+3"><b>Anna Cresswell</b>
+	Ningaloo</font>" align="" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="Emily Lester" align="" %}
 </figure>
