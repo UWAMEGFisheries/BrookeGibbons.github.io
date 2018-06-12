@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<font size="7"><b>PhD Candidates</font></b><br />
+<font size="6"><b>PhD Candidates </font> </b><br />
 <font size="5"><figure class="third">
 	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="<b>Camilla Piggot</b><br />" %}
