@@ -7,8 +7,7 @@ sidebar:
   nav: "students"
 ---
 <font size="5"><b>PhD Candidates </b><br />
-<figure class="third">
-	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo outlook - shallow reefs" %}
+<figure class="third">{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo outlook - shallow reefs" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="<b>Camilla Piggot</b><br />" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="<b>Emily Lester</b><br />" %}
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="<b>Emma Jade Tuffley</b><br />" %}
