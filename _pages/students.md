@@ -95,7 +95,12 @@ sidebar:
 
 ## PhD Candidates
 {% include gallery id="gallery1"%}
-
+<font size="5">
+<figure class="third">
+	{% include people-caption.html name="<b>Anna Cresswell</b><br />Ningaloo" align="" %}
+	{% include people-caption.html name="<b>Camilla Piggot</b><br />" align="" %}
+	{% include people-caption.html name="<b>Emily Lester</b><br />" align="" %}
+</figure>
 
 ## Masters Students
 {% include gallery id="gallery2"%}
