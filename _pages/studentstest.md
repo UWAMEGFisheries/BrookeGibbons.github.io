@@ -73,7 +73,7 @@ gallery2:
 sidebar:
   nav: "students"
 ---
-## PhD Candidates
+## t PhD Candidates
 
 {% include person id="person1"%}
 
