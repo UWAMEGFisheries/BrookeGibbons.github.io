@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 title: "Current Students"
 permalink: /studentstest/
 author_profile: false
