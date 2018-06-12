@@ -78,7 +78,7 @@ sidebar:
 {% include person id="person1"%}
 
 <figure class="third">
-	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="Anna Cresswell" align="" %}
+	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<h2>Anna Cresswell</h2>" align="" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="Emily Lester" align="" %}
 </figure>
