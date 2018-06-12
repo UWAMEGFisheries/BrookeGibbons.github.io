@@ -74,9 +74,6 @@ sidebar:
   nav: "students"
 ---
 ## PhD Candidates
-
-{% include person id="person1"%}
-
 <figure class="third">
 	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<p><h3><b>Anna Cresswell</b></h3></p><p>Ningaloo</p>" align="" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="Camilla Piggot" align="" %}
