@@ -1,12 +1,12 @@
 ---
-layout: archive
+layout: compress
 title: "Current Students"
 permalink: /studentstest/
 author_profile: false
 sidebar:
   nav: "students"
 ---
-## PhD Candidates n
+## PhD Candidates
 <font size="5">
 <figure class="third">
 	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo" %}
