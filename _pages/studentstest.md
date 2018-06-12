@@ -11,7 +11,7 @@ sidebar:
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="<b>Camilla Piggot</b><br />Fish recruitment in coastal habitats of north-west Australia" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="<b>Emily Lester</b><br />Behaviourally mediated trophic cascades" %}
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="<b>Emma Jade Tuffley</b><br />Catchability of western rock lobster" %}
-	{% include people-profile.html image="/images/Jess_WS.jpg" url="https://uwamegfisheries.github.io/students/jess-kolbusz/" name="<b>Jess Kolbusz</b><br />" %}
+	{% include people-profile.html image="/images/Jess_WS.jpg" url="https://uwamegfisheries.github.io/students/jess-kolbusz/" name="<b>Jess Kolbusz</b><br />Influence of currents on Western Rock Lobster" %}
 	{% include people-profile.html image="/images/Jon_WS.jpg" url="https://uwamegfisheries.github.io/students/jonathon-mitchell/" name="<b>Jonathon Mitchell</b><br />Shark depredation in Ningaloo" %}
 	{% include people-profile.html image="/images/Matt_N_WS.jpg" url="https://uwamegfisheries.github.io/students/matthew-navarro/" name="<b>Matthew Navarro</b><br />Trade-off no-take areas" align="" %}
 	{% include people-profile.html image="/images/Brooker_WS.jpg" url="https://uwamegfisheries.github.io/students/michael-brooker/" name="<b>Michael Brooker</b><br />Western rock lobster" align="" %}
