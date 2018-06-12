@@ -3,6 +3,11 @@ layout: archive
 title: "Current Students"
 permalink: /studentstest/
 author_profile: false
+person1: 
+  - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Matt_N_WS.jpg?raw=true
+    title: "test"
+    excerpt: "another test"
 gallery1:
   - url: "https://uwamegfisheries.github.io/students/matthew-navarro/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Matt_N_WS.jpg?raw=true
@@ -69,6 +74,8 @@ sidebar:
   nav: "students"
 ---
 ## PhD Candidates
+
+{% include person id="person1"%}
 
 <figure class="third">
 	{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="Anna Cresswell" align="" %}
