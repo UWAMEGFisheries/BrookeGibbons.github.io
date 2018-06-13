@@ -37,7 +37,7 @@ feature_row2:
     url: "https://UWAMEGFisheries.github.io/research/lobster"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/MSC.jpg?raw=true
     title: "Fishing effects on ecosystem processes and informing third party certification of fisheries"
     excerpt: "We have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management."
     url: "https://UWAMEGFisheries.github.io/research/"
