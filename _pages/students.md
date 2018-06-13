@@ -20,5 +20,14 @@ author_profile: false
 	{% include people-profile.html image="/images/Yannick_WS.jpg" url="https://uwamegfisheries.github.io/students/yannick-mulders/" name="<b>Yannick Mulders</b><br />Ecological functions and functional redundancy between different habitat-forming seaweeds" align="" %}
 </figure>
 </font>
-## Masters Students
+
+<h1 class="aboutPhil">Masters Students</h1><br />
+<font size="5"><figure class="third">{% include people-profile.html image="/images/Ash_WS.jpg" url="https://uwamegfisheries.github.io/students/ashlyn-miller/" name="<b>Ashlyn Miller</b><br />Seismic survey impacts on Western Rock Lobster" %}
+	{% include people-profile.html image="/images/Brock_WS.jpg" url="https://uwamegfisheries.github.io/students/brock-keymer/" name="<b>Brock Keymer</b><br />" %}
+	{% include people-profile.html image="/images/Dan_WS.jpg" url="https://uwamegfisheries.github.io/students/daniel-lindstedt/" name="<b>Daniel Lindstedt</b><br />Catchability and behaviour of Western Rock Lobster" %}
+	{% include people-profile.html image="/images/Matt_WS.JPG" url="https://uwamegfisheries.github.io/students/matt-hammond/" name="<b>Matt Hammond</b><br />Artficial Reef" %}
+	{% include people-profile.html image="/images/Oscar_WS.jpg" url="https://uwamegfisheries.github.io/students/oscar-doncel-canon/" name="<b>Oscar Doncel Canon</b><br />Catch rate of white Western Rock Lobster" %}
+	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/sam-brock/" name="<b>Sam Brock</b><br />Artficial Reef" %}
+</figure>
+</font>
 
