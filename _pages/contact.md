@@ -1,9 +1,11 @@
 ---
-classes: wide
+layout: splash
 title: "Get in touch"
 permalink: /contact/
 author_profile: false
 ---
+<h1 class="aboutPhil">Get in touch</h1>
+
 <img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right' width="500" >
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 The University of Western Australia (M092)<br>
