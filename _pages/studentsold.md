@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Current Students"
-permalink: /students/
+permalink: 
 author_profile: false
 gallery1:
   - url: "https://uwamegfisheries.github.io/students/anna-cresswell/"
