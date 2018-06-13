@@ -1,13 +1,10 @@
 ---
 layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /Reef.jpg
 title: "Get in touch"
 permalink: /contact/
 author_profile: false
 ---
+<img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right'>
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 The University of Western Australia (M092)<br>
 64 Fairway, Crawley WA 6009</p>
@@ -18,5 +15,4 @@ The University of Western Australia (M092)<br>
 <i class="fab fa-instagram"></i>&nbsp;&nbsp;<a href="https://www.instagram.com/meg_fish_lab/">meg_fish_lab</a><br>
 <i class="fab fa-github"></i>&nbsp;&nbsp;<a href="https://github.com/uwamegfisheries">uwamegfisheries</a><br>
 
-<img src='/images/BRUV_Steve_2.jpg' vspace="5">
 
