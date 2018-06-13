@@ -24,7 +24,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/Elusive.JPG?raw=true
     title: "Research with the fishing industry"
     excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating low-catch rates within nursery areas at the centre of the fishery."
     url: "https://UWAMEGFisheries.github.io/research/lobster"
@@ -55,7 +55,7 @@ feature_row3:
     url: "https://UWAMEGFisheries.github.io/research/marine-extremes"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Aquaculture innovation"
     excerpt: "Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are supervising a PhD student to trial a novel and low-cost method for tropical lobster culture, a species for which there is currently no commercial fishery. The student comes with 20 years experience in the aquaculture industry overseas. The novel approach we are testing has the potential to provide a sustainable income and protein source with a low-tech design ideal for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study."
     url: "https://UWAMEGFisheries.github.io/research/aquaculture"
