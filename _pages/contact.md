@@ -3,7 +3,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /images/BRUV_Steve_2.jpg
+  overlay_image: /Reef.jpg
 title: "Get in touch"
 permalink: /contact/
 author_profile: false
