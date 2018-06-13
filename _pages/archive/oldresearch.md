@@ -29,7 +29,7 @@ Through NESP, we have lead the development of the SOP for stereo-Baited Remote U
  
  
 <h2 class="researchtitle">The effects of fishing on ecosystem processes and informing third party certification of fisheries</h2>
-we have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management. Third-party certification schemes are now seen as the gold standard for commercial fishers and essential for accessing premium markets. The Western rock lobster fishery was the first in the world to receive Marine Stewardship Certification and we have led ecosystem process research vital to ensuring continued certification.
+We have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management. Third-party certification schemes are now seen as the gold standard for commercial fishers and essential for accessing premium markets. The Western rock lobster fishery was the first in the world to receive Marine Stewardship Certification and we have led ecosystem process research vital to ensuring continued certification.
  
  
 <h2 class="researchtitle">Fisheries modeling and decommissioning</h2>
