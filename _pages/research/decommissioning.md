@@ -1,5 +1,5 @@
 ---
-permalink: /research/globalarchive
+permalink: /research/decommissioning
 title: "Fisheries modeling and decommissioning"
 excerpt: "Fisheries modeling and decommissioning"
 author_profile: false
