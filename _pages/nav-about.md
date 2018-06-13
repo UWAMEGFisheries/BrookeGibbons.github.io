@@ -14,19 +14,19 @@ feature_row:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
     excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating low-catch rates within nursery areas at the centre of the fishery"
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/lobster"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
     title: "Shark depradation"
     excerpt: "We initiated the first research programme in Australia into shark depredation in a recreational fishery"
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/shark-depredation"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHGlobalarchive.png?raw=true
     title: "GlobalArchive"
     excerpt: "We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data"
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     btn_label: "Read More"
     btn_class: "btn--info"
 ---
