@@ -4,18 +4,18 @@ title: "Current and past research projects"
 permalink: /research/
 author_profile: false
 feature_row1:
+- image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
+    title: "Standard Operating Procedures and Technology innovation"
+    excerpt: "Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies."
+    url: "https://UWAMEGFisheries.github.io/research/sop"
+    btn_label: "Read More"
+    btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHGlobalarchive.png?raw=true
     img.url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     title: "Global Data synthesis"
     excerpt: "Tools for the synthesis of macro-ecological data relevant to conservation and fisheries management are not so well developed. We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data."
     image_url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     url: "https://UWAMEGFisheries.github.io/research/globalarchive"
-    btn_label: "Read More"
-    btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/SpatialMap.PNG?raw=true
-    title: "Governance and reporting tools for policy makers"
-    excerpt: "Spatial management is commonly used in marine systems, and all Australian state agencies tasked with conservation and fisheries management are now using GlobalArchive to organise and synthesise national data sets into a series of high-impact manuscripts."
-    url: "https://UWAMEGFisheries.github.io/research/reporting-tools"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
@@ -25,12 +25,6 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
-    title: "Standard Operating Procedures and Technology innovation"
-    excerpt: "Through NESP, we have lead the development of the SOP for stereo-Baited Remote Underwater Video methods, an established technology for non-destructive monitoring of spatial management used by all state and federal agencies."
-    url: "https://UWAMEGFisheries.github.io/research/sop"
-    btn_label: "Read More"
-    btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
     excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating low-catch rates within nursery areas at the centre of the fishery."
@@ -41,6 +35,12 @@ feature_row2:
     title: "Fishing effects on ecosystem processes and informing third party certification of fisheries"
     excerpt: "We have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management."
     url: "https://UWAMEGFisheries.github.io/research/fishing-effects"
+    btn_label: "Read More"
+    btn_class: "btn--info"
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/SpatialMap.PNG?raw=true
+    title: "Governance and reporting tools for policy makers"
+    excerpt: "Spatial management is commonly used in marine systems, and all Australian state agencies tasked with conservation and fisheries management are now using GlobalArchive to organise and synthesise national data sets into a series of high-impact manuscripts."
+    url: "https://UWAMEGFisheries.github.io/research/reporting-tools"
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row3:
