@@ -1,5 +1,5 @@
 ---
-permalink: /research/sops
+permalink: /research/sop
 title: "Standard Operating Procedures and Technology innovation"
 excerpt: "Standard Operating Procedures and Technology innovation"
 author_profile: false
