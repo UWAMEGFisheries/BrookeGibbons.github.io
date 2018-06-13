@@ -16,6 +16,19 @@ main:
   - title: "Contact"
     url: /contact/
 
+
+projects:
+  - title: Research projects
+    children:
+      - title: "Global Archive"
+        url: /research/globalarchive/
+      - title: "Reporting Tools"
+        url: /research/reporting-tools/
+      - title: "Shark depradation"
+        url: /research/shark-depradation
+      - title: "Standard Operating Procedures and Technology innovation"
+        url: /research/sop
+
 academics:
   - title: Academics
     children:
