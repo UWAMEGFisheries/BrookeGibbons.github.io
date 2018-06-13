@@ -12,7 +12,7 @@ feature_row1:
     url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/SpatialMap.PNG?raw=true
     title: "Governance and reporting tools for policy makers"
     excerpt: "Spatial management is commonly used in marine systems, and all Australian state agencies tasked with conservation and fisheries management are now using GlobalArchive to organise and synthesise national data sets into a series of high-impact manuscripts."
     url: "https://UWAMEGFisheries.github.io/research/reporting-tools"
