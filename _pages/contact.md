@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: wide
 title: "Get in touch"
 permalink: /contact/
 author_profile: false
