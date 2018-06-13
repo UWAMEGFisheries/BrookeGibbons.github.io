@@ -1,7 +1,7 @@
 ---
-permalink: /research/globalarchive
-title: "Global data synthesis"
-excerpt: "Global data synthesis"
+permalink: /research/lobster
+title: "Research with the fishing industry"
+excerpt: "Research with the fishing industry"
 author_profile: false
 classes: wide
 sidebar:
