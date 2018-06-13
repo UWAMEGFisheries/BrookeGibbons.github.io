@@ -4,9 +4,9 @@ title: "Get in touch"
 permalink: /contact/
 author_profile: false
 ---
+<img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right' width="700" >
 <h1 class="aboutPhil">Get in touch</h1>
 
-<img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right' width="700" >
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 The University of Western Australia (M092)<br>
 64 Fairway, Crawley WA 6009</p>
