@@ -11,3 +11,7 @@ sidebar:
   {% include people-profile.html image="/images/tim.new.png" url="https://uwamegfisheries.github.io/academics/tim-langlois/" name="<b>Tim Langlois</b><br />Research Fellow" %}
 	</figure>
 </font>
+
+<figure class="third" align="left">
+{% include people-caption.html name="<b>Dianne McLean</b><br />Research Fellow" %}
+</figure>
