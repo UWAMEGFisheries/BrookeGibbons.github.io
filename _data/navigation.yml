@@ -20,14 +20,28 @@ main:
 projects:
   - title: Research projects
     children:
-      - title: "Global Archive"
+      - title: "Global data synthesis"
         url: /research/globalarchive/
-      - title: "Reporting Tools"
+      - title: "Governance and reporting tools for policy makers"
         url: /research/reporting-tools/
       - title: "Shark depradation"
         url: /research/shark-depradation
       - title: "Standard Operating Procedures and Technology innovation"
         url: /research/sop
+      - title: "Research with the fishing industry"
+        url: /research/lobster
+      - title: "Fishing effects on ecosystem processes and informing third party certification of fisheries"
+        url: /research/fishing-effects
+      - title: "Fisheries modeling and decommissioning"
+        url: /research/decommissioning
+      - title: "Marine extremes"
+        url: /research/marine-extremes
+      - title: "Aquaculture innovation"
+        url: /research/aquaculture
+      - title: "Developing novel applications of statistical theory"
+        url: /research/statistical-theory
+      - title: "Using socio-economic assessments to inform spatial management policy"
+        url: /research/socio-economic-assessments
 
 academics:
   - title: Academics
