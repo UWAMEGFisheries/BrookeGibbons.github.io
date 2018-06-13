@@ -62,7 +62,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row4:
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/importance.png?raw=true
     title: "Developing novel applications of statistical theory"
     excerpt: "We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research."
     url: "https://UWAMEGFisheries.github.io/research/statistical-theory"
