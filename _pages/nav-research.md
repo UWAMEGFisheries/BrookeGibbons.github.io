@@ -49,7 +49,7 @@ feature_row3:
     url: "https://UWAMEGFisheries.github.io/research/decommissioning"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Extremes.png?raw=true
+  - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/extremescropped.png?raw=true
     title: "Marine extremes"
     excerpt: "Our early work in WA described patterns of distribution in marine ecological communities along the coast which were strongly correlated with temperature regimes, and contrasted with global trends demonstrating less consistency. These studies provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards. We collaborate closely with [Dr Thomas Wernberg](https://wernberglab.org/) and currently co-supervise three students investigating further marine ecological impacts of these marine extremes."
     url: "https://UWAMEGFisheries.github.io/research/marine-extremes"
