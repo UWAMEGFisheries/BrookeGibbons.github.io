@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/blank.jpg' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/rob.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## PhD Title
 bla bla bla
