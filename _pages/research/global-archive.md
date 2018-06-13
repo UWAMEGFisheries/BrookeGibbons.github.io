@@ -1,5 +1,5 @@
 ---
-permalink: /students/todd-bond/
+permalink: /research/globalarchive
 title: "Global data synthesis"
 excerpt: "Global data synthesis"
 author_profile: false
