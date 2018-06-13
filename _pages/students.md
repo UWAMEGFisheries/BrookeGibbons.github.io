@@ -1,13 +1,11 @@
 ---
 layout: splash
 title: "Current Students"
-permalink: /studentstest/
+permalink: /students/
 author_profile: false
-sidebar:
-  nav: "students"
 ---
 <h1 class="aboutPhil">PhD Candidates</h1><br />
-<font size="5"><figure class="third">{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Ningaloo outlook - shallow reefs" %}
+<font size="5"><figure class="third">{% include people-profile.html image="/images/Anna_WS2.jpg" url="https://uwamegfisheries.github.io/students/anna-cresswell/" name="<b>Anna Cresswell</b><br />Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef" %}
 	{% include people-profile.html image="/images/Milly_WS.jpg" url="https://uwamegfisheries.github.io/students/camilla-piggot/" name="<b>Camilla Piggot</b><br />Fish recruitment in coastal habitats of north-west Australia" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="<b>Emily Lester</b><br />Behaviourally mediated trophic cascades" %}
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="<b>Emma Jade Tuffley</b><br />Catchability of western rock lobster" %}
