@@ -1,5 +1,5 @@
 ---
-layout: wide
+classes: wide
 title: "Get in touch"
 permalink: /contact/
 author_profile: false
