@@ -21,7 +21,7 @@ feature_row1:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
     title: "Shark depradation"
     excerpt: "Shark depredation is a controversial issue locally and internationally. We initiated the first research programme in Australia into shark depredation in a recreational fishery."
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/shark-depredation"
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row2:
@@ -40,7 +40,7 @@ feature_row2:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/MSC.jpg?raw=true
     title: "Fishing effects on ecosystem processes and informing third party certification of fisheries"
     excerpt: "We have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning and management."
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/fishing-effects"
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row3:
@@ -59,20 +59,20 @@ feature_row3:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
     title: "Aquaculture innovation"
     excerpt: "Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are supervising a PhD student to trial a novel and low-cost method for tropical lobster culture, a species for which there is currently no commercial fishery. The student comes with 20 years experience in the aquaculture industry overseas. The novel approach we are testing has the potential to provide a sustainable income and protein source with a low-tech design ideal for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study."
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/aquaculture"
     btn_label: "Read More"
     btn_class: "btn--info"
 feature_row4:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
     title: "Developing novel applications of statistical theory"
     excerpt: "We have applied novel methods to comparing body-size distributions. Working with students we have developed novel metrics of the effects of fishing based on fish body-size and behaviour, and contributed to a submitted manuscript lead by Rebecca Fisher of AIMS that developed R functions for conducting full sub-set multiple regression. We have a strong statistical emphasis in student supervision and demonstrate the importance of reproducible research."
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/statistical-theory"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Marinepark.png?raw=true
     title: "Using socio-economic assessments to inform spatial management policy"
     excerpt: "Spatial management policy development has historically been slowed by the perceived widespread opposition of recreational fishers. One of our PhD students has recently submitted a manuscript to Marine Policy that demonstrates that support for spatial management amongst recreational fishers is in fact high and increases with time. This research has been presented by this student to policy makers in Darwin and Canberra and provides a case-study of strategic leadership and we have received a request for further information from the Prime Minister’s office. "
-    url: "https://UWAMEGFisheries.github.io/research/"
+    url: "https://UWAMEGFisheries.github.io/research/socio-economic-asessments"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: 
