@@ -31,9 +31,9 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecocystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.
+<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecocystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
 
-We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
+<p><center>We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
 
 <p><center>We are a multidisciplinary group working across socio-economics, oceanography and statistical theory.</center></p>
 
