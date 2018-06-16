@@ -7,12 +7,28 @@ sidebar:
   nav: "academics"
 ---
 ## Research
+
 <img class="philprofile" src='/images/tim.new.png' align='right' width="350" hspace="20" vspace="10">
 
-See the [Research](https://uwamegfisheries.github.io/research/ "Research") page.
+<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
+<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
+
+I am a marine ecologist focused on understanding the optimal way that both commercial and recreational fisheries can be managed to meet their objectives. I have used no-take marine reseves and fisheries closure to better understand ecosytem dynamics and the impacts of fishing. I have demostrated that these closures can provide important value-adding to fisheries science.
+
+My research is multidisciplinary across socio-economics, oceanography and statistical theory.
+
+See our [Research](https://uwamegfisheries.github.io/research/ "Research") page for more details.
+
 
 ## Teaching
 
+[BIOL1131 Plant and Animal Biology](http://handbooks.uwa.edu.au/unitdetails?code=BIOL1131 "BIOL1131 Plant and Animal Biology") 
+
+[BIOL4407 Marine Conservation and Fisheries Management](http://handbooks.uwa.edu.au/unitdetails?code=BIOL4407 "BIOL4407 Marine Conservation and Fisheries Management") 
+
+[BIOL4408 Marine Ecology](http://handbooks.uwa.edu.au/unitdetails?code=BIOL4408 "Rottnest field trip") 
+
+[SCIE5505 Global Change and the Marine Environment](http://handbooks.uwa.edu.au/unitdetails?code=SCIE5505 "SCIE5505 Global Change and the Marine Environment") 
 
 
 ## About me
@@ -28,9 +44,7 @@ After university I worked for 6 months with the Royal Geographical Society in Ma
 
 During my PhD I was involved in the monitoring of fish and lobster populations inside and outside marine reserves in both New Zealand and New Caledonia, and piloted stereo baited video equipment, borrowed from [Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean") and Euan Harvey [Euan Harvey](https://theconversation.com/profiles/euan-harvey-11039 "Euan Harvey") at the University of Western Australia. 
 
-This led me over to Perth, where I worked with [Jessica Meeuwig](http://www.meeuwig.org/current-members/jessica-meeuwig/ "Jessica Meeuwig") and Euan Harvey on the Securing Marine Futures project. I then undertook a post-doc with the [West Australian Marine Science Institute](https://www.wamsi.org.au/home "WAMSI") developing monitoring approaches to disentangle the effects of global warming and fishing. I then took up a reserach and teaching postion at UWA.
-
-
+This led me over to Perth, where I worked with [Jessica Meeuwig](http://www.meeuwig.org/current-members/jessica-meeuwig/ "Jessica Meeuwig") and Euan Harvey on the Securing Marine Futures project. I then undertook a post-doc with the [West Australian Marine Science Institute](https://www.wamsi.org.au/home "WAMSI") developing monitoring approaches to disentangle the effects of global warming and fishing. I then took up a research and teaching postion at UWA.
 
 
 ## Contact
@@ -40,6 +54,4 @@ School of Biological Sciences (M470)<br>
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
 <i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733<br>
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
 

@@ -9,7 +9,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /Reef.jpg
-excerpt: "Our ultimate aim is to produce information that can assist managers and decision makers in their quest for more sustainable marine ecosystems."
+excerpt: "Our aim is to produce information for the public and both managers and decision makers to understand how marine ecosystems can be managed for the benefit of all."
 feature_row:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
@@ -31,8 +31,11 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>We are a group of researchers at the University of Western Australia, dedicated to better understanding fish assemblages and lobster populations mainly along the coast of Western Australia, although our work extends to other areas of the Pacific such as New Caledonia and Fiji. Our main focus is in the use of stereo-video techniques to survey marine benthic and pelagic systems, gathering very precise data on fish abundance, population size structure and habitat associations of a variety of species, from site attached pomacentrids to pelagic scombrids.</center></p> 
-<p><center>We then use such data to create models that can help us better understand community structure and ecological relationships, and assess impacts of resource use and protection measures. The group has also created strong links with both government and non-government organisations to broaden the spectrum of action of our activities. We now use camera systems on lobster traps and work with lobster fishermen to assist in monitoring abundance, size structure and reproductive capacity of lobster stocks in Western Australia.</center></p>
+<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecocystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.
+
+We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
+
+<p><center>We are a multidisciplinary group working across socio-economics, oceanography and statistical theory.</center></p>
 
 <h1 class="aboutPhil">Recent Highlights</h1>
 {% include feature_row %}
