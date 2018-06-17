@@ -31,11 +31,36 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecocystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
+<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
 
 <p><center>We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
 
 <p><center>We are a multidisciplinary group working across socio-economics, oceanography and statistical theory.</center></p>
+
+See our [Research](https://uwamegfisheries.github.io/research/ "Research") page for more details.
+
+
+## Funding
+We receive funding from a broad range of partners:
+(Brooke can you add in logos (instead of text) for these and try to arrange them nicely - see my Low-catch presentations for examples:)
+
+FRDC
+Gorgon Barrow Island Net Conservation benefits
+Rock Lobster Council
+Recreational Fishing Initiatives Fund (maybe just test from web site?)
+Jock Clough Marine Foundation (no logog but maybe take image of title of his web page)
+Australian Marine Conservation Society
+Parks Australia
+NESP
+AODN
+NCRIS
+Nectar-RDS-ANDS (they have a combined logo)
+NSW Recreational Fishing Trust
+
+
+
+
+
 
 <h1 class="aboutPhil">Recent Highlights</h1>
 {% include feature_row %}
