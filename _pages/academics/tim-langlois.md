@@ -1,5 +1,5 @@
 ---
-permalink: /academics/tim-langlois/
+permalink: /researchers/tim-langlois/
 title: "Tim Langlois"
 excerpt: "Tim Langlois"
 author_profile: false
