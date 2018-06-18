@@ -1,5 +1,5 @@
 ---
-permalink: /academics/dianne-mclean/
+permalink: /researchers/dianne-mclean/
 title: "Dianne McLean"
 excerpt: "Dianne McLean"
 author_profile: false
