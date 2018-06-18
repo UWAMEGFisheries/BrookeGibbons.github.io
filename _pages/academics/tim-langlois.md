@@ -37,7 +37,6 @@ See our [Research](https://uwamegfisheries.github.io/research/ "Research") page 
 
 
 
-
 ## About me
 (Brooke - can this About section be put on a different tab somehow?)
 
