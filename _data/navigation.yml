@@ -4,8 +4,8 @@ main:
   - title: "Research"
     url: /research/
       
-  - title: "Academics"
-    url: /academics/
+  - title: "Researchers"
+    url: /researchers/
       
   - title: "Staff"
     url: /staff/
@@ -44,12 +44,12 @@ projects:
         url: /research/socio-economic-assessments
 
 academics:
-  - title: Academics
+  - title: Researchers
     children:
       - title: "Dianne McLean"
-        url: /academics/dianne-mclean/
+        url: /researchers/dianne-mclean/
       - title: "Tim Langlois"
-        url: /academics/tim-langlois/
+        url: /researchers/tim-langlois/
 
   
 staff:
