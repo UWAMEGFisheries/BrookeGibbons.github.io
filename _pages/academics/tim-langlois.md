@@ -10,10 +10,7 @@ sidebar:
 
 <img class="philprofile" src='/images/tim.new.png' align='right' width="350" hspace="20" vspace="10">
 
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
-<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
-
-I am a marine ecologist focused on understanding the optimal way that both commercial and recreational fisheries can be managed to meet their objectives. I have used no-take marine reseves and fisheries closure to better understand ecosytem dynamics and the impacts of fishing. I have demostrated that these closures can provide important value-adding to fisheries science.
+I am a marine ecologist focused on understanding the optimal way that both commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. I have used no-take marine reserves and fisheries closure to better understand ecosytem dynamics and the impacts of fishing. I have demonstrated that these closures can provide important value-adding to fisheries science.
 
 My research is multidisciplinary across socio-economics, oceanography and statistical theory.
 
@@ -31,7 +28,17 @@ See our [Research](https://uwamegfisheries.github.io/research/ "Research") page 
 [SCIE5505 Global Change and the Marine Environment](http://handbooks.uwa.edu.au/unitdetails?code=SCIE5505 "SCIE5505 Global Change and the Marine Environment") 
 
 
+## Publications
+<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
+<i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
+
+
+(Brooke - please can you start buildling a publication list like P's here)
+
+
+
 ## About me
+(Brooke - can this About section be put on a different tab somehow?)
 
 Orginally from Jersey in the Channel Islands and my first jobs were as deckhand on a lobster boat and oyster farm. 
 
