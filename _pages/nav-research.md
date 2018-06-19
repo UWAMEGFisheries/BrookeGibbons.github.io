@@ -6,7 +6,7 @@ author_profile: false
 feature_row1:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHSOP.png?raw=true
     title: "Standard Operating Procedures and Technology innovation"
-    excerpt: "Through the National Environmental Science Program, we have lead the development of an Australia wide Standard Operating Procedure for Baited Remote Underwater stereo-Video methods, an established methodology for non-destructive monitoring of of fish populations used by all state and federal agencies."
+    excerpt: "Through the National Environmental Science Program, we have lead the development of an Australia wide Standard Operating Procedure for Baited Remote Underwater stereo-Video methods."
     url: "https://UWAMEGFisheries.github.io/research/sop"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -32,7 +32,7 @@ feature_row2:
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/MSC.jpg?raw=true
     title: "Fishing effects on ecosystem processes and informing third party certification of fisheries"
-    excerpt: "We have made significant contributions to studying the direct and indirect impacts of fishing on ecosystem processes across large biogeographic scales, which have been used to inform marine spatial planning, management and to inform third party certification and eco-labelling of fisheries."
+    excerpt: "Our research has been used to inform marine spatial planning, management and to inform third party certification and eco-labelling of fisheries."
     url: "https://UWAMEGFisheries.github.io/research/fishing-effects"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -45,19 +45,19 @@ feature_row2:
 feature_row3:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/decommissioning1.png?raw=true
     title: "Decommissioning"
-    excerpt: "We are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as potential artifical habitats. This research informs decommissioning strategies and has helped cement UWA as the leading university for decommissioning marine science research."
+    excerpt: "We are investigating the impact of subsea oil and gas infrastructure on fish and fisheries, including examination of their role as potential artifical habitats."
     url: "https://UWAMEGFisheries.github.io/research/decommissioning"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/extremescropped.png?raw=true
     title: "Marine extremes"
-    excerpt: "Our early work in WA described patterns of distribution in marine ecological communities along the coast which were strongly correlated with temperature regimes, and contrasted with global trends demonstrating less consistency. These studies provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards. We collaborate closely with [Dr Thomas Wernberg](https://wernberglab.org/) to further marine ecological impacts of these marine extremes."
+    excerpt: "Our early work in WA provided an important benchmark from which to investigate the impact of the marine heatwaves of 2010 onwards."
     url: "https://UWAMEGFisheries.github.io/research/marine-extremes"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Aquaculture innovation"
-    excerpt: "Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are developing novel low-tech approaches with the potential to provide a sustainable income and protein source for development projects across the Indian Ocean and the globe, providing an excellent Blue Economy case study."
+    excerpt: "Developing aquaculture in Western Australia is challenging due to low levels of primary productivity. However, in collaboration with DPIRD-Fisheries we are developing novel low-tech approaches."
     url: "https://UWAMEGFisheries.github.io/research/aquaculture"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -70,7 +70,7 @@ feature_row4:
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Marinepark.png?raw=true
     title: "Using socio-economic assessments to inform spatial management policy"
-    excerpt: "It is essential for Marine Park and Marine Reserves policy development, impacting both commercial and recreational fisheries, to consider the broader socio-economic impacts and cost-benefits of imlementation. We have active research programs consulting key stakeholders to investigate the optimal way that both commercial and recreational fisheries can be spatially managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society."
+    excerpt: "It is essential for Marine Park and Marine Reserves policy development, impacting both commercial and recreational fisheries, to consider the broader socio-economic impacts and cost-benefits of imlementation."
     url: "https://UWAMEGFisheries.github.io/research/socio-economic-asessments"
     btn_label: "Read More"
     btn_class: "btn--info"
