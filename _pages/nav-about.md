@@ -54,7 +54,7 @@ gallery1:
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_N.png?raw=true
   - url: "https://www.rds.edu.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RDS.png?raw=true
-gallery2:
+gallery3:
   - url: "https://www.thejockcloughmarinefoundation.com/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_JCMF.PNG?raw=true
   - url: "http://gorgon-ncb.org.au/"
@@ -80,6 +80,6 @@ We receive funding from a broad range of partners:
 
 
 {% include gallery2 id="gallery1" %}
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery3" %}
 
 
