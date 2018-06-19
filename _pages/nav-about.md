@@ -47,9 +47,9 @@ gallery3:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AODN1.png?raw=true
   - url: ""
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC1.jpg?raw=true
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC1.png?raw=true
   - url: ""
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT1.jpg?raw=true
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT1.png?raw=true
 gallery4:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_Nectar-RDS-ANDS.png?raw=true
