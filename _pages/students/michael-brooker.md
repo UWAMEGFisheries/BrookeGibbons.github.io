@@ -14,7 +14,7 @@ This project will use a variety of fisheries dependent and independent technique
 I previously  attended UWA as an undergraduate student in 2011-2013 in the Marine Science Program. Following completion of my undergraduate degree I undertook honours under the supervision of Drs Tim Langlois, Dianne McLean, Simon de Lestang and Matt Pember. My honours project used novel automated cameras to examine the distribution of fishes in relation to various natural and anthropogenic factors. Since completing honours I have worked with the Department of Fisheries as a Research Officer and later with  Douglas Partners as an Environmental Scientist before deciding to undertake a PhD.
 
 ## Supervisors
-[Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois"), Dr. Thomas Wernberg, Simon de Lestang, Jason How and, Graham Edgar.
+[Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois"), Dr. Thomas Wernberg, Simon de Lestang, Jason How, and Graham Edgar.
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
