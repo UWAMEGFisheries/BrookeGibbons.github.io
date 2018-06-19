@@ -69,22 +69,8 @@ gallery5:
 See our [Research](https://uwamegfisheries.github.io/research/ "Research") page for more details.
 
 
-## Funding
+<h1 class="aboutPhil">Funding</h1>
 We receive funding from a broad range of partners:
-(Brooke can you add in logos (instead of text) for these and try to arrange them nicely - see my Low-catch presentations for examples:)
-
-FRDC
-Gorgon Barrow Island Net Conservation benefits
-Rock Lobster Council
-Recreational Fishing Initiatives Fund (maybe just test from web site?)
-Jock Clough Marine Foundation (no logog but maybe take image of title of his web page)
-Australian Marine Conservation Society
-Parks Australia
-NESP
-AODN
-NCRIS
-Nectar-RDS-ANDS (they have a combined logo)
-NSW Recreational Fishing Trust
 
 {% include gallery id="gallery1" %}
 {% include gallery id="gallery2" %}
