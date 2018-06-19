@@ -33,7 +33,7 @@ School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733<br>
+<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733</p>
 
 ## Publications
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
