@@ -42,7 +42,7 @@ gallery2:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NESP.png?raw=true
   - url: ""
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NCRIS.jpg?raw=true
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC.jpg?raw=true
 gallery3:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AMCS.jpg?raw=true
