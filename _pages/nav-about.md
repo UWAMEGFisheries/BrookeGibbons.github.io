@@ -29,6 +29,27 @@ feature_row:
     url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     btn_label: "Read More"
     btn_class: "btn--info"
+gallery1:
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFIF.png?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_WRLC.png?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NCRIS.png?raw=true
+gallery2:
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_PA.jpg?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NESP.png?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NCRIS.jpg?raw=true
+gallery3:
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AMCS.jpg?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AODN.png?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT.jpg?raw=true
 ---
 
 <p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
@@ -57,7 +78,9 @@ NCRIS
 Nectar-RDS-ANDS (they have a combined logo)
 NSW Recreational Fishing Trust
 
-
+{% include gallery id="gallery1" %}
+{% include gallery id="gallery2" %}
+{% include gallery id="gallery3" %}
 
 
 
