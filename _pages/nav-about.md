@@ -66,11 +66,11 @@ gallery5:
 
 <p><center>We are a multidisciplinary group working across socio-economics, oceanography and statistical theory.</center></p>
 
-See our [Research](https://uwamegfisheries.github.io/research/ "Research") page for more details.
+<p><center>See our [Research](https://uwamegfisheries.github.io/research/ "Research") page for more details.</center></p>
 
 
-<h1 class="aboutPhil">Funding</h1>
-We receive funding from a broad range of partners:
+<p><center><h1 class="aboutPhil">Funding</h1></center></p>
+<p><center>We receive funding from a broad range of partners:</center></p>
 
 {% include gallery id="gallery1" %}
 {% include gallery id="gallery2" %}
