@@ -75,6 +75,7 @@ gallery3:
 <h1 class="aboutPhil">Funding</h1>
 We receive funding from a broad range of partners:
 
+<center>
 <a href="https://recfishwest.org.au/rfif/"><img class="philprofile" src='/images/logos/logo_RFIF1.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.westernrocklobster.org/"><img class="philprofile" src='/images/logos/logo_WRLC1.png' width="220" hspace="10" vspace="10"></a>
 <a href="http://www.frdc.com.au/"><img class="philprofile" src='/images/logos/logo_FRDC1.png' width="220" hspace="10" vspace="10"></a>
@@ -84,8 +85,7 @@ We receive funding from a broad range of partners:
 <a href="https://portal.aodn.org.au/"><img class="philprofile" src='/images/logos/logo_AODN2.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris"><img class="philprofile" src='/images/logos/logo_NCRIS2.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/licence-fees-at-work"><img class="philprofile" src='/images/logos/logo_RFT2.png' width="220" hspace="10" vspace="10"></a>
-
 <a href="https://www.ands.org.au/"><img class="philprofile" src='/images/logos/logo_ANDS.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://nectar.org.au/"><img class="philprofile" src='/images/logos/logo_N.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.rds.edu.au/"><img class="philprofile" src='/images/logos/logo_RDS.png' width="220" hspace="10" vspace="10"></a>
-
+</center>
