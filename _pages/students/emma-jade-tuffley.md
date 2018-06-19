@@ -14,7 +14,7 @@ This study will investigate and quantify the environmental and biological factor
 As a born and bred West Australian, I have spent the majority of my life in or around the ocean, from snorkelling Ningaloo Reef, to fishing in Albany, to diving at Rottnest Island. I graduated from UWA with a first class honours degree in Marine Science in 2015. My honours research involved working closely with the department of fisheries to investigate different methods for sampling the western rock lobster, at Rottnest Island. My PhD, which is also conducted in collaboration, with the department, follows on from this work and will investigate the catchability of this species.
 
 # Supervisors
-[Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/), Gary Kendrick, Simon de Lestang, and Jason How
+[Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois"), Gary Kendrick, Simon de Lestang, and Jason How
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
