@@ -2,7 +2,7 @@
 title: "Diel shifts and habitat associations of fish assemblages on a subsea pipeline"
 collection: reports
 permalink: /publications/2018-Bond-Dielshifts
-excerpt: ''
+excerpt: 'Nocturnal studies of fish assemblages are relatively rare, particularly at depths greater than 100 m, despite the relevance of diel shifts in habitat usage to fisheries management. This study assesses fish diversity and abundance from remotely operated vehicle (ROV) video recordings that were collected by industry during the day and at night in the course of a subsea pipeline survey, at 130 m depth.'
 date: 2018-10-31 
 venue: <img src="https://img.shields.io/badge/Book-chapter-2a94ba.svg?longCache=true&style=flat-square">
 pdf: <img src="https://img.shields.io/badge/Open-access-4dc215.svg?longCache=true&style=flat-square">
