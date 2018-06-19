@@ -13,7 +13,7 @@ excerpt: "Our aim is to produce information for the public and decision makers t
 feature_row:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
-    excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating recruitment dynamics in the Western Rock Lobster fishery"
+    excerpt: "In collaboration with DPIRD-Fisheries, the Western Rock Lobster Council and fishers we are investigating recruitment dynamics in the Western Rock Lobster fishery"
     url: "https://UWAMEGFisheries.github.io/research/lobster"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -31,13 +31,9 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</center></p>
+<p><center>Our multidisciplinary group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</center></p>
 
-<p><center>We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations around Australia and internationally.</center></p> 
-
-<p><center>We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
-
-<p><center>We are a multidisciplinary group marine ecologists working across socio-economics, oceanography and statistical theory.</center></p>
+<p><center>We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour; with on-going collaboratorations around Australia and internationally across socio-economics, oceanography and statistical theory.</center></p> 
 
 <p><center>See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.</center></p>
 
