@@ -69,13 +69,13 @@ gallery2:
 
 <p><center>See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.</center></p>
 
+<h1 class="aboutPhil">Recent Highlights</h1>
+{% include feature_row %}
+
 <h1 class="aboutPhil">Funding</h1>
 We receive funding from a broad range of partners:
 
 {% include gallery2 id="gallery1" %}
 {% include gallery id="gallery2" %}
 
-
-<h1 class="aboutPhil">Recent Highlights</h1>
-{% include feature_row %}
 
