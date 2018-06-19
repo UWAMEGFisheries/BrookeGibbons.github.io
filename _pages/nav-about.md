@@ -58,6 +58,6 @@ We receive funding from a broad range of partners:
 <a href="https://www.ands.org.au/"><img class="philprofile" src='/images/logos/logo_ANDS.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://nectar.org.au/"><img class="philprofile" src='/images/logos/logo_N.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.rds.edu.au/"><img class="philprofile" src='/images/logos/logo_RDS.png' width="220" hspace="10" vspace="10"></a>
-<a href="https://www.thejockcloughmarinefoundation.com/"><img class="philprofile" src='/images/logos/logo_JCMF.PNG' width="270" hspace="10" vspace="10"></a>
-<a href="http://gorgon-ncb.org.au/"><img class="philprofile" src='/images/logos/logo_GBINCBF.png' width="270" hspace="10" vspace="10"></a>
+<a href="https://www.thejockcloughmarinefoundation.com/"><img class="philprofile" src='/images/logos/logo_JCMF.PNG' width="300" hspace="10" vspace="10"></a>
+<a href="http://gorgon-ncb.org.au/"><img class="philprofile" src='/images/logos/logo_GBINCBF.png' width="300" hspace="10" vspace="10"></a>
 </center>
