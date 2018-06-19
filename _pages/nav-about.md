@@ -51,8 +51,12 @@ gallery3:
   - url: "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/licence-fees-at-work"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT2.png?raw=true
 gallery4:
-  - url: ""
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_Nectar-RDS-ANDS1.png?raw=true
+  - url: "https://www.ands.org.au/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_ANDS.png?raw=true
+  - url: "https://nectar.org.au/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_N.png?raw=true
+  - url: "https://www.rds.edu.au/"
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RDS.png?raw=true
 gallery5:
   - url: "https://www.thejockcloughmarinefoundation.com/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_JCMF.PNG?raw=true
