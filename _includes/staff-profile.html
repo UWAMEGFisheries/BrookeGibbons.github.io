@@ -4,7 +4,7 @@
 {% capture fig_caption %}
 {{ include.name }}
 {% endcapture %}
-<figure style="width: 400px" class="{{ include.align }}">
+<figure style="width: 50%" class="{{ include.align }}">
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
