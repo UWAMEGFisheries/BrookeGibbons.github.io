@@ -36,28 +36,25 @@ gallery1:
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_WRLC1.png?raw=true
   - url: "http://www.frdc.com.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC1.png?raw=true
-gallery2:
   - url: "https://parksaustralia.gov.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_PA1.png?raw=true
   - url: "http://www.environment.gov.au/science/nesp"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NESP1.png?raw=true
   - url: "https://www.marineconservation.org.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AMCS1.png?raw=true
-gallery3:
   - url: "https://portal.aodn.org.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AODN2.png?raw=true
   - url: "https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NCRIS2.png?raw=true
   - url: "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/licence-fees-at-work"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT2.png?raw=true
-gallery4:
   - url: "https://www.ands.org.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_ANDS.png?raw=true
   - url: "https://nectar.org.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_N.png?raw=true
   - url: "https://www.rds.edu.au/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RDS.png?raw=true
-gallery5:
+gallery2:
   - url: "https://www.thejockcloughmarinefoundation.com/"
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_JCMF.PNG?raw=true
   - url: "http://gorgon-ncb.org.au/"
@@ -76,10 +73,7 @@ gallery5:
 We receive funding from a broad range of partners:
 
 {% include gallery2 id="gallery1" %}
-{% include gallery2 id="gallery2" %}
-{% include gallery2 id="gallery3" %}
-{% include gallery2 id="gallery4" %}
-{% include gallery2 id="gallery5" %}
+{% include gallery id="gallery2" %}
 
 
 <h1 class="aboutPhil">Recent Highlights</h1>
