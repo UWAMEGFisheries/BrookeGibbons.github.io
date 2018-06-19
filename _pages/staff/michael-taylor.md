@@ -8,7 +8,7 @@ sidebar:
   nav: "staff"
 ---
 ## Research
-<img class="philprofile" src='/images/Brooke_WS.jpg' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/Mike_WS2.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## About me
 
