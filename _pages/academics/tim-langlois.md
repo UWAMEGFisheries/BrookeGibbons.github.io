@@ -27,6 +27,13 @@ See our [Research](https://uwamegfisheries.github.io/research/ "Research") page 
 
 [SCIE5505 Global Change and the Marine Environment](http://handbooks.uwa.edu.au/unitdetails?code=SCIE5505 "SCIE5505 Global Change and the Marine Environment") 
 
+## Contact
+<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
+School of Biological Sciences (M470)<br>
+35 Stirling Highway, Crawley WA 6009</p>
+
+<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
+<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733<br>
 
 ## Publications
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
@@ -65,7 +72,6 @@ See our [Research](https://uwamegfisheries.github.io/research/ "Research") page 
 
 
 ## About me
-(Brooke - can this About section be put on a different tab somehow?)
 
 Orginally from Jersey in the Channel Islands and my first jobs were as deckhand on a lobster boat and oyster farm. 
 
@@ -81,11 +87,5 @@ During my PhD I was involved in the monitoring of fish and lobster populations i
 This led me over to Perth, where I worked with [Jessica Meeuwig](http://www.meeuwig.org/current-members/jessica-meeuwig/ "Jessica Meeuwig") and Euan Harvey on the Securing Marine Futures project. I then undertook a post-doc with the [West Australian Marine Science Institute](https://www.wamsi.org.au/home "WAMSI") developing monitoring approaches to disentangle the effects of global warming and fishing. I then took up a research and teaching postion at UWA.
 
 
-## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
-School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
 
-<p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
-<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4733<br>
 

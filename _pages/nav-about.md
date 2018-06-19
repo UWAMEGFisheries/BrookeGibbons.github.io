@@ -31,11 +31,13 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations around Australia and internationally.</center></p> 
+<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society.</center></p>
 
-<p><center>We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
+<p><center>We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations around Australia and internationally.</center></p> 
 
-<p><center>We are a multidisciplinary group working across socio-economics, oceanography and statistical theory.</center></p>
+<p><center>We have world leading expertise in stereo-video methods to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
+
+<p><center>We are a multidisciplinary group marine ecologists working across socio-economics, oceanography and statistical theory.</center></p>
 
 <p><center>See our <a href="https://uwamegfisheries.github.io/research/"> Research</a> page for more details.</center></p>
 
