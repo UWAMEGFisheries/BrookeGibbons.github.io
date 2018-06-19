@@ -75,11 +75,11 @@ gallery5:
 <h1 class="aboutPhil">Funding</h1>
 We receive funding from a broad range of partners:
 
-{% include gallery id="gallery1" %}
-{% include gallery id="gallery2" %}
-{% include gallery id="gallery3" %}
-{% include gallery id="gallery4" %}
-{% include gallery id="gallery5" %}
+{% include gallery2 id="gallery1" %}
+{% include gallery2 id="gallery2" %}
+{% include gallery2 id="gallery3" %}
+{% include gallery2 id="gallery4" %}
+{% include gallery2 id="gallery5" %}
 
 
 <h1 class="aboutPhil">Recent Highlights</h1>
