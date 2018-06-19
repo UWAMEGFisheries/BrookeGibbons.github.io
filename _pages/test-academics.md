@@ -21,7 +21,6 @@ sidebar:
 
 <font size="5">
 {% include gallery id="gallery" %} <br /> <figure class="third" align="left">
-{% include people-caption.html name="<b>Dianne McLean</b><br />Research Fellow" %}
-{% include people-caption.html name="<b>Tim Langlois</b><br />Research Fellow" %}
+{% include people-caption.html name="<b>Dianne McLean</b><br />Research Fellow" %}{% include people-caption.html name="<b>Tim Langlois</b><br />Research Fellow" %}
 {% include people-caption.html name="" %}</figure>
 </font>
