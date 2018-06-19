@@ -29,36 +29,6 @@ feature_row:
     url: "https://UWAMEGFisheries.github.io/research/globalarchive"
     btn_label: "Read More"
     btn_class: "btn--info"
-gallery1:
-  - url: "https://recfishwest.org.au/rfif/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFIF1.png?raw=true
-  - url: "https://www.westernrocklobster.org/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_WRLC1.png?raw=true
-  - url: "http://www.frdc.com.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC1.png?raw=true
-  - url: "https://parksaustralia.gov.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_PA1.png?raw=true
-  - url: "http://www.environment.gov.au/science/nesp"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NESP1.png?raw=true
-  - url: "https://www.marineconservation.org.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AMCS1.png?raw=true
-  - url: "https://portal.aodn.org.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AODN2.png?raw=true
-  - url: "https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NCRIS2.png?raw=true
-  - url: "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/licence-fees-at-work"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT2.png?raw=true
-  - url: "https://www.ands.org.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_ANDS.png?raw=true
-  - url: "https://nectar.org.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_N.png?raw=true
-  - url: "https://www.rds.edu.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RDS.png?raw=true
-gallery3:
-  - url: "https://www.thejockcloughmarinefoundation.com/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_JCMF.PNG?raw=true
-  - url: "http://gorgon-ncb.org.au/"
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_GBINCBF.png?raw=true
 ---
 
 <p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
@@ -88,6 +58,6 @@ We receive funding from a broad range of partners:
 <a href="https://www.ands.org.au/"><img class="philprofile" src='/images/logos/logo_ANDS.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://nectar.org.au/"><img class="philprofile" src='/images/logos/logo_N.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.rds.edu.au/"><img class="philprofile" src='/images/logos/logo_RDS.png' width="220" hspace="10" vspace="10"></a>
-<a href="https://www.thejockcloughmarinefoundation.com/"><img class="philprofile" src='/images/logos/logo_JCMF.PNG' width="220" hspace="10" vspace="10"></a>
-<a href="http://gorgon-ncb.org.au/"><img class="philprofile" src='/images/logos/logo_GBINCBF.png' width="220" hspace="10" vspace="10"></a>
+<a href="https://www.thejockcloughmarinefoundation.com/"><img class="philprofile" src='/images/logos/logo_JCMF.PNG' width="270" hspace="10" vspace="10"></a>
+<a href="http://gorgon-ncb.org.au/"><img class="philprofile" src='/images/logos/logo_GBINCBF.png' width="270" hspace="10" vspace="10"></a>
 </center>
