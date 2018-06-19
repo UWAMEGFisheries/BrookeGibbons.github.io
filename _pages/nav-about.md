@@ -75,6 +75,10 @@ gallery2:
 <h1 class="aboutPhil">Funding</h1>
 We receive funding from a broad range of partners:
 
+<img class="philprofile" src='/images/logos/logo_RFIF1.png' width="200" hspace="10" vspace="10"><img class="philprofile" src='/images/logos/logo_WRLC1.png' width="200" hspace="10" vspace="10"><img class="philprofile" src='/images/logos/logo_FRDC1.png' width="200" hspace="10" vspace="10">
+
+
+
 {% include gallery2 id="gallery1" %}
 {% include gallery id="gallery2" %}
 
