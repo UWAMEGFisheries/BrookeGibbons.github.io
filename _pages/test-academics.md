@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Current Academics"
+title: "Current Researchers"
 permalink: /testacademics/
 author_profile: false
 gallery:
