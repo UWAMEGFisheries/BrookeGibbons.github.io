@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Current Research Staff"
 permalink: /staff/
 author_profile: false
@@ -25,9 +25,6 @@ gallery:
     image_path: https://github.com/uwamegfisheries/uwamegfisheries.github.io/blob/master/names/N_Mike.png?raw=true
   - url: 
     image_path: 
-sidebar:
-  nav: "staff"
-
 ---
 <font size="5"><figure class="half" align="left">
   {% include staff-profile.html image="/images/Brooke_WS.jpg" url="https://uwamegfisheries.github.io/staff/brooke-gibbons/" name="<b>Brooke Gibbons</b><br />Research Assistant" %}
