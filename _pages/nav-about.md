@@ -9,17 +9,17 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /Reef.jpg
-excerpt: "Our aim is to produce information for the public and both managers and decision makers to understand how marine ecosystems can be managed for the benefit of all."
+excerpt: "Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all."
 feature_row:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
-    excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating low-catch rates within nursery areas at the centre of the fishery"
+    excerpt: "In collaboration with DPIRD-Fisheries and fishers we are investigating recruitment dynamics in the Western Rock Lobster fishery"
     url: "https://UWAMEGFisheries.github.io/research/lobster"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
     title: "Shark depradation"
-    excerpt: "We initiated the first research programme in Australia into shark depredation in a recreational fishery"
+    excerpt: "We initiated the first research programme in Australia into shark depredation in recreational fisheries"
     url: "https://UWAMEGFisheries.github.io/research/shark-depredation"
     btn_label: "Read More"
     btn_class: "btn--info"
@@ -31,7 +31,7 @@ feature_row:
     btn_class: "btn--info"
 ---
 
-<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
+<p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations around Australia and internationally.</center></p> 
 
 <p><center>We have a world leading expertise in stereo-video techniques to survey marine benthic and pelagic systems, gathering data on fish abundance, body-size and behaviour.</center></p> 
 
