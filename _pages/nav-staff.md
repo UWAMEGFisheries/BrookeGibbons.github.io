@@ -30,6 +30,12 @@ sidebar:
 
 ---
 <font size="5"><figure class="half" align="left">
+  {% include staff-profile.html image="/images//Brooke_WS.jpg" url="https://uwamegfisheries.github.io/staff/brooke-gibbons/" name="<b>Brooke Gibbons</b><br />Research Assistant" %}
+  {% include staff-profile.html image="/images/Mike_WS2.jpg" url="https://uwamegfisheries.github.io/staff/michael-taylor/" name="<b>Michael Taylor</b><br />Research Assistant" %}  
+	</figure>
+</font>
+
+<font size="5"><figure class="half" align="left">
   {% include people-profile.html image="/images//Brooke_WS.jpg" url="https://uwamegfisheries.github.io/staff/brooke-gibbons/" name="<b>Brooke Gibbons</b><br />Research Assistant" %}
   {% include people-profile.html image="/images/Mike_WS2.jpg" url="https://uwamegfisheries.github.io/staff/michael-taylor/" name="<b>Michael Taylor</b><br />Research Assistant" %}  
   {% include people-profile.html image="/images/blankprofile.PNG"%}
