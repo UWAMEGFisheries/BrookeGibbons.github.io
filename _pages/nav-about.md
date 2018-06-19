@@ -42,14 +42,22 @@ gallery2:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_NESP.png?raw=true
   - url: ""
-    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC.jpg?raw=true
-gallery3:
-  - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AMCS.jpg?raw=true
+gallery3:
   - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_AODN.png?raw=true
   - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_FRDC.jpg?raw=true
+  - url: ""
     image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_RFT.jpg?raw=true
+gallery4:
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_Nectar-RDS-ANDS.png?raw=true
+gallery5:
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_JCMF.PNG?raw=true
+  - url: ""
+    image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/logos/logo_GBINCBF.png?raw=true
 ---
 
 <p><center>Our group works to understand the optimal way that commercial and recreational fisheries can be managed to meet their objectives and maximise the broader benefits of healthy marine ecosystems to society. We have a focus on studies of fish and lobster populations along the West coast of Australia with on-going collaboratorations all around Australia, the Pacific and South Africa.</center></p> 
@@ -81,8 +89,8 @@ NSW Recreational Fishing Trust
 {% include gallery id="gallery1" %}
 {% include gallery id="gallery2" %}
 {% include gallery id="gallery3" %}
-
-
+{% include gallery id="gallery4" %}
+{% include gallery id="gallery5" %}
 
 
 <h1 class="aboutPhil">Recent Highlights</h1>
