@@ -78,10 +78,12 @@ We receive funding from a broad range of partners:
 <a href="https://recfishwest.org.au/rfif/"><img class="philprofile" src='/images/logos/logo_RFIF1.png' width="220" hspace="10" vspace="10"></a>
 <a href="https://www.westernrocklobster.org/"><img class="philprofile" src='/images/logos/logo_WRLC1.png' width="220" hspace="10" vspace="10"></a>
 <a href="http://www.frdc.com.au/"><img class="philprofile" src='/images/logos/logo_FRDC1.png' width="220" hspace="10" vspace="10"></a>
-<a href="https://recfishwest.org.au/rfif/"><img class="philprofile" src='/images/logos/logo_PA1.png' width="220" hspace="10" vspace="10"></a>
-<a href="https://www.westernrocklobster.org/"><img class="philprofile" src='/images/logos/logo_NESP1.png' width="220" hspace="10" vspace="10"></a>
-<a href="http://www.frdc.com.au/"><img class="philprofile" src='/images/logos/logo_AMCS1.png' width="220" hspace="10" vspace="10"></a>
-
+<a href="https://parksaustralia.gov.au/"><img class="philprofile" src='/images/logos/logo_PA1.png' width="220" hspace="10" vspace="10"></a>
+<a href="http://www.environment.gov.au/science/nesp"><img class="philprofile" src='/images/logos/logo_NESP1.png' width="220" hspace="10" vspace="10"></a>
+<a href="https://www.marineconservation.org.au/"><img class="philprofile" src='/images/logos/logo_AMCS1.png' width="220" hspace="10" vspace="10"></a>                                                                                                                         
+<a href="https://portal.aodn.org.au/"><img class="philprofile" src='/images/logos/logo_AODN2.png' width="220" hspace="10" vspace="10"></a>
+<a href="https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris"><img class="philprofile" src='/images/logos/logo_NCRIS2.png' width="220" hspace="10" vspace="10"></a>
+<a href="https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/licence-fees-at-work"><img class="philprofile" src='/images/logos/logo_RFT2.png' width="220" hspace="10" vspace="10"></a>
 
 {% include gallery2 id="gallery1" %}
 {% include gallery id="gallery3" %}
