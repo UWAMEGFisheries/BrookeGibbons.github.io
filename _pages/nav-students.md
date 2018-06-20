@@ -29,8 +29,6 @@ author_profile: false
 	{% include people-profile.html image="/images/Matt_WS.JPG" url="https://uwamegfisheries.github.io/students/matt-hammond/" name="<b>Matt Hammond</b><br />Artficial Reef" %}
 	{% include people-profile.html image="/images/Oscar_WS.jpg" url="https://uwamegfisheries.github.io/students/oscar-doncel-canon/" name="<b>Oscar Doncel Canon</b><br />Catch rate of white Western Rock Lobster" %}
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/sam-brock/" name="<b>Sam Brock</b><br />Artficial Reef" %}
-	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
-	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
 
