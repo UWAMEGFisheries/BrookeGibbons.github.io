@@ -9,7 +9,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /Reef.jpg
-excerpt: "Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all."
+excerpt: "<p>We are based at the University of Western Australia. Our research team are located in the School of Biological Sceinces and are members of the Oceans Institute</p>
+<p>Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all.</p>"
 feature_row:
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHLobster.png?raw=true
     title: "Research with the fishing industry"
