@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/RHInterview.png?raw=true
-    title: "Shark depradation"
+    title: "Shark depreadation"
     excerpt: "We initiated the first research programme in Australia into shark depredation in recreational fisheries"
     url: "https://UWAMEGFisheries.github.io/research/shark-depredation"
     btn_label: "Read More"

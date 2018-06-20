@@ -70,7 +70,7 @@ feature_row4:
     btn_class: "btn--info"
   - image_path: https://github.com/UWAMEGFisheries/UWAMEGFisheries.github.io/blob/master/images/1_Marinepark.png?raw=true
     title: "Using socio-economic assessments to inform spatial management policy"
-    excerpt: "It is essential for Marine Park and Marine Reserves policy development, impacting both commercial and recreational fisheries, to consider the broader socio-economic impacts and cost-benefits of imlementation."
+    excerpt: "It is essential for Marine Park and Marine Reserves policy development, impacting both commercial and recreational fisheries, to consider the broader socio-economic impacts and cost-benefits of implementation."
     url: "https://UWAMEGFisheries.github.io/research/socio-economic-asessments"
     btn_label: "Read More"
     btn_class: "btn--info"
