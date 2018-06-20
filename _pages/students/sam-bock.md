@@ -1,7 +1,7 @@
 ---
 permalink: /students/sam-brock/
-title: "Sam Brock"
-excerpt: "Sam Brock"
+title: "Sam Bock"
+excerpt: "Sam Bock"
 author_profile: false
 sidebar:
   nav: "students"
