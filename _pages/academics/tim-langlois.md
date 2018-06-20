@@ -40,8 +40,6 @@ School of Biological Sciences (M470)<br>
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
 
 
-(Brooke - please can you start buildling a publication list like P's here)
-
 {% include base_path %}
 
 {% for post in site.publications reversed %}
