@@ -40,34 +40,6 @@ School of Biological Sciences (M470)<br>
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-
-
-{% if forloop.index ==1 %}
-
-
-  {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
-  <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
-
-{% elsif forloop.index >1 %}
-
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-
-  {% if year==firstyear %}
-  {% else %}
-
-  {% capture firstyear %}{{ post.date | date: '%Y' }}{% endcapture %}
-  <h2 id="{{ firstyear | slugify }}" class="archive__subtitle">{{ firstyear }}</h2>
-  {% endif %}
-
-{% endif %}
-
-
-  {% include archive-single.html %}
-{% endfor %}
-
 
 ## About me
 
