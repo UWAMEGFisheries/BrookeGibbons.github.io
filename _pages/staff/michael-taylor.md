@@ -15,7 +15,7 @@ My main role in the Marine Ecology Group - Fisheries Lab is assisting with the r
 Originally from Hong Kong, I grew up in southern England before attending the University of Sheffield and graduating with honours in Zoology. I then moved to Perth in order to complete a Master of Biological Sciences, focused on marine biology, at UWA. This research on ontogenetic shifts in the emperor species *Lethrinus punctulatus* was conducted in the Marine Ecology Group - Fisheries Research Lab with [Dr. Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/ "Dianne McLean"), [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois") and [Camilla Piggot](https://uwamegfisheries.github.io/students/camilla-piggot/ "Camilla Piggot") as my supervisors. On completing my Masters in 2016 I started working in the Marine Ecology Group - Fisheries Research Lab as a Research Assistant using stereo-video to better understand fish ecology and communities associated with artificial structures off the coast of Western Australia.
 
 ## Contact
-<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre :fish:<br>
+<p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
