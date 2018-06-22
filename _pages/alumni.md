@@ -23,7 +23,7 @@ author_profile: false
 	{% include people-profile.html image="/images/Mike_WS2.jpg" url="https://uwamegfisheries.github.io/staff/michael-taylor/" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
 	{% include people-profile.html image="/images/Julia_Hab.jpg" url="" name="<b>Julia Haberstroh</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Salvador.png" url="" name="<b>Salvador Zarco</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/Emily_WS.jpg" url="" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
+	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>James Brightmore</b><small> (2014)</small><br />2014" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Magen Schifiliti</b><small> (2014)</small><br />2014" %}
@@ -34,12 +34,12 @@ author_profile: false
 <font size="5"><figure class="third">{% include people-profile.html image="/images/Molly_Mou.jpg" url="" name="<b>Molly Moustaka</b><small> (2016)</small><br />The influence of suspended sediment on the fish assemblage of the nearshore Pilbara region of Western Australia." %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Brandon Brooker</b><small> (2015)</small><br />2015 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Danielle Collins</b><small> (2015)</small><br />A novel stereo-video method to investigate fish-habitat relationships" %}
-	{% include people-profile.html image="/images/MJ_WS.jpg" url="" name="<b>Emma Tufley</b><small> (2015)</small><br />2015 - " %}
+	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="<b>Emma-Jade Tufley</b><small> (2015)</small><br />2015 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katherine Bennett</b><small> (2015)</small><br />Can diver operated stereo-video surveys for fish be used to collect meaningful data on benthic coral reef communities?" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Mitchell Keys</b><small> (2015)</small><br />2015 -" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Amy Coghlan</b><small> (2014)</small><br />2014 - " %}
 	{% include people-profile.html image="/images/Kat_Bornt.jpg" url="" name="<b>Katrina Bornt</b><small> (2014)</small><br />2014 -" %}
-	{% include people-profile.html image="/images/Brooker_WS.jpg" url="" name="<b>Michael Brooker</b><small> (2014)</small><br />2014 - " %}
+	{% include people-profile.html image="/images/Brooker_WS.jpg" url="https://uwamegfisheries.github.io/students/michael-brooker/" name="<b>Michael Brooker</b><small> (2014)</small><br />2014 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Alexander Gorham</b><small> (2013)</small><br />2013 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jake Azzerello</b><small> (2012)</small><br />2012 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jess Waters</b><small> (2012)</small><br />2012 - " %}
