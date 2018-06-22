@@ -50,3 +50,9 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jordan Goetze</b><small> (2009)</small><br />2009 - " %}
 </figure>
 </font>
+
+<h1 class="aboutPhil">Staff Alumni</h1><br />
+<font size="5"><figure class="third">{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matt Birt</b><br />Research Assistant" %}
+	{% include people-profile.html image="/images/Todd_WS.jpg" url="" name="<b>Todd Bond</b><br />Research Assistant" %}
+</figure>
+</font>
