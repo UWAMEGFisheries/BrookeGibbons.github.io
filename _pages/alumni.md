@@ -31,7 +31,7 @@ author_profile: false
 </font>
 
 <h1 class="aboutPhil">Honours Completions</h1><br />
-<font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Molly Moustaka</b><small> (2016)</small><br />The influence of suspended sediment on the fish assemblage of the nearshore Pilbara region of Western Australia." %}
+<font size="5"><figure class="third">{% include people-profile.html image="/images/Molly_Mou.jpg" url="" name="<b>Molly Moustaka</b><small> (2016)</small><br />The influence of suspended sediment on the fish assemblage of the nearshore Pilbara region of Western Australia." %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Brandon Brooker</b><small> (2015)</small><br />2015 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Danielle Collins</b><small> (2015)</small><br />A novel stereo-video method to investigate fish-habitat relationships" %}
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="" name="<b>Emma Tufley</b><small> (2015)</small><br />2015 - " %}
