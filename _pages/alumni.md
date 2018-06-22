@@ -15,15 +15,15 @@ author_profile: false
 <font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Anne Feng</b><small> (2018)</small><br />" %}
 	{% include people-profile.html image="/images/Matt_WS.JPG" url="" name="<b>Matthew Hammond</b><small> (2018)</small><br />An assessment of change in habitats, fish and invertebrate communities following installation of an artificial reef" %}
 	{% include people-profile.html image="/images/Brooke_WS.jpg" url="" name="<b>Brooke Gibbons</b><small> (2017)</small><br />2017" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Ellen D'Cruz</b><small> (2017)</small><br />2017" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Ross Gillis</b><small> (2017)</small><br />2017" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Brigit Vaughan</b><small> (2016)</small><br />" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Isabella Lindgren</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Leah Candland</b><small> (2016)</small><br />2016" %}
+	{% include people-profile.html image="/images/Ellen_DCruz.jpg" url="" name="<b>Ellen D'Cruz</b><small> (2017)</small><br />2017" %}
+	{% include people-profile.html image="/images/Ross_Gillis.jpg" url="" name="<b>Ross Gillis</b><small> (2017)</small><br />2017" %}
+	{% include people-profile.html image="/images/B_Vaughan.jpg" url="" name="<b>Brigit Vaughan</b><small> (2016)</small><br />" %}
+	{% include people-profile.html image="/images/Izzy_Lind.jpg" url="" name="<b>Isabella Lindgren</b><small> (2016)</small><br />2016" %}
+	{% include people-profile.html image="/images/Leah_Candland.jpg" url="" name="<b>Leah Candland</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Mike_WS2.jpg" url="" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
 	{% include people-profile.html image="/images/DOV_Julia.jpg" url="" name="<b>Julia Haberstroh</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Salvador.png" url="" name="<b>Salvador Zarco</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
+	{% include people-profile.html image="/images/Emily_WS.jpg" url="" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>James Brightmore</b><small> (2014)</small><br />2014" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Magen Schifiliti</b><small> (2014)</small><br />2014" %}
@@ -38,7 +38,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katherine Bennett</b><small> (2015)</small><br />2015 - Can diver operated stereo-video surveys for fish be used to collect meaningful data on benthic coral reef communities?" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Mitchell Keys</b><small> (2015)</small><br />2015 -" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Amy Coghlan</b><small> (2014)</small><br />2014 - " %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katrina Bornt</b><small> (2014)</small><br />2014 -" %}
+	{% include people-profile.html image="/images/Kat_Bornt.jpg" url="" name="<b>Katrina Bornt</b><small> (2014)</small><br />2014 -" %}
 	{% include people-profile.html image="/images/Brooker_WS.jpg" url="" name="<b>Michael Brooker</b><small> (2014)</small><br />2014 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Alexander Gorham</b><small> (2013)</small><br />2013 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jake Azzerello</b><small> (2012)</small><br />2012 - " %}
