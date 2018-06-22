@@ -22,7 +22,7 @@ author_profile: false
 	{% include people-profile.html image="/images/Leah_Candland.jpg" url="" name="<b>Leah Candland</b><small> (2016)</small><br />Baited remote underwater stereo-video: An effective sampling tool for identifying juvenile fish-habitat and depth relationships in the Dampier Archipelago, Western Australia" %}
 	{% include people-profile.html image="/images/Mike_WS2.jpg" url="https://uwamegfisheries.github.io/staff/michael-taylor/" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
 	{% include people-profile.html image="/images/Julia_Hab.jpg" url="" name="<b>Julia Haberstroh</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/Salvador_Zarco.png url="https://uwamegfisheries.github.io/students/salvador-zarco-perello/" name="<b>Salvador Zarco</b><small> (2016)</small><br />Tropicalization strengthens consumer pressure on habitat-forming seaweeds" %}
+	{% include people-profile.html image="/images/Salvador_Zarco.png" url="https://uwamegfisheries.github.io/students/salvador-zarco-perello/" name="<b>Salvador Zarco</b><small> (2016)</small><br />Tropicalization strengthens consumer pressure on habitat-forming seaweeds" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="https://uwamegfisheries.github.io/students/emily-lester/" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>James Brightmore</b><small> (2014)</small><br />2014" %}
