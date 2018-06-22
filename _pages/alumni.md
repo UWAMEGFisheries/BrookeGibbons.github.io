@@ -12,7 +12,7 @@ author_profile: false
 </font>
 
 <h1 class="aboutPhil">Masters Completions</h1><br />
-<font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Anne Feng</b><small> (2018)</small><br />" %}
+<font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Anne Feng</b><small> (2018)</small><br />Optimisation of benthic habitat analysis from stereo-BRUV footage" %}
 	{% include people-profile.html image="/images/Matt_WS.JPG" url="" name="<b>Matthew Hammond</b><small> (2018)</small><br />An assessment of change in habitats, fish and invertebrate communities following installation of an artificial reef" %}
 	{% include people-profile.html image="/images/Brooke_WS.jpg" url="https://uwamegfisheries.github.io/staff/brooke-gibbons/" name="<b>Brooke Gibbons</b><small> (2017)</small><br />No take marine reserves in Mo'orea, French Polynesia, decrease fish wariness but do not increase abundance" %}
 	{% include people-profile.html image="/images/Ellen_DCruz.jpg" url="" name="<b>Ellen D'Cruz</b><small> (2017)</small><br />Influence of market value and broad scale habitat on reef fish wariness " %}
