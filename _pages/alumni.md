@@ -14,13 +14,13 @@ author_profile: false
 <h1 class="aboutPhil">Masters Completions</h1><br />
 <font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Anne Feng</b><small> (2018)</small><br />" %}
 	{% include people-profile.html image="/images/Matt_WS.JPG" url="" name="<b>Matthew Hammond</b><small> (2018)</small><br />An assessment of change in habitats, fish and invertebrate communities following installation of an artificial reef" %}
-	{% include people-profile.html image="/images/Brooke_WS.jpg" url="" name="<b>Brooke Gibbons</b><small> (2017)</small><br />2017" %}
+	{% include people-profile.html image="/images/Brooke_WS.jpg" url="https://uwamegfisheries.github.io/staff/brooke-gibbons/" name="<b>Brooke Gibbons</b><small> (2017)</small><br />2017" %}
 	{% include people-profile.html image="/images/Ellen_DCruz.jpg" url="" name="<b>Ellen D'Cruz</b><small> (2017)</small><br />2017" %}
 	{% include people-profile.html image="/images/Ross_Gillis.jpg" url="" name="<b>Ross Gillis</b><small> (2017)</small><br />2017" %}
 	{% include people-profile.html image="/images/B_Vaughan.jpg" url="" name="<b>Brigit Vaughan</b><small> (2016)</small><br />" %}
 	{% include people-profile.html image="/images/Izzy_Lind.jpg" url="" name="<b>Isabella Lindgren</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Leah_Candland.jpg" url="" name="<b>Leah Candland</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/Mike_WS2.jpg" url="" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
+	{% include people-profile.html image="/images/Mike_WS2.jpg" url="https://uwamegfisheries.github.io/staff/michael-taylor/" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
 	{% include people-profile.html image="/images/Julia_Hab.jpg" url="" name="<b>Julia Haberstroh</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Salvador.png" url="" name="<b>Salvador Zarco</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/Emily_WS.jpg" url="" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
@@ -53,6 +53,6 @@ author_profile: false
 
 <h1 class="aboutPhil">Staff Alumni</h1><br />
 <font size="5"><figure class="third">{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matt Birt</b><br />Research Assistant" %}
-	{% include people-profile.html image="/images/Todd_WS.jpg" url="" name="<b>Todd Bond</b><br />Research Assistant" %}
+	{% include people-profile.html image="/images/Todd_WS.jpg" url="https://uwamegfisheries.github.io/students/todd-bond/" name="<b>Todd Bond</b><br />Research Assistant" %}
 </figure>
 </font>
