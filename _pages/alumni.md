@@ -37,7 +37,7 @@ author_profile: false
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="https://uwamegfisheries.github.io/students/emma-jade-tuffley/" name="<b>Emma-Jade Tufley</b><small> (2015)</small><br />2015 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katherine Bennett</b><small> (2015)</small><br />Can diver operated stereo-video surveys for fish be used to collect meaningful data on benthic coral reef communities?" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Mitchell Keys</b><small> (2015)</small><br />2015 -" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Amy Coghlan</b><small> (2014)</small><br />2014 - " %}
+	{% include people-profile.html image="/images/blank.png" url="https://www.sciencedirect.com/science/article/pii/S0022098117305063" name="<b>Amy Coghlan</b><small> (2014)</small><br />Does fish behaviour bias abundance and length information collected by baited underwater video?" %}
 	{% include people-profile.html image="/images/Kat_Bornt.jpg" url="https://link.springer.com/article/10.1007/s00338-015-1336-5" name="<b>Katrina Bornt</b><small> (2014)</small><br />Targeted demersal fish species exhibit variable responses to long-term protection from fishing at the Houtman Abrolhos Islands" %}
 	{% include people-profile.html image="/images/Michael_Brooker.jpg" url="https://uwamegfisheries.github.io/students/michael-brooker/" name="<b>Michael Brooker</b><small> (2014)</small><br />2014 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Alexander Gorham</b><small> (2013)</small><br />2013 - " %}
@@ -47,7 +47,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jean Dumas</b><small> (2010)</small><br />2010 - " %}
 	{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matthew Birt</b><small> (2010)</small><br />Between and within day variability in temperate reef fish assemblages" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Bryce McLaren</b><small> (2009)</small><br />2009 - " %}
-	{% include people-profile.html image="/images/blank.png" url="https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze" name="<b>Jordan Goetze</b><small> (2009)</small><br />2009 - " %}
+	{% include people-profile.html image="/images/blank.png" url="https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze" name="<b>Jordan Goetze</b><small> (2009)</small><br />Evidence of artisanal fishing impacts and depth refuge in assemblages of reef fish of a Fijian Island" %}
 </figure>
 </font>
 
