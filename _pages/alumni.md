@@ -20,14 +20,14 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Brigit Vaughan</b><small> (2016)</small><br />" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Isabella Lindgren</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Leah Candland</b><small> (2016)</small><br />2016" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
+	{% include people-profile.html image="/images/Mike_Taylor.jpg" url="" name="<b>Michael Taylor</b><small> (2016)</small><br />Ontogenetic shifts of the endemic *Lethrinus punctulatus* on the North West Shelf" %}
 	{% include people-profile.html image="/images/DOV_Julia.jpg" url="" name="<b>Julia Haberstroh</b><small> (2016)</small><br />2016" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Salvador Zarco</b><small> (2016)</small><br />2016" %}
-	</figure>
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Emily Lester</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>James Brightmore</b><small> (2014)</small><br />2014" %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Magen Schifiliti</b><small> (2014)</small><br />2014" %}	
+	{% include people-profile.html image="/images/blank.png" url="" name="<b>Magen Schifiliti</b><small> (2014)</small><br />2014" %}
+</figure>
 </font>
 
 <h1 class="aboutPhil">Honours Completions</h1><br />
@@ -48,5 +48,5 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Matthew Birt</b><small> (2010)</small><br />2010 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Bryce McLaren</b><small> (2009)</small><br />2009 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jordan Goetze</b><small> (2009)</small><br />2009 - " %}
-	</figure>
+</figure>
 </font>
