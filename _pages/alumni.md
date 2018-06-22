@@ -31,11 +31,11 @@ author_profile: false
 </font>
 
 <h1 class="aboutPhil">Honours Completions</h1><br />
-<font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Molly Moustaka</b><small> (2016)</small><br />2016 - The influence of suspended sediment on the fish assemblage of the nearshore Pilbara region of Western Australia." %}
+<font size="5"><figure class="third">{% include people-profile.html image="/images/blank.png" url="" name="<b>Molly Moustaka</b><small> (2016)</small><br />The influence of suspended sediment on the fish assemblage of the nearshore Pilbara region of Western Australia." %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Brandon Brooker</b><small> (2015)</small><br />2015 - " %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Danielle Collins</b><small> (2015)</small><br />2015 - A novel stereo-video method to investigate fish-habitat relationships" %}
+	{% include people-profile.html image="/images/blank.png" url="" name="<b>Danielle Collins</b><small> (2015)</small><br />A novel stereo-video method to investigate fish-habitat relationships" %}
 	{% include people-profile.html image="/images/MJ_WS.jpg" url="" name="<b>Emma Tufley</b><small> (2015)</small><br />2015 - " %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katherine Bennett</b><small> (2015)</small><br />2015 - Can diver operated stereo-video surveys for fish be used to collect meaningful data on benthic coral reef communities?" %}
+	{% include people-profile.html image="/images/blank.png" url="" name="<b>Katherine Bennett</b><small> (2015)</small><br />Can diver operated stereo-video surveys for fish be used to collect meaningful data on benthic coral reef communities?" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Mitchell Keys</b><small> (2015)</small><br />2015 -" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Amy Coghlan</b><small> (2014)</small><br />2014 - " %}
 	{% include people-profile.html image="/images/Kat_Bornt.jpg" url="" name="<b>Katrina Bornt</b><small> (2014)</small><br />2014 -" %}
@@ -45,7 +45,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jess Waters</b><small> (2012)</small><br />2012 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kate Hickey</b><small> (2012)</small><br />2012 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jean Dumas</b><small> (2010)</small><br />2010 - " %}
-	{% include people-profile.html image="/images/blank.png" url="" name="<b>Matthew Birt</b><small> (2010)</small><br />2010 - " %}
+	{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matthew Birt</b><small> (2010)</small><br />2010 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Bryce McLaren</b><small> (2009)</small><br />2009 - " %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jordan Goetze</b><small> (2009)</small><br />2009 - " %}
 </figure>
