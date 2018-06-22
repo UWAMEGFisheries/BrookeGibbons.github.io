@@ -12,9 +12,14 @@ main:
 
   - title: "Students"
     url: /students/
+    
+  - title: "Alumni"
+    url: /alumni/
 
   - title: "Contact"
     url: /contact/
+    
+
 
 
 projects:
