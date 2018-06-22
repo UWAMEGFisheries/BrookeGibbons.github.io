@@ -69,6 +69,8 @@ School of Biological Sciences (M470)<br>
   {% include archive-single.html %}
 {% endfor %}
 
+=======
+>>>>>>> d2a80e48ebdc7bbf6f0d48ad840d4fc04af6a180
 
 ## About me
 
