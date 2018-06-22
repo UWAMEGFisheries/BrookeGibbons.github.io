@@ -17,7 +17,7 @@ Decommissioning off shore infrastructure is a major global issue set to cost Aus
 I grew up in Perth and graduated from UWA in 2009 with an Honours degree in Marine Science. For the past 7 years I have worked with the Marine Ecology Group in the Fisheries Research Lab at UWA, using stereo-video to better understand fish ecology and communities throughout the world. Recently, I have been working with oil and gas operators on the North West Shelf to understand how fish may be interacting with their subsea infrastructure. 
 
 ## Supervisors
-Dr. Jane Prince, [Dr. Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean"), Prof. Julian Patridge, and Prof. David White
+Dr. Jane Prince, [Dr. Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/ "Dianne McLean"), Prof. Julian Patridge, and Prof. David White
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>

@@ -40,6 +40,7 @@ School of Biological Sciences (M470)<br>
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Tim_Langlois"> ResearchGate</a><br>
 
 
+<<<<<<< HEAD
 {% include base_path %}
 
 {% for post in site.publications reversed %}
