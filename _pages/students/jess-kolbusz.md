@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/Jess_L.jpg' align='right' width="350" hspace="20" vspace="10">
+<img class="philprofile" src='/images/Jess_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Influence of currents on Western Rock Lobster
 bla bla bla
