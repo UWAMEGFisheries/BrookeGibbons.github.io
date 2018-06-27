@@ -22,7 +22,7 @@ author_profile: false
 </font>
 
 <h1 class="aboutPhil">Masters Students</h1><br />
-<font size="5"><figure class="third">{% include people-profile.html image="/images/Ash_WS.jpg" url="https://uwamegfisheries.github.io/students/ashlyn-miller/" name="<b>Ashlyn Miller</b><br />Seismic survey impacts on Western Rock Lobster" %}
+<font size="5"><figure class="third">{% include people-profile.html image="/images/Ash_WS.jpg" url="https://uwamegfisheries.github.io/students/ashlyn-miller/" name="<b>Ash Miller</b><br />Improving estimates of natural mortality and growth rate of juvenile western rock lobsters <i>(Panulirus cygnus)</i> in Dongara, Western Australia." %}
 	{% include people-profile.html image="/images/Brock_WS.jpg" url="https://uwamegfisheries.github.io/students/brock-keymer/" name="<b>Brock Keymer</b><br />Assessing gregariousness in juvenile western rock lobsters and its implications for stock assessment" %}
 	{% include people-profile.html image="/images/Dan_WS.jpg" url="https://uwamegfisheries.github.io/students/daniel-lindstedt/" name="<b>Daniel Lindstedt</b><br />Catchability and behaviour of Western Rock Lobster" %}
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/harrison-carmody/" name="<b>Harrison Carmody</b><br />Shark depredation" %}
