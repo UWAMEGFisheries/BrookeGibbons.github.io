@@ -47,7 +47,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Jean Dumas</b><small> (2010)</small><br />2010 - " %}
 	{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matthew Birt</b><small> (2010)</small><br />Between and within day variability in temperate reef fish assemblages" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Bryce McLaren</b><small> (2009)</small><br />Assemblages of reef fish at Rottnest Island: The effects of protection, orientation and a comparison of stereo-video techniques" %}
-	{% include people-profile.html image="/images/blank.png" url="https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze" name="<b>Jordan Goetze</b><small> (2009)</small><br />Evidence of artisanal fishing impacts and depth refuge in assemblages of reef fish of a Fijian Island" %}
+	{% include people-profile.html image="/images/Jordan_Goetze.jpg" url="https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze" name="<b>Jordan Goetze</b><small> (2009)</small><br />Evidence of artisanal fishing impacts and depth refuge in assemblages of reef fish of a Fijian Island" %}
 </figure>
 </font>
 
