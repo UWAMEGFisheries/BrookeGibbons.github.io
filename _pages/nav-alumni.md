@@ -8,6 +8,7 @@ author_profile: false
 <font size="5"><figure class="third">{% include people-profile.html image="/images/Jordan_Goetze.jpg" url="https://staffportal.curtin.edu.au/staff/profile/view/Jordan.Goetze" name="<b>Jordan Goetze</b><small> (2016)</small><br />The effectiveness of periodically harvested closures as a fisheries management strategy" %}
 	{% include people-profile.html image="/images/blank.png" url="http://data.aims.gov.au/staffcv/jsf/external/view.xhtml?partyId=900006082" name="<b>Katherine Cure</b><small> (2016)</small><br />Biogeography and ecology of baldchin groper <i>Choerodon rubescens</i> in a changing climate" %}
 	{% include people-profile.html image="/images/blank.png" url="https://www.researchgate.net/profile/Julia_Santana-Garcon" name="<b>Julia Santana-Garcon</b><small> (2015)</small><br />Pelagic stereo-BRUVs: development and implementation of a fishery-independent technique to study pelagic fish assemblages" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
 
@@ -27,6 +28,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />2015" %}
 	{% include people-profile.html image="/images/blank.png" url="" name="<b>James Brightmore</b><small> (2014)</small><br />A meta-analysis to compare visual and stereo-video sampling of fished and no-take areas around a Fijian marine reserve" %}
 	{% include people-profile.html image="/images/blank.png" url="https://peerj.com/preprints/708v1.pdf" name="<b>Magen Schifiliti</b><small> (2014)</small><br />Are depredation rates by reef sharks influenced by fisher behaviour?" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
 
