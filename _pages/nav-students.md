@@ -28,6 +28,7 @@ author_profile: false
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/harrison-carmody/" name="<b>Harrison Carmody</b><br />Shark depredation" %}
 	{% include people-profile.html image="/images/Oscar_WS.jpg" url="https://uwamegfisheries.github.io/students/oscar-doncel-canon/" name="<b>Oscar Doncel Canon</b><br />Catch rate of white Western Rock Lobster" %}
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/sam-bock/" name="<b>Sam Bock</b><br />Artficial Reef" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
-
