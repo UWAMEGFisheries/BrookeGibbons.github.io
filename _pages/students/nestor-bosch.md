@@ -14,7 +14,7 @@ Marine fishes are a highly diversified taxa with a diverse array of biological a
 I graduated in biological sciences with a major in marine biology in the University of La Laguna (Canary Islands, Spain). In 2016, I obtained a “summa cum laude” master degree in Marine Biodiversity and Conservation (EMBC+ program) at the University of Ghent (Belgium). My research have been focused on understanding the extent to which different anthropogenic activities are modifying the range of functions performed by marine organism at a range of scales, with a particular interest in reef fishes. During these years, I have had the opportunity to collaborate in several research programs ranging from foundation species (e.g. seagrass and rhodolith beds), marine megafauna, and fish ecology that is now my main research of interest.
 
 ## Supervisors
-[Dr. Thomas Wernberg](https://wernberglab.org/) (UWA), [Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois") (UWA), Dr. Adriana Verges (UNSW) and Dr. Mat Vanderklift (CSIRO).
+[Dr. Thomas Wernberg](https://wernberglab.org/) (UWA), [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois") (UWA), Dr. Adriana Verges (UNSW) and Dr. Mat Vanderklift (CSIRO).
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
