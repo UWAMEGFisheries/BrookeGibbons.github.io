@@ -6,19 +6,8 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
+## Catch rate of white Western Rock Lobster
 <img class="philprofile" src='/images/Oscar_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
-## Catch rate of white Western Rock Lobster
-bla bla bla
-
 ## Supervisors
-- [Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois")
-
-## Qualifications
--
--
-
-## Achievements and Awards
--
--
-
+[Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois")
