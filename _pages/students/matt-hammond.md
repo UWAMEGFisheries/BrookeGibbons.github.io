@@ -6,18 +6,8 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
+## Fish assemblages on Artifical Reef
 <img class="philprofile" src='/images/Matt_WS.JPG' align='right' width="350" hspace="20" vspace="10">
 
-## Fish assemblages on Artifical Reef
-bla bla bla
-
 ## Supervisors
-- [Dianne McLean](https://uwamegfisheries.github.io/academics/dianne-mclean/ "Dianne McLean")
-
-## Qualifications
--
--
-
-## Achievements and Awards
--
--
+[Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/ "Dianne McLean") and [Todd Bond](https://uwamegfisheries.github.io/students/todd-bond/)
