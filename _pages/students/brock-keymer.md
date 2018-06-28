@@ -6,9 +6,8 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-<img class="philprofile" src='/images/Brock_WS.jpg' align='right' width="350" hspace="20" vspace="10">
-
 ## Catchability of juvenile Western Rock Lobster
+<img class="philprofile" src='/images/Brock_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## About me
 
