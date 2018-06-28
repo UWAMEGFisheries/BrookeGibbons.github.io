@@ -54,5 +54,7 @@ author_profile: false
 <h1 class="aboutPhil">Staff Alumni</h1><br />
 <font size="5"><figure class="third">{% include people-profile.html image="/images/Matt_Birt.jpg" url="" name="<b>Matt Birt</b><br />Research Assistant" %}
 	{% include people-profile.html image="/images/Todd_WS.jpg" url="https://uwamegfisheries.github.io/students/todd-bond/" name="<b>Todd Bond</b><br />Research Assistant" %}
+        {% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
