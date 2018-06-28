@@ -7,11 +7,7 @@ classes: wide
 sidebar:
   nav: "students"
 ---
-## Project Title
-<img class="philprofile" src='/images/' align='right' width="350" hspace="20" vspace="10">
-About project
-
-## About me
+## Shark depredation
 
 ## Supervisors
 [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/)
