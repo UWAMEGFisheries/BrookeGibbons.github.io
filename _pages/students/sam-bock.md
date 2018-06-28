@@ -1,5 +1,5 @@
 ---
-permalink: /students/sam-brock/
+permalink: /students/sam-bock/
 title: "Sam Bock"
 excerpt: "Sam Bock"
 author_profile: false
