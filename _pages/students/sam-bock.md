@@ -7,7 +7,6 @@ sidebar:
   nav: "students"
 ---
 ## Artificial Reefs
-<img class="philprofile" src='/images/Sam.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Supervisors
 [Todd Bond](https://uwamegfisheries.github.io/students/todd-bond/ "Todd Bond")
