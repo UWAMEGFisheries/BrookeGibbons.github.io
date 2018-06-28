@@ -16,7 +16,7 @@ Using multiple different methods - fieldwork, statistical analyses and modelling
 I previously graduated from the University of Tasmania and the Institute of Marine and Antarctic Studies with a Bachelor of Science (Applied Mathematics and Zoology) and Honours in Marine Science. Currently my interest is in quantifying the resilience of coral reef communities, considering how acute and chronic disturbances shape complex ecosystems. I moved to Perth to do my PhD as part of the Ningaloo Outlook CSIRO-BHP Marine Research Partnership in 2015. I am pursuing a career that will allow me to help conserve and enhance our understandings of marine environments at a time of rapid global change.
 
 ## Supervisors
-Michael Renton, [Dr. Tim Langlois](https://uwamegfisheries.github.io/academics/tim-langlois/ "Tim Langlois"), Damian Thomson and Mick Haywood
+Michael Renton, [Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Damian Thomson and Mick Haywood
 
 ## Contact
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre <br>
