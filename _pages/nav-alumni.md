@@ -29,7 +29,6 @@ author_profile: false
 	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="<b>Kelly Rensing</b><small> (2015)</small><br />" %}
 	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="<b>James Brightmore</b><small> (2014)</small><br />A meta-analysis to compare visual and stereo-video sampling of fished and no-take areas around a Fijian marine reserve" %}
 	{% include people-profile.html image="/images/blankprofile.PNG" url="https://peerj.com/preprints/708v1.pdf" name="<b>Magen Schifiliti</b><small> (2014)</small><br />Are depredation rates by reef sharks influenced by fisher behaviour?" %}
-	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
 
