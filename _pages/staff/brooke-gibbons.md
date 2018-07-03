@@ -20,6 +20,7 @@ School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
 <p class="phoneemail"><i class="far fa-envelope-open"></i>&nbsp;&nbsp;<a href="mailto:brooke.gibbons@uwa.edu.au"> brooke.gibbons@uwa.edu.au</a><br>
+<i class="fas fa-phone"></i>&nbsp;&nbsp; +618 6488 4364<br>
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com.au/citations?hl=en&user=dr24hoMAAAAJ">Google Scholar</a><br>
 <i class="fab fa-researchgate"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Brooke_Gibbons"> ResearchGate</a><br>
 
