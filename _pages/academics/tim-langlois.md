@@ -54,7 +54,7 @@ After university I worked for 6 months with the Royal Geographical Society in Ma
 
 During my PhD I was involved in the monitoring of fish and lobster populations inside and outside marine reserves in both New Zealand and New Caledonia, and piloted stereo baited video equipment, borrowed from [Dianne McLean](https://uwamegfisheries.github.io/researchers/dianne-mclean/ "Dianne McLean") and [Euan Harvey](https://theconversation.com/profiles/euan-harvey-11039 "Euan Harvey") at the University of Western Australia. 
 
-This led me over to Perth, where I worked with [Jessica Meeuwig](http://www.meeuwig.org/current-members/jessica-meeuwig/ "Jessica Meeuwig") and Euan Harvey on the Securing Marine Futures project. I then undertook a post-doc with the [West Australian Marine Science Institute](https://www.wamsi.org.au/home "WAMSI") developing monitoring approaches to disentangle the effects of global warming and fishing. I then took up a research and teaching postion at UWA.
+This led me over to Perth, where I worked with [Jessica Meeuwig](http://www.meeuwig.org/current-members/jessica-meeuwig/ "Jessica Meeuwig"), [Gary Kendrick](https://www.seagrassresearch.net/gary-kendrick "Gary Kendrick") and Euan Harvey on the Securing Marine Futures project. I then undertook a post-doc with the [West Australian Marine Science Institute](https://www.wamsi.org.au/home "WAMSI") developing monitoring approaches to disentangle the effects of global warming and fishing. I then took up a research and teaching postion at UWA.
 
 
 
