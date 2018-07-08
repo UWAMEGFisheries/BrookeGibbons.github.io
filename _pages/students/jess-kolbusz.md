@@ -14,7 +14,7 @@ The settlement of the Western Rock Lobster (early-stage known as puerulus) have 
 I grew up in Perth and completed my Bachelor in Environmental Systems Engineering (Ocean Systems) in 2013 from UWA with a Diploma in Modern Languages (Italian). I did a lot of travelling in this time and then worked for a couple of years for a wave energy company based in Fremantle. Deciding I loved marine science lead me to complete a Masters in Marine Conservation and Management in 2017 which lead me to start this PhD at the start of 2018.
 
 ## Supervisors
-Prof Charitha Pattiaratchi (OGS), [Dr Timothy Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/), and Dr Simon de Lestang (DPIRD)
+Prof Charitha Pattiaratchi (OGS), [Dr Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/), and Dr Simon de Lestang (DPIRD)
 
 
 ## Contact

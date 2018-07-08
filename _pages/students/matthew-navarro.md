@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "students"
 ---
-## Trade-off no-take areas
+## Cost-benefit analysis of no-take areas
 <img class="philprofile" src='/images/Matt_N_WS.jpg' align='right' width="350" hspace="20" vspace="10">
 
 ## Supervisors
