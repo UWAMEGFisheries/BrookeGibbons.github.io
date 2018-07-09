@@ -4,7 +4,7 @@ title: "Get in touch"
 permalink: /contact/
 author_profile: false
 ---
-<img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right' width="800" >
+<img src='/images/BRUV_Steve_2.jpg' vspace="5" align='right' style="width: 70%" >
 <h1 class="aboutPhil">Get in touch</h1>
 
 <p class="address"><i class="far fa-building"></i> Indian Ocean Marine Research Centre<br>
