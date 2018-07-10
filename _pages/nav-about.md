@@ -9,7 +9,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.3"
   overlay_image: /Reef.jpg
-excerpt: "We are based at the University of Western Australia. Our research team are part of the [School of Biological Sciences](http://www.science.uwa.edu.au/schools/biological-sciences) and [Oceans Graduate School](http://handbooks.uwa.edu.au/units?section=unitcode&faccode=60&deptcode=01470), we are members of the [Oceans Institute](http://www.oceans.uwa.edu.au). <br> <br>Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all."
+excerpt: "We are based at the University of Western Australia. Our research team are part of the [School of Biological Sciences](http://www.science.uwa.edu.au/schools/biological-sciences) and [Oceans Graduate School](http://handbooks.uwa.edu.au/units?section=unitcode&faccode=60&deptcode=01470), we are members of the [Oceans Institute](http://www.oceans.uwa.edu.au) and located in the [Indian Ocean Marine Research Centre](http://www.oceans.uwa.edu.au/collaborations#centre "IOMRC").
+<br> <br>Our aim is to produce information for the public and decision makers to understand how marine ecosystems can be managed for the benefit of all."
 
 
 
