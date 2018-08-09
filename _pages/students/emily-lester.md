@@ -1,7 +1,7 @@
 ---
-permalink: /students/todd-bond/
-title: "Todd Bond"
-excerpt: "Todd Bond"
+permalink: /students/emily-lester/
+title: "Emily Lester"
+excerpt: "Emily Lester"
 author_profile: false
 classes: wide
 sidebar:
