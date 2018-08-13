@@ -19,6 +19,8 @@ author_profile: false
 	{% include people-profile.html image="/images/Salvador.png" url="https://uwamegfisheries.github.io/students/salvador-zarco-perello/" name="<b>Salvador Zarco Perello</b><br />Persistence and impact of tropical herbivorous fish on temperate ecosystems" align="" %}
 	{% include people-profile.html image="/images/Todd_WS.jpg" url="https://uwamegfisheries.github.io/students/todd-bond/" name="<b>Todd Bond</b><br />The influence of subsea infrastructure on fish and fisheries and the implications for decommissioning" align="" %}
 	{% include people-profile.html image="/images/Yannick_WS.jpg" url="https://uwamegfisheries.github.io/students/yannick-mulders/" name="<b>Yannick Mulders</b><br />Ecological functions and functional redundancy between different habitat-forming seaweeds" align="" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
+	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
 
