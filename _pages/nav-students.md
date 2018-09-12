@@ -29,7 +29,5 @@ author_profile: false
 	{% include people-profile.html image="/images/Dan_WS.jpg" url="https://uwamegfisheries.github.io/students/daniel-lindstedt/" name="<b>Daniel Lindstedt</b><br />Catchability and behaviour of Western Rock Lobster" %}
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/harrison-carmody/" name="<b>Harrison Carmody</b><br />Understanding the factors influencing shark depredation in Western Australia’s Mackerel Managed Fishery" %}
 	{% include people-profile.html image="/images/blank.png" url="https://uwamegfisheries.github.io/students/sam-bock/" name="<b>Sam Bock</b><br />Artficial Reef" %}
-	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
-	{% include people-profile.html image="/images/blankprofile.PNG" url="" name="" %}
 </figure>
 </font>
